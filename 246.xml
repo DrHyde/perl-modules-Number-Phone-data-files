@@ -1,0 +1,5656 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE root [
+<!ENTITY Aacute           "&#x000C1;" >
+<!ENTITY aacute           "&#x000E1;" >
+<!ENTITY Acirc            "&#x000C2;" >
+<!ENTITY acirc            "&#x000E2;" >
+<!ENTITY acute            "&#x000B4;" >
+<!ENTITY AElig            "&#x000C6;" >
+<!ENTITY aelig            "&#x000E6;" >
+<!ENTITY Agrave           "&#x000C0;" >
+<!ENTITY agrave           "&#x000E0;" >
+<!ENTITY Aring            "&#x000C5;" >
+<!ENTITY aring            "&#x000E5;" >
+<!ENTITY Atilde           "&#x000C3;" >
+<!ENTITY atilde           "&#x000E3;" >
+<!ENTITY Auml             "&#x000C4;" >
+<!ENTITY auml             "&#x000E4;" >
+<!ENTITY brvbar           "&#x000A6;" >
+<!ENTITY Ccedil           "&#x000C7;" >
+<!ENTITY ccedil           "&#x000E7;" >
+<!ENTITY cedil            "&#x000B8;" >
+<!ENTITY cent             "&#x000A2;" >
+<!ENTITY copy             "&#x000A9;" >
+<!ENTITY curren           "&#x000A4;" >
+<!ENTITY deg              "&#x000B0;" >
+<!ENTITY divide           "&#x000F7;" >
+<!ENTITY Eacute           "&#x000C9;" >
+<!ENTITY eacute           "&#x000E9;" >
+<!ENTITY Ecirc            "&#x000CA;" >
+<!ENTITY ecirc            "&#x000EA;" >
+<!ENTITY Egrave           "&#x000C8;" >
+<!ENTITY egrave           "&#x000E8;" >
+<!ENTITY ETH              "&#x000D0;" >
+<!ENTITY eth              "&#x000F0;" >
+<!ENTITY Euml             "&#x000CB;" >
+<!ENTITY euml             "&#x000EB;" >
+<!ENTITY frac12           "&#x000BD;" >
+<!ENTITY frac14           "&#x000BC;" >
+<!ENTITY frac34           "&#x000BE;" >
+<!ENTITY Iacute           "&#x000CD;" >
+<!ENTITY iacute           "&#x000ED;" >
+<!ENTITY Icirc            "&#x000CE;" >
+<!ENTITY icirc            "&#x000EE;" >
+<!ENTITY iexcl            "&#x000A1;" >
+<!ENTITY Igrave           "&#x000CC;" >
+<!ENTITY igrave           "&#x000EC;" >
+<!ENTITY iquest           "&#x000BF;" >
+<!ENTITY Iuml             "&#x000CF;" >
+<!ENTITY iuml             "&#x000EF;" >
+<!ENTITY laquo            "&#x000AB;" >
+<!ENTITY macr             "&#x000AF;" >
+<!ENTITY micro            "&#x000B5;" >
+<!ENTITY middot           "&#x000B7;" >
+<!ENTITY nbsp             "&#x000A0;" >
+<!ENTITY not              "&#x000AC;" >
+<!ENTITY Ntilde           "&#x000D1;" >
+<!ENTITY ntilde           "&#x000F1;" >
+<!ENTITY Oacute           "&#x000D3;" >
+<!ENTITY oacute           "&#x000F3;" >
+<!ENTITY Ocirc            "&#x000D4;" >
+<!ENTITY ocirc            "&#x000F4;" >
+<!ENTITY Ograve           "&#x000D2;" >
+<!ENTITY ograve           "&#x000F2;" >
+<!ENTITY ordf             "&#x000AA;" >
+<!ENTITY ordm             "&#x000BA;" >
+<!ENTITY Oslash           "&#x000D8;" >
+<!ENTITY oslash           "&#x000F8;" >
+<!ENTITY Otilde           "&#x000D5;" >
+<!ENTITY otilde           "&#x000F5;" >
+<!ENTITY Ouml             "&#x000D6;" >
+<!ENTITY ouml             "&#x000F6;" >
+<!ENTITY para             "&#x000B6;" >
+<!ENTITY plusmn           "&#x000B1;" >
+<!ENTITY pound            "&#x000A3;" >
+<!ENTITY raquo            "&#x000BB;" >
+<!ENTITY reg              "&#x000AE;" >
+<!ENTITY sect             "&#x000A7;" >
+<!ENTITY shy              "&#x000AD;" >
+<!ENTITY sup1             "&#x000B9;" >
+<!ENTITY sup2             "&#x000B2;" >
+<!ENTITY sup3             "&#x000B3;" >
+<!ENTITY szlig            "&#x000DF;" >
+<!ENTITY THORN            "&#x000DE;" >
+<!ENTITY thorn            "&#x000FE;" >
+<!ENTITY times            "&#x000D7;" >
+<!ENTITY Uacute           "&#x000DA;" >
+<!ENTITY uacute           "&#x000FA;" >
+<!ENTITY Ucirc            "&#x000DB;" >
+<!ENTITY ucirc            "&#x000FB;" >
+<!ENTITY Ugrave           "&#x000D9;" >
+<!ENTITY ugrave           "&#x000F9;" >
+<!ENTITY uml              "&#x000A8;" >
+<!ENTITY Uuml             "&#x000DC;" >
+<!ENTITY uuml             "&#x000FC;" >
+<!ENTITY Yacute           "&#x000DD;" >
+<!ENTITY yacute           "&#x000FD;" >
+<!ENTITY yen              "&#x000A5;" >
+<!ENTITY yuml             "&#x000FF;" >
+<!ELEMENT root         (inputdata,prefixdata*,error*)>
+<!ELEMENT error         (#PCDATA)>
+<!ELEMENT inputdata    (npa?,nxx?,x?,exch?,rc?,region?,switch?,lata?,lir?,ocn?,blocks?,pastdays?,nextdays?,udate?)>
+<!ELEMENT prefixdata   (npa,nxx,x,exch,udate,rc,region,switch,switchname,switchtype,lata,lir,ocn,company-name,ilec-ocn,ilec-name,rc-v,rc-h,rc-lat,rc-lon,effdate,discdate)>
+<!ELEMENT npa          (#PCDATA)>
+<!ELEMENT nxx          (#PCDATA)>
+<!ELEMENT x            (#PCDATA)>
+<!ELEMENT exch         (#PCDATA)>
+<!ELEMENT udate        (#PCDATA)>
+<!ELEMENT rc           (#PCDATA)>
+<!ELEMENT region       (#PCDATA)>
+<!ELEMENT switch       (#PCDATA)>
+<!ELEMENT switchname   (#PCDATA)>
+<!ELEMENT switchtype   (#PCDATA)>
+<!ELEMENT lata         (#PCDATA)>
+<!ELEMENT lir          (#PCDATA)>
+<!ELEMENT ocn          (#PCDATA)>
+<!ELEMENT company-name (#PCDATA)>
+<!ELEMENT company-type (#PCDATA)>
+<!ELEMENT ilec-ocn     (#PCDATA)>
+<!ELEMENT ilec-name    (#PCDATA)>
+<!ELEMENT rc-v         (#PCDATA)>
+<!ELEMENT rc-h         (#PCDATA)>
+<!ELEMENT rc-lat       (#PCDATA)>
+<!ELEMENT rc-lon       (#PCDATA)>
+<!ELEMENT effdate      (#PCDATA)>
+<!ELEMENT discdate     (#PCDATA)>
+]>
+<root>
+<inputdata>
+<npa>246</npa>
+</inputdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>223</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>SWCHBDUNKNO</switch>
+<switchname>X</switchname>
+<switchtype>5E</switchtype>
+<ocn>070H</ocn>
+<company-name>ACE COMMUNICATIONS INC.</company-name>
+<company-type>C</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>227</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBDAA00T</switch>
+<switchname></switchname>
+<switchtype>TDM</switchtype>
+<ocn>8904</ocn>
+<company-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</company-name>
+<company-type>I</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>228</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBDAA00T</switch>
+<switchname></switchname>
+<switchtype>TDM</switchtype>
+<ocn>8904</ocn>
+<company-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</company-name>
+<company-type>I</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>229</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBDAA00T</switch>
+<switchname></switchname>
+<switchtype>TDM</switchtype>
+<ocn>8904</ocn>
+<company-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</company-name>
+<company-type>I</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>230</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBDAA00T</switch>
+<switchname></switchname>
+<switchtype>TDM</switchtype>
+<ocn>8904</ocn>
+<company-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</company-name>
+<company-type>I</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>231</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBDAA00T</switch>
+<switchname></switchname>
+<switchtype>TDM</switchtype>
+<ocn>8904</ocn>
+<company-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</company-name>
+<company-type>I</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>232</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBDAA00T</switch>
+<switchname></switchname>
+<switchtype>TDM</switchtype>
+<ocn>8904</ocn>
+<company-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</company-name>
+<company-type>I</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>233</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBDAA00T</switch>
+<switchname></switchname>
+<switchtype>TDM</switchtype>
+<ocn>8904</ocn>
+<company-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</company-name>
+<company-type>I</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>234</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBDAA00T</switch>
+<switchname></switchname>
+<switchtype>TDM</switchtype>
+<ocn>8904</ocn>
+<company-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</company-name>
+<company-type>I</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>235</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBDAA00T</switch>
+<switchname></switchname>
+<switchtype>TDM</switchtype>
+<ocn>8904</ocn>
+<company-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</company-name>
+<company-type>I</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>236</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBDAA00T</switch>
+<switchname></switchname>
+<switchtype>TDM</switchtype>
+<ocn>8904</ocn>
+<company-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</company-name>
+<company-type>I</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>237</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBDAA00T</switch>
+<switchname></switchname>
+<switchtype>TDM</switchtype>
+<ocn>8904</ocn>
+<company-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</company-name>
+<company-type>I</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>238</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBDAA00T</switch>
+<switchname></switchname>
+<switchtype>TDM</switchtype>
+<ocn>8904</ocn>
+<company-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</company-name>
+<company-type>I</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>239</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBDAA00T</switch>
+<switchname></switchname>
+<switchtype>TDM</switchtype>
+<ocn>8904</ocn>
+<company-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</company-name>
+<company-type>I</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>240</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBDAA00T</switch>
+<switchname></switchname>
+<switchtype>TDM</switchtype>
+<ocn>8904</ocn>
+<company-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</company-name>
+<company-type>I</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>241</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBDAA00T</switch>
+<switchname></switchname>
+<switchtype>TDM</switchtype>
+<ocn>8904</ocn>
+<company-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</company-name>
+<company-type>I</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>242</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBDAA00T</switch>
+<switchname></switchname>
+<switchtype>TDM</switchtype>
+<ocn>8904</ocn>
+<company-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</company-name>
+<company-type>I</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>243</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBDAA00T</switch>
+<switchname></switchname>
+<switchtype>TDM</switchtype>
+<ocn>8904</ocn>
+<company-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</company-name>
+<company-type>I</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>244</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBDAA00T</switch>
+<switchname></switchname>
+<switchtype>TDM</switchtype>
+<ocn>8904</ocn>
+<company-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</company-name>
+<company-type>I</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>245</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBDAA00T</switch>
+<switchname></switchname>
+<switchtype>TDM</switchtype>
+<ocn>8904</ocn>
+<company-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</company-name>
+<company-type>I</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>247</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBDAA00T</switch>
+<switchname></switchname>
+<switchtype>TDM</switchtype>
+<ocn>8904</ocn>
+<company-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</company-name>
+<company-type>I</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>248</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBDAA00T</switch>
+<switchname></switchname>
+<switchtype>TDM</switchtype>
+<ocn>8904</ocn>
+<company-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</company-name>
+<company-type>I</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>249</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBDAA00T</switch>
+<switchname></switchname>
+<switchtype>TDM</switchtype>
+<ocn>8904</ocn>
+<company-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</company-name>
+<company-type>I</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>250</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBDAA00T</switch>
+<switchname></switchname>
+<switchtype>TDM</switchtype>
+<ocn>8904</ocn>
+<company-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</company-name>
+<company-type>I</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>251</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBDAA00T</switch>
+<switchname></switchname>
+<switchtype>TDM</switchtype>
+<ocn>8904</ocn>
+<company-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</company-name>
+<company-type>I</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>252</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBDAA00T</switch>
+<switchname></switchname>
+<switchtype>TDM</switchtype>
+<ocn>8904</ocn>
+<company-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</company-name>
+<company-type>I</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>253</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBDAA00T</switch>
+<switchname></switchname>
+<switchtype>TDM</switchtype>
+<ocn>8904</ocn>
+<company-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</company-name>
+<company-type>I</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>254</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBDAA00T</switch>
+<switchname></switchname>
+<switchtype>TDM</switchtype>
+<ocn>8904</ocn>
+<company-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</company-name>
+<company-type>I</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>255</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBDAA00T</switch>
+<switchname></switchname>
+<switchtype>TDM</switchtype>
+<ocn>8904</ocn>
+<company-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</company-name>
+<company-type>I</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>256</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBD02CM0</switch>
+<switchname>ST MICHAEL</switchname>
+<switchtype>AXT</switchtype>
+<ocn>059B</ocn>
+<company-name>DIGICEL (BARBABOS) LIMITED</company-name>
+<company-type>W</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>257</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBD02CM0</switch>
+<switchname>ST MICHAEL</switchname>
+<switchtype>AXT</switchtype>
+<ocn>059B</ocn>
+<company-name>DIGICEL (BARBABOS) LIMITED</company-name>
+<company-type>W</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>258</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBD02CM0</switch>
+<switchname>ST MICHAEL</switchname>
+<switchtype>AXT</switchtype>
+<ocn>059B</ocn>
+<company-name>DIGICEL (BARBABOS) LIMITED</company-name>
+<company-type>W</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>259</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBD02CM0</switch>
+<switchname>ST MICHAEL</switchname>
+<switchtype>AXT</switchtype>
+<ocn>059B</ocn>
+<company-name>DIGICEL (BARBABOS) LIMITED</company-name>
+<company-type>W</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>260</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBD02CM0</switch>
+<switchname>ST MICHAEL</switchname>
+<switchtype>AXT</switchtype>
+<ocn>059B</ocn>
+<company-name>DIGICEL (BARBABOS) LIMITED</company-name>
+<company-type>W</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>261</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBD02CM0</switch>
+<switchname>ST MICHAEL</switchname>
+<switchtype>AXT</switchtype>
+<ocn>059B</ocn>
+<company-name>DIGICEL (BARBABOS) LIMITED</company-name>
+<company-type>W</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>262</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBD02CM0</switch>
+<switchname>ST MICHAEL</switchname>
+<switchtype>AXT</switchtype>
+<ocn>059B</ocn>
+<company-name>DIGICEL (BARBABOS) LIMITED</company-name>
+<company-type>W</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>263</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBD02CM0</switch>
+<switchname>ST MICHAEL</switchname>
+<switchtype>AXT</switchtype>
+<ocn>059B</ocn>
+<company-name>DIGICEL (BARBABOS) LIMITED</company-name>
+<company-type>W</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>264</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBD02CM0</switch>
+<switchname>ST MICHAEL</switchname>
+<switchtype>AXT</switchtype>
+<ocn>059B</ocn>
+<company-name>DIGICEL (BARBABOS) LIMITED</company-name>
+<company-type>W</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>265</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBD02CM0</switch>
+<switchname>ST MICHAEL</switchname>
+<switchtype>AXT</switchtype>
+<ocn>059B</ocn>
+<company-name>DIGICEL (BARBABOS) LIMITED</company-name>
+<company-type>W</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>266</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBD02CM0</switch>
+<switchname>ST MICHAEL</switchname>
+<switchtype>AXT</switchtype>
+<ocn>059B</ocn>
+<company-name>DIGICEL (BARBABOS) LIMITED</company-name>
+<company-type>W</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>267</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBD02CM0</switch>
+<switchname>ST MICHAEL</switchname>
+<switchtype>AXT</switchtype>
+<ocn>059B</ocn>
+<company-name>DIGICEL (BARBABOS) LIMITED</company-name>
+<company-type>W</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>268</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBD02CM0</switch>
+<switchname>ST MICHAEL</switchname>
+<switchtype>AXT</switchtype>
+<ocn>059B</ocn>
+<company-name>DIGICEL (BARBABOS) LIMITED</company-name>
+<company-type>W</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>269</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBD02CM0</switch>
+<switchname>ST MICHAEL</switchname>
+<switchtype>AXT</switchtype>
+<ocn>059B</ocn>
+<company-name>DIGICEL (BARBABOS) LIMITED</company-name>
+<company-type>W</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>270</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBDAA00T</switch>
+<switchname></switchname>
+<switchtype>TDM</switchtype>
+<ocn>8904</ocn>
+<company-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</company-name>
+<company-type>I</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>271</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBDAA00T</switch>
+<switchname></switchname>
+<switchtype>TDM</switchtype>
+<ocn>8904</ocn>
+<company-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</company-name>
+<company-type>I</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>272</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBDAA00T</switch>
+<switchname></switchname>
+<switchtype>TDM</switchtype>
+<ocn>8904</ocn>
+<company-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</company-name>
+<company-type>I</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>273</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBDAA00T</switch>
+<switchname></switchname>
+<switchtype>TDM</switchtype>
+<ocn>8904</ocn>
+<company-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</company-name>
+<company-type>I</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>274</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBDAA00T</switch>
+<switchname></switchname>
+<switchtype>TDM</switchtype>
+<ocn>8904</ocn>
+<company-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</company-name>
+<company-type>I</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>280</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBDAA00T</switch>
+<switchname></switchname>
+<switchtype>TDM</switchtype>
+<ocn>8904</ocn>
+<company-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</company-name>
+<company-type>I</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>281</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBDAA00T</switch>
+<switchname></switchname>
+<switchtype>TDM</switchtype>
+<ocn>8904</ocn>
+<company-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</company-name>
+<company-type>I</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>282</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBDAA00T</switch>
+<switchname></switchname>
+<switchtype>TDM</switchtype>
+<ocn>8904</ocn>
+<company-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</company-name>
+<company-type>I</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>283</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBDAA00T</switch>
+<switchname></switchname>
+<switchtype>TDM</switchtype>
+<ocn>8904</ocn>
+<company-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</company-name>
+<company-type>I</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>284</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBDAA00T</switch>
+<switchname></switchname>
+<switchtype>TDM</switchtype>
+<ocn>8904</ocn>
+<company-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</company-name>
+<company-type>I</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>285</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBDAA00T</switch>
+<switchname></switchname>
+<switchtype>TDM</switchtype>
+<ocn>8904</ocn>
+<company-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</company-name>
+<company-type>I</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>286</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBDAA00T</switch>
+<switchname></switchname>
+<switchtype>TDM</switchtype>
+<ocn>8904</ocn>
+<company-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</company-name>
+<company-type>I</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>287</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBDAA00T</switch>
+<switchname></switchname>
+<switchtype>TDM</switchtype>
+<ocn>8904</ocn>
+<company-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</company-name>
+<company-type>I</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>288</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBDAA00T</switch>
+<switchname></switchname>
+<switchtype>TDM</switchtype>
+<ocn>8904</ocn>
+<company-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</company-name>
+<company-type>I</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>289</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBDAA00T</switch>
+<switchname></switchname>
+<switchtype>TDM</switchtype>
+<ocn>8904</ocn>
+<company-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</company-name>
+<company-type>I</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>292</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBDAA00T</switch>
+<switchname></switchname>
+<switchtype>TDM</switchtype>
+<ocn>8904</ocn>
+<company-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</company-name>
+<company-type>I</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>310</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBDAA00T</switch>
+<switchname></switchname>
+<switchtype>TDM</switchtype>
+<ocn>8904</ocn>
+<company-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</company-name>
+<company-type>I</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>312</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBDAA00T</switch>
+<switchname></switchname>
+<switchtype>TDM</switchtype>
+<ocn>8904</ocn>
+<company-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</company-name>
+<company-type>I</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>313</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBDAA00T</switch>
+<switchname></switchname>
+<switchtype>TDM</switchtype>
+<ocn>8904</ocn>
+<company-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</company-name>
+<company-type>I</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>314</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBDAA00T</switch>
+<switchname></switchname>
+<switchtype>TDM</switchtype>
+<ocn>8904</ocn>
+<company-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</company-name>
+<company-type>I</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>315</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBDAA00T</switch>
+<switchname></switchname>
+<switchtype>TDM</switchtype>
+<ocn>8904</ocn>
+<company-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</company-name>
+<company-type>I</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>316</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBDAA00T</switch>
+<switchname></switchname>
+<switchtype>TDM</switchtype>
+<ocn>8904</ocn>
+<company-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</company-name>
+<company-type>I</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>317</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBDAA00T</switch>
+<switchname></switchname>
+<switchtype>TDM</switchtype>
+<ocn>8904</ocn>
+<company-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</company-name>
+<company-type>I</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>318</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBDAA00T</switch>
+<switchname></switchname>
+<switchtype>TDM</switchtype>
+<ocn>8904</ocn>
+<company-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</company-name>
+<company-type>I</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>319</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBDAA00T</switch>
+<switchname></switchname>
+<switchtype>TDM</switchtype>
+<ocn>8904</ocn>
+<company-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</company-name>
+<company-type>I</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>352</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBDAA00T</switch>
+<switchname></switchname>
+<switchtype>TDM</switchtype>
+<ocn>8904</ocn>
+<company-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</company-name>
+<company-type>I</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>353</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBDAA00T</switch>
+<switchname></switchname>
+<switchtype>TDM</switchtype>
+<ocn>8904</ocn>
+<company-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</company-name>
+<company-type>I</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>354</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBDAA00T</switch>
+<switchname></switchname>
+<switchtype>TDM</switchtype>
+<ocn>8904</ocn>
+<company-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</company-name>
+<company-type>I</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>355</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBDAA00T</switch>
+<switchname></switchname>
+<switchtype>TDM</switchtype>
+<ocn>8904</ocn>
+<company-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</company-name>
+<company-type>I</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>356</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBDAA00T</switch>
+<switchname></switchname>
+<switchtype>TDM</switchtype>
+<ocn>8904</ocn>
+<company-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</company-name>
+<company-type>I</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>357</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBDAA00T</switch>
+<switchname></switchname>
+<switchtype>TDM</switchtype>
+<ocn>8904</ocn>
+<company-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</company-name>
+<company-type>I</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>358</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBDAA00T</switch>
+<switchname></switchname>
+<switchtype>TDM</switchtype>
+<ocn>8904</ocn>
+<company-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</company-name>
+<company-type>I</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>359</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBDAA00T</switch>
+<switchname></switchname>
+<switchtype>TDM</switchtype>
+<ocn>8904</ocn>
+<company-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</company-name>
+<company-type>I</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>360</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBDAA00T</switch>
+<switchname></switchname>
+<switchtype>TDM</switchtype>
+<ocn>8904</ocn>
+<company-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</company-name>
+<company-type>I</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>361</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBDAA00T</switch>
+<switchname></switchname>
+<switchtype>TDM</switchtype>
+<ocn>8904</ocn>
+<company-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</company-name>
+<company-type>I</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>362</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBDAA00T</switch>
+<switchname></switchname>
+<switchtype>TDM</switchtype>
+<ocn>8904</ocn>
+<company-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</company-name>
+<company-type>I</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>363</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBDAA00T</switch>
+<switchname></switchname>
+<switchtype>TDM</switchtype>
+<ocn>8904</ocn>
+<company-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</company-name>
+<company-type>I</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>364</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBDAA00T</switch>
+<switchname></switchname>
+<switchtype>TDM</switchtype>
+<ocn>8904</ocn>
+<company-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</company-name>
+<company-type>I</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>365</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBDAA00T</switch>
+<switchname></switchname>
+<switchtype>TDM</switchtype>
+<ocn>8904</ocn>
+<company-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</company-name>
+<company-type>I</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>366</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBDAA00T</switch>
+<switchname></switchname>
+<switchtype>TDM</switchtype>
+<ocn>8904</ocn>
+<company-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</company-name>
+<company-type>I</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>367</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBDAA00T</switch>
+<switchname></switchname>
+<switchtype>TDM</switchtype>
+<ocn>8904</ocn>
+<company-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</company-name>
+<company-type>I</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>410</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBDAA00T</switch>
+<switchname></switchname>
+<switchtype>TDM</switchtype>
+<ocn>8904</ocn>
+<company-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</company-name>
+<company-type>I</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>412</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBDAA00T</switch>
+<switchname></switchname>
+<switchtype>TDM</switchtype>
+<ocn>8904</ocn>
+<company-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</company-name>
+<company-type>I</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>414</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBDAA00T</switch>
+<switchname></switchname>
+<switchtype>TDM</switchtype>
+<ocn>8904</ocn>
+<company-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</company-name>
+<company-type>I</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>415</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBDAA00T</switch>
+<switchname></switchname>
+<switchtype>TDM</switchtype>
+<ocn>8904</ocn>
+<company-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</company-name>
+<company-type>I</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>416</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBDAA00T</switch>
+<switchname></switchname>
+<switchtype>TDM</switchtype>
+<ocn>8904</ocn>
+<company-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</company-name>
+<company-type>I</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>417</nxx>
+<x>A</x>
+<exch>018120</exch>
+<rc>Grazettes</rc>
+<region>BD</region>
+<switch>STMCBDAA00T</switch>
+<switchname></switchname>
+<switchtype>TDM</switchtype>
+<ocn>8904</ocn>
+<company-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</company-name>
+<company-type>I</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>418</nxx>
+<x>A</x>
+<exch>018110</exch>
+<rc>Christ Church</rc>
+<region>BD</region>
+<switch>STMCBDAA00T</switch>
+<switchname></switchname>
+<switchtype>TDM</switchtype>
+<ocn>8904</ocn>
+<company-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</company-name>
+<company-type>I</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>419</nxx>
+<x>A</x>
+<exch>018130</exch>
+<rc>Speightstown</rc>
+<region>BD</region>
+<switch>STMCBDAA00T</switch>
+<switchname></switchname>
+<switchtype>TDM</switchtype>
+<ocn>8904</ocn>
+<company-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</company-name>
+<company-type>I</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>420</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBDAA00T</switch>
+<switchname></switchname>
+<switchtype>TDM</switchtype>
+<ocn>8904</ocn>
+<company-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</company-name>
+<company-type>I</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>421</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBDAA00T</switch>
+<switchname></switchname>
+<switchtype>TDM</switchtype>
+<ocn>8904</ocn>
+<company-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</company-name>
+<company-type>I</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>422</nxx>
+<x>A</x>
+<exch>018130</exch>
+<rc>Speightstown</rc>
+<region>BD</region>
+<switch>STMCBDAA00T</switch>
+<switchname></switchname>
+<switchtype>TDM</switchtype>
+<ocn>8904</ocn>
+<company-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</company-name>
+<company-type>I</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>423</nxx>
+<x>A</x>
+<exch>018170</exch>
+<rc>St Phillip</rc>
+<region>BD</region>
+<switch>STMCBDAA00T</switch>
+<switchname></switchname>
+<switchtype>TDM</switchtype>
+<ocn>8904</ocn>
+<company-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</company-name>
+<company-type>I</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>424</nxx>
+<x>A</x>
+<exch>018120</exch>
+<rc>Grazettes</rc>
+<region>BD</region>
+<switch>STMCBDAA00T</switch>
+<switchname></switchname>
+<switchtype>TDM</switchtype>
+<ocn>8904</ocn>
+<company-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</company-name>
+<company-type>I</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>425</nxx>
+<x>A</x>
+<exch>018120</exch>
+<rc>Grazettes</rc>
+<region>BD</region>
+<switch>STMCBDAA00T</switch>
+<switchname></switchname>
+<switchtype>TDM</switchtype>
+<ocn>8904</ocn>
+<company-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</company-name>
+<company-type>I</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>426</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBDAA00T</switch>
+<switchname></switchname>
+<switchtype>TDM</switchtype>
+<ocn>8904</ocn>
+<company-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</company-name>
+<company-type>I</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>427</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBDAA00T</switch>
+<switchname></switchname>
+<switchtype>TDM</switchtype>
+<ocn>8904</ocn>
+<company-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</company-name>
+<company-type>I</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>428</nxx>
+<x>A</x>
+<exch>018110</exch>
+<rc>Christ Church</rc>
+<region>BD</region>
+<switch>STMCBDAA00T</switch>
+<switchname></switchname>
+<switchtype>TDM</switchtype>
+<ocn>8904</ocn>
+<company-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</company-name>
+<company-type>I</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>429</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBDAA00T</switch>
+<switchname></switchname>
+<switchtype>TDM</switchtype>
+<ocn>8904</ocn>
+<company-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</company-name>
+<company-type>I</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>430</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBDAA00T</switch>
+<switchname></switchname>
+<switchtype>TDM</switchtype>
+<ocn>8904</ocn>
+<company-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</company-name>
+<company-type>I</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>431</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBDAA00T</switch>
+<switchname></switchname>
+<switchtype>TDM</switchtype>
+<ocn>8904</ocn>
+<company-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</company-name>
+<company-type>I</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>432</nxx>
+<x>A</x>
+<exch>018140</exch>
+<rc>St James</rc>
+<region>BD</region>
+<switch>STMCBDAA00T</switch>
+<switchname></switchname>
+<switchtype>TDM</switchtype>
+<ocn>8904</ocn>
+<company-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</company-name>
+<company-type>I</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>433</nxx>
+<x>A</x>
+<exch>018150</exch>
+<rc>St John</rc>
+<region>BD</region>
+<switch>STMCBDAA00T</switch>
+<switchname></switchname>
+<switchtype>TDM</switchtype>
+<ocn>8904</ocn>
+<company-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</company-name>
+<company-type>I</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>434</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBDAA00T</switch>
+<switchname></switchname>
+<switchtype>TDM</switchtype>
+<ocn>8904</ocn>
+<company-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</company-name>
+<company-type>I</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>435</nxx>
+<x>A</x>
+<exch>018170</exch>
+<rc>St Phillip</rc>
+<region>BD</region>
+<switch>STMCBDAA00T</switch>
+<switchname></switchname>
+<switchtype>TDM</switchtype>
+<ocn>8904</ocn>
+<company-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</company-name>
+<company-type>I</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>436</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBDAA00T</switch>
+<switchname></switchname>
+<switchtype>TDM</switchtype>
+<ocn>8904</ocn>
+<company-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</company-name>
+<company-type>I</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>437</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBDAA00T</switch>
+<switchname></switchname>
+<switchtype>TDM</switchtype>
+<ocn>8904</ocn>
+<company-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</company-name>
+<company-type>I</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>438</nxx>
+<x>A</x>
+<exch>018140</exch>
+<rc>St James</rc>
+<region>BD</region>
+<switch>STMCBDAA00T</switch>
+<switchname></switchname>
+<switchtype>TDM</switchtype>
+<ocn>8904</ocn>
+<company-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</company-name>
+<company-type>I</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>439</nxx>
+<x>A</x>
+<exch>018160</exch>
+<rc>St Lucy</rc>
+<region>BD</region>
+<switch>STMCBDAA00T</switch>
+<switchname></switchname>
+<switchtype>TDM</switchtype>
+<ocn>8904</ocn>
+<company-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</company-name>
+<company-type>I</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>444</nxx>
+<x>A</x>
+<exch>018140</exch>
+<rc>St James</rc>
+<region>BD</region>
+<switch>STMCBDAA00T</switch>
+<switchname></switchname>
+<switchtype>TDM</switchtype>
+<ocn>8904</ocn>
+<company-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</company-name>
+<company-type>I</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>446</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>SWCHBDUNKNO</switch>
+<switchname>X</switchname>
+<switchtype>5E</switchtype>
+<ocn>641J</ocn>
+<company-name>NEPTUNE COMMUNICATIONS, INC.</company-name>
+<company-type>C</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>447</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>SWCHBDUNKNO</switch>
+<switchname>X</switchname>
+<switchtype>5E</switchtype>
+<ocn>641J</ocn>
+<company-name>NEPTUNE COMMUNICATIONS, INC.</company-name>
+<company-type>C</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>448</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>SWCHBDUNKNO</switch>
+<switchname>X</switchname>
+<switchtype>5E</switchtype>
+<ocn>641J</ocn>
+<company-name>NEPTUNE COMMUNICATIONS, INC.</company-name>
+<company-type>C</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>449</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>SWCHBDUNKNO</switch>
+<switchname>X</switchname>
+<switchtype>5E</switchtype>
+<ocn>641J</ocn>
+<company-name>NEPTUNE COMMUNICATIONS, INC.</company-name>
+<company-type>C</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>467</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBDAA00T</switch>
+<switchname></switchname>
+<switchtype>TDM</switchtype>
+<ocn>8904</ocn>
+<company-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</company-name>
+<company-type>I</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>521</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBDAA00T</switch>
+<switchname></switchname>
+<switchtype>TDM</switchtype>
+<ocn>8904</ocn>
+<company-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</company-name>
+<company-type>I</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>522</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBDAA00T</switch>
+<switchname></switchname>
+<switchtype>TDM</switchtype>
+<ocn>810H</ocn>
+<company-name>OZONE WIRELESS (BARBADOS) INC.</company-name>
+<company-type>W</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>530</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBD02CM0</switch>
+<switchname>ST MICHAEL</switchname>
+<switchtype>AXT</switchtype>
+<ocn>059B</ocn>
+<company-name>DIGICEL (BARBABOS) LIMITED</company-name>
+<company-type>W</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>531</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBD02CM0</switch>
+<switchname>ST MICHAEL</switchname>
+<switchtype>AXT</switchtype>
+<ocn>059B</ocn>
+<company-name>DIGICEL (BARBABOS) LIMITED</company-name>
+<company-type>W</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>535</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBD02CM0</switch>
+<switchname>ST MICHAEL</switchname>
+<switchtype>AXT</switchtype>
+<ocn>059B</ocn>
+<company-name>DIGICEL (BARBABOS) LIMITED</company-name>
+<company-type>W</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>536</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBD02CM0</switch>
+<switchname>ST MICHAEL</switchname>
+<switchtype>AXT</switchtype>
+<ocn>059B</ocn>
+<company-name>DIGICEL (BARBABOS) LIMITED</company-name>
+<company-type>W</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>537</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBD02CM0</switch>
+<switchname>ST MICHAEL</switchname>
+<switchtype>AXT</switchtype>
+<ocn>059B</ocn>
+<company-name>DIGICEL (BARBABOS) LIMITED</company-name>
+<company-type>W</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>538</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBD02CM0</switch>
+<switchname>ST MICHAEL</switchname>
+<switchtype>AXT</switchtype>
+<ocn>059B</ocn>
+<company-name>DIGICEL (BARBABOS) LIMITED</company-name>
+<company-type>W</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>539</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBD02CM0</switch>
+<switchname>ST MICHAEL</switchname>
+<switchtype>AXT</switchtype>
+<ocn>059B</ocn>
+<company-name>DIGICEL (BARBABOS) LIMITED</company-name>
+<company-type>W</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>540</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch></switch>
+<switchname></switchname>
+<switchtype></switchtype>
+<ocn>059B</ocn>
+<company-name>DIGICEL (BARBABOS) LIMITED</company-name>
+<company-type>W</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2025-01-26 04:13:19</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>546</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBD02CM0</switch>
+<switchname>ST MICHAEL</switchname>
+<switchtype>AXT</switchtype>
+<ocn>059B</ocn>
+<company-name>DIGICEL (BARBABOS) LIMITED</company-name>
+<company-type>W</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>547</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBD02CM0</switch>
+<switchname>ST MICHAEL</switchname>
+<switchtype>AXT</switchtype>
+<ocn>059B</ocn>
+<company-name>DIGICEL (BARBABOS) LIMITED</company-name>
+<company-type>W</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>548</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBD02CM0</switch>
+<switchname>ST MICHAEL</switchname>
+<switchtype>AXT</switchtype>
+<ocn>059B</ocn>
+<company-name>DIGICEL (BARBABOS) LIMITED</company-name>
+<company-type>W</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>549</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBD02CM0</switch>
+<switchname>ST MICHAEL</switchname>
+<switchtype>AXT</switchtype>
+<ocn>059B</ocn>
+<company-name>DIGICEL (BARBABOS) LIMITED</company-name>
+<company-type>W</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>554</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBDAA00T</switch>
+<switchname></switchname>
+<switchtype>TDM</switchtype>
+<ocn>8904</ocn>
+<company-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</company-name>
+<company-type>I</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>571</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBDAA00T</switch>
+<switchname></switchname>
+<switchtype>TDM</switchtype>
+<ocn>8904</ocn>
+<company-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</company-name>
+<company-type>I</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>572</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBDAA00T</switch>
+<switchname></switchname>
+<switchtype>TDM</switchtype>
+<ocn>8904</ocn>
+<company-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</company-name>
+<company-type>I</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>573</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBDAA00T</switch>
+<switchname></switchname>
+<switchtype>TDM</switchtype>
+<ocn>8904</ocn>
+<company-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</company-name>
+<company-type>I</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>620</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBDAA00T</switch>
+<switchname></switchname>
+<switchtype>TDM</switchtype>
+<ocn>8904</ocn>
+<company-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</company-name>
+<company-type>I</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>621</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBDAA00T</switch>
+<switchname></switchname>
+<switchtype>TDM</switchtype>
+<ocn>8904</ocn>
+<company-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</company-name>
+<company-type>I</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>622</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBDAA00T</switch>
+<switchname></switchname>
+<switchtype>TDM</switchtype>
+<ocn>8904</ocn>
+<company-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</company-name>
+<company-type>I</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>623</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBDAA00T</switch>
+<switchname></switchname>
+<switchtype>TDM</switchtype>
+<ocn>8904</ocn>
+<company-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</company-name>
+<company-type>I</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>624</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBDAA00T</switch>
+<switchname></switchname>
+<switchtype>TDM</switchtype>
+<ocn>8904</ocn>
+<company-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</company-name>
+<company-type>I</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>625</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBDAA00T</switch>
+<switchname></switchname>
+<switchtype>TDM</switchtype>
+<ocn>8904</ocn>
+<company-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</company-name>
+<company-type>I</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>626</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBDAA00T</switch>
+<switchname></switchname>
+<switchtype>TDM</switchtype>
+<ocn>8904</ocn>
+<company-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</company-name>
+<company-type>I</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>627</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBDAA00T</switch>
+<switchname></switchname>
+<switchtype>TDM</switchtype>
+<ocn>8904</ocn>
+<company-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</company-name>
+<company-type>I</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>628</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBDAA00T</switch>
+<switchname></switchname>
+<switchtype>TDM</switchtype>
+<ocn>8904</ocn>
+<company-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</company-name>
+<company-type>I</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>629</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBDAA00T</switch>
+<switchname></switchname>
+<switchtype>TDM</switchtype>
+<ocn>8904</ocn>
+<company-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</company-name>
+<company-type>I</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>638</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBDAA00T</switch>
+<switchname></switchname>
+<switchtype>TDM</switchtype>
+<ocn>8904</ocn>
+<company-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</company-name>
+<company-type>I</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>695</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>SWCHBDUNKNO</switch>
+<switchname>X</switchname>
+<switchtype>5E</switchtype>
+<ocn>810H</ocn>
+<company-name>OZONE WIRELESS (BARBADOS) INC.</company-name>
+<company-type>W</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>696</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>SWCHBDUNKNO</switch>
+<switchname>X</switchname>
+<switchtype>5E</switchtype>
+<ocn>810H</ocn>
+<company-name>OZONE WIRELESS (BARBADOS) INC.</company-name>
+<company-type>W</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>697</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>SWCHBDUNKNO</switch>
+<switchname>X</switchname>
+<switchtype>5E</switchtype>
+<ocn>810H</ocn>
+<company-name>OZONE WIRELESS (BARBADOS) INC.</company-name>
+<company-type>W</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>712</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>SWCHBDUNKNO</switch>
+<switchname>X</switchname>
+<switchtype>5E</switchtype>
+<ocn>900J</ocn>
+<company-name>KW TELECOMMUNICATIONS INC</company-name>
+<company-type>C</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>713</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>SWCHBDUNKNO</switch>
+<switchname>X</switchname>
+<switchtype>5E</switchtype>
+<ocn>900J</ocn>
+<company-name>KW TELECOMMUNICATIONS INC</company-name>
+<company-type>C</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>714</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>SWCHBDUNKNO</switch>
+<switchname>X</switchname>
+<switchtype>5E</switchtype>
+<ocn>900J</ocn>
+<company-name>KW TELECOMMUNICATIONS INC</company-name>
+<company-type>C</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>715</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>SWCHBDUNKNO</switch>
+<switchname>X</switchname>
+<switchtype>5E</switchtype>
+<ocn>900J</ocn>
+<company-name>KW TELECOMMUNICATIONS INC</company-name>
+<company-type>C</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>716</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>SWCHBDUNKNO</switch>
+<switchname>X</switchname>
+<switchtype>5E</switchtype>
+<ocn>900J</ocn>
+<company-name>KW TELECOMMUNICATIONS INC</company-name>
+<company-type>C</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>717</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>SWCHBDUNKNO</switch>
+<switchname>X</switchname>
+<switchtype>5E</switchtype>
+<ocn>900J</ocn>
+<company-name>KW TELECOMMUNICATIONS INC</company-name>
+<company-type>C</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>718</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>SWCHBDUNKNO</switch>
+<switchname>X</switchname>
+<switchtype>5E</switchtype>
+<ocn>900J</ocn>
+<company-name>KW TELECOMMUNICATIONS INC</company-name>
+<company-type>C</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>719</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>SWCHBDUNKNO</switch>
+<switchname>X</switchname>
+<switchtype>5E</switchtype>
+<ocn>900J</ocn>
+<company-name>KW TELECOMMUNICATIONS INC</company-name>
+<company-type>C</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>720</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>SWCHBDUNKNO</switch>
+<switchname>X</switchname>
+<switchtype>5E</switchtype>
+<ocn>900J</ocn>
+<company-name>KW TELECOMMUNICATIONS INC</company-name>
+<company-type>C</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>721</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>SWCHBDUNKNO</switch>
+<switchname>X</switchname>
+<switchtype>5E</switchtype>
+<ocn>900J</ocn>
+<company-name>KW TELECOMMUNICATIONS INC</company-name>
+<company-type>C</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>722</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>SWCHBDUNKNO</switch>
+<switchname>X</switchname>
+<switchtype>5E</switchtype>
+<ocn>900J</ocn>
+<company-name>KW TELECOMMUNICATIONS INC</company-name>
+<company-type>C</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>723</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>SWCHBDUNKNO</switch>
+<switchname>X</switchname>
+<switchtype>5E</switchtype>
+<ocn>900J</ocn>
+<company-name>KW TELECOMMUNICATIONS INC</company-name>
+<company-type>C</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>724</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>SWCHBDUNKNO</switch>
+<switchname>X</switchname>
+<switchtype>5E</switchtype>
+<ocn>900J</ocn>
+<company-name>KW TELECOMMUNICATIONS INC</company-name>
+<company-type>C</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>725</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>SWCHBDUNKNO</switch>
+<switchname>X</switchname>
+<switchtype>5E</switchtype>
+<ocn>900J</ocn>
+<company-name>KW TELECOMMUNICATIONS INC</company-name>
+<company-type>C</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>726</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>SWCHBDUNKNO</switch>
+<switchname>X</switchname>
+<switchtype>5E</switchtype>
+<ocn>900J</ocn>
+<company-name>KW TELECOMMUNICATIONS INC</company-name>
+<company-type>C</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>727</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>SWCHBDUNKNO</switch>
+<switchname>X</switchname>
+<switchtype>5E</switchtype>
+<ocn>900J</ocn>
+<company-name>KW TELECOMMUNICATIONS INC</company-name>
+<company-type>C</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>728</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>SWCHBDUNKNO</switch>
+<switchname>X</switchname>
+<switchtype>5E</switchtype>
+<ocn>900J</ocn>
+<company-name>KW TELECOMMUNICATIONS INC</company-name>
+<company-type>C</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>729</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>SWCHBDUNKNO</switch>
+<switchname>X</switchname>
+<switchtype>5E</switchtype>
+<ocn>900J</ocn>
+<company-name>KW TELECOMMUNICATIONS INC</company-name>
+<company-type>C</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>730</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>SWCHBDUNKNO</switch>
+<switchname>X</switchname>
+<switchtype>5E</switchtype>
+<ocn>900J</ocn>
+<company-name>KW TELECOMMUNICATIONS INC</company-name>
+<company-type>C</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>731</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>SWCHBDUNKNO</switch>
+<switchname>X</switchname>
+<switchtype>5E</switchtype>
+<ocn>900J</ocn>
+<company-name>KW TELECOMMUNICATIONS INC</company-name>
+<company-type>C</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>736</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBDAA00T</switch>
+<switchname></switchname>
+<switchtype>TDM</switchtype>
+<ocn>8904</ocn>
+<company-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</company-name>
+<company-type>I</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>737</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBDAA00T</switch>
+<switchname></switchname>
+<switchtype>TDM</switchtype>
+<ocn>8904</ocn>
+<company-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</company-name>
+<company-type>I</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>753</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBDAA00T</switch>
+<switchname></switchname>
+<switchtype>TDM</switchtype>
+<ocn>8904</ocn>
+<company-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</company-name>
+<company-type>I</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>757</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBDAA00T</switch>
+<switchname></switchname>
+<switchtype>TDM</switchtype>
+<ocn>8904</ocn>
+<company-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</company-name>
+<company-type>I</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>776</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>SWCHBDUNKNO</switch>
+<switchname>X</switchname>
+<switchtype>5E</switchtype>
+<ocn>070H</ocn>
+<company-name>ACE COMMUNICATIONS INC.</company-name>
+<company-type>C</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>777</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>SWCHANUNKNO</switch>
+<switchname>X</switchname>
+<switchtype>5E</switchtype>
+<ocn>070H</ocn>
+<company-name>ACE COMMUNICATIONS INC.</company-name>
+<company-type>C</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>778</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>SWCHBDUNKNO</switch>
+<switchname>X</switchname>
+<switchtype>5E</switchtype>
+<ocn>070H</ocn>
+<company-name>ACE COMMUNICATIONS INC.</company-name>
+<company-type>C</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>820</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBD01CM0</switch>
+<switchname>ST MICHAEL</switchname>
+<switchtype>CMC</switchtype>
+<ocn>059B</ocn>
+<company-name>DIGICEL (BARBABOS) LIMITED</company-name>
+<company-type>W</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>821</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBD01CM0</switch>
+<switchname>ST MICHAEL</switchname>
+<switchtype>CMC</switchtype>
+<ocn>059B</ocn>
+<company-name>DIGICEL (BARBABOS) LIMITED</company-name>
+<company-type>W</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>822</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBD01CM0</switch>
+<switchname>ST MICHAEL</switchname>
+<switchtype>CMC</switchtype>
+<ocn>059B</ocn>
+<company-name>DIGICEL (BARBABOS) LIMITED</company-name>
+<company-type>W</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>823</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBD01CM0</switch>
+<switchname>ST MICHAEL</switchname>
+<switchtype>CMC</switchtype>
+<ocn>059B</ocn>
+<company-name>DIGICEL (BARBABOS) LIMITED</company-name>
+<company-type>W</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>824</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBD01CM0</switch>
+<switchname>ST MICHAEL</switchname>
+<switchtype>CMC</switchtype>
+<ocn>059B</ocn>
+<company-name>DIGICEL (BARBABOS) LIMITED</company-name>
+<company-type>W</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>825</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBD01CM0</switch>
+<switchname>ST MICHAEL</switchname>
+<switchtype>CMC</switchtype>
+<ocn>059B</ocn>
+<company-name>DIGICEL (BARBABOS) LIMITED</company-name>
+<company-type>W</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>826</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBD01CM0</switch>
+<switchname>ST MICHAEL</switchname>
+<switchtype>CMC</switchtype>
+<ocn>059B</ocn>
+<company-name>DIGICEL (BARBABOS) LIMITED</company-name>
+<company-type>W</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>827</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBD01CM0</switch>
+<switchname>ST MICHAEL</switchname>
+<switchtype>CMC</switchtype>
+<ocn>059B</ocn>
+<company-name>DIGICEL (BARBABOS) LIMITED</company-name>
+<company-type>W</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>828</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBD01CM0</switch>
+<switchname>ST MICHAEL</switchname>
+<switchtype>CMC</switchtype>
+<ocn>059B</ocn>
+<company-name>DIGICEL (BARBABOS) LIMITED</company-name>
+<company-type>W</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>829</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBD01CM0</switch>
+<switchname>ST MICHAEL</switchname>
+<switchtype>CMC</switchtype>
+<ocn>059B</ocn>
+<company-name>DIGICEL (BARBABOS) LIMITED</company-name>
+<company-type>W</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>830</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBD02CM0</switch>
+<switchname>ST MICHAEL</switchname>
+<switchtype>AXT</switchtype>
+<ocn>059B</ocn>
+<company-name>DIGICEL (BARBABOS) LIMITED</company-name>
+<company-type>W</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>831</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBD02CM0</switch>
+<switchname>ST MICHAEL</switchname>
+<switchtype>AXT</switchtype>
+<ocn>059B</ocn>
+<company-name>DIGICEL (BARBABOS) LIMITED</company-name>
+<company-type>W</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>832</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBD02CM0</switch>
+<switchname>ST MICHAEL</switchname>
+<switchtype>AXT</switchtype>
+<ocn>059B</ocn>
+<company-name>DIGICEL (BARBABOS) LIMITED</company-name>
+<company-type>W</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>833</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBD02CM0</switch>
+<switchname>ST MICHAEL</switchname>
+<switchtype>AXT</switchtype>
+<ocn>059B</ocn>
+<company-name>DIGICEL (BARBABOS) LIMITED</company-name>
+<company-type>W</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>834</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBD02CM0</switch>
+<switchname>ST MICHAEL</switchname>
+<switchtype>AXT</switchtype>
+<ocn>059B</ocn>
+<company-name>DIGICEL (BARBABOS) LIMITED</company-name>
+<company-type>W</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>835</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBD02CM0</switch>
+<switchname>ST MICHAEL</switchname>
+<switchtype>AXT</switchtype>
+<ocn>059B</ocn>
+<company-name>DIGICEL (BARBABOS) LIMITED</company-name>
+<company-type>W</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>836</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBD02CM0</switch>
+<switchname>ST MICHAEL</switchname>
+<switchtype>AXT</switchtype>
+<ocn>059B</ocn>
+<company-name>DIGICEL (BARBABOS) LIMITED</company-name>
+<company-type>W</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>837</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBD02CM0</switch>
+<switchname>ST MICHAEL</switchname>
+<switchtype>AXT</switchtype>
+<ocn>059B</ocn>
+<company-name>DIGICEL (BARBABOS) LIMITED</company-name>
+<company-type>W</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>838</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBD02CM0</switch>
+<switchname>ST MICHAEL</switchname>
+<switchtype>AXT</switchtype>
+<ocn>059B</ocn>
+<company-name>DIGICEL (BARBABOS) LIMITED</company-name>
+<company-type>W</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>839</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBD02CM0</switch>
+<switchname>ST MICHAEL</switchname>
+<switchtype>AXT</switchtype>
+<ocn>059B</ocn>
+<company-name>DIGICEL (BARBABOS) LIMITED</company-name>
+<company-type>W</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>840</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBD02CM0</switch>
+<switchname>ST MICHAEL</switchname>
+<switchtype>AXT</switchtype>
+<ocn>059B</ocn>
+<company-name>DIGICEL (BARBABOS) LIMITED</company-name>
+<company-type>W</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>841</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBD02CM0</switch>
+<switchname>ST MICHAEL</switchname>
+<switchtype>AXT</switchtype>
+<ocn>059B</ocn>
+<company-name>DIGICEL (BARBABOS) LIMITED</company-name>
+<company-type>W</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>842</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBD02CM0</switch>
+<switchname>ST MICHAEL</switchname>
+<switchtype>AXT</switchtype>
+<ocn>059B</ocn>
+<company-name>DIGICEL (BARBABOS) LIMITED</company-name>
+<company-type>W</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>843</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBD02CM0</switch>
+<switchname>ST MICHAEL</switchname>
+<switchtype>AXT</switchtype>
+<ocn>059B</ocn>
+<company-name>DIGICEL (BARBABOS) LIMITED</company-name>
+<company-type>W</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>844</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBD02CM0</switch>
+<switchname>ST MICHAEL</switchname>
+<switchtype>AXT</switchtype>
+<ocn>059B</ocn>
+<company-name>DIGICEL (BARBABOS) LIMITED</company-name>
+<company-type>W</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>845</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBD02CM0</switch>
+<switchname>ST MICHAEL</switchname>
+<switchtype>AXT</switchtype>
+<ocn>059B</ocn>
+<company-name>DIGICEL (BARBABOS) LIMITED</company-name>
+<company-type>W</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>846</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBD02CM0</switch>
+<switchname>ST MICHAEL</switchname>
+<switchtype>AXT</switchtype>
+<ocn>059B</ocn>
+<company-name>DIGICEL (BARBABOS) LIMITED</company-name>
+<company-type>W</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>847</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBD02CM0</switch>
+<switchname>ST MICHAEL</switchname>
+<switchtype>AXT</switchtype>
+<ocn>059B</ocn>
+<company-name>DIGICEL (BARBABOS) LIMITED</company-name>
+<company-type>W</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>848</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBD02CM0</switch>
+<switchname>ST MICHAEL</switchname>
+<switchtype>AXT</switchtype>
+<ocn>059B</ocn>
+<company-name>DIGICEL (BARBABOS) LIMITED</company-name>
+<company-type>W</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>849</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBD02CM0</switch>
+<switchname>ST MICHAEL</switchname>
+<switchtype>AXT</switchtype>
+<ocn>059B</ocn>
+<company-name>DIGICEL (BARBABOS) LIMITED</company-name>
+<company-type>W</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>850</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBD01CM0</switch>
+<switchname>ST MICHAEL</switchname>
+<switchtype>CMC</switchtype>
+<ocn>059B</ocn>
+<company-name>DIGICEL (BARBABOS) LIMITED</company-name>
+<company-type>W</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>851</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBD02CM0</switch>
+<switchname>ST MICHAEL</switchname>
+<switchtype>AXT</switchtype>
+<ocn>059B</ocn>
+<company-name>DIGICEL (BARBABOS) LIMITED</company-name>
+<company-type>W</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>852</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBD02CM0</switch>
+<switchname>ST MICHAEL</switchname>
+<switchtype>AXT</switchtype>
+<ocn>059B</ocn>
+<company-name>DIGICEL (BARBABOS) LIMITED</company-name>
+<company-type>W</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>853</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBD02CM0</switch>
+<switchname>ST MICHAEL</switchname>
+<switchtype>AXT</switchtype>
+<ocn>059B</ocn>
+<company-name>DIGICEL (BARBABOS) LIMITED</company-name>
+<company-type>W</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>854</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBD02CM0</switch>
+<switchname>ST MICHAEL</switchname>
+<switchtype>AXT</switchtype>
+<ocn>059B</ocn>
+<company-name>DIGICEL (BARBABOS) LIMITED</company-name>
+<company-type>W</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>855</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBD02CM0</switch>
+<switchname>ST MICHAEL</switchname>
+<switchtype>AXT</switchtype>
+<ocn>059B</ocn>
+<company-name>DIGICEL (BARBABOS) LIMITED</company-name>
+<company-type>W</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>856</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBD02CM0</switch>
+<switchname>ST MICHAEL</switchname>
+<switchtype>AXT</switchtype>
+<ocn>059B</ocn>
+<company-name>DIGICEL (BARBABOS) LIMITED</company-name>
+<company-type>W</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>857</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBD02CM0</switch>
+<switchname>ST MICHAEL</switchname>
+<switchtype>AXT</switchtype>
+<ocn>059B</ocn>
+<company-name>DIGICEL (BARBABOS) LIMITED</company-name>
+<company-type>W</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>858</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBD02CM0</switch>
+<switchname>ST MICHAEL</switchname>
+<switchtype>AXT</switchtype>
+<ocn>059B</ocn>
+<company-name>DIGICEL (BARBABOS) LIMITED</company-name>
+<company-type>W</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>859</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBD02CM0</switch>
+<switchname>ST MICHAEL</switchname>
+<switchtype>AXT</switchtype>
+<ocn>059B</ocn>
+<company-name>DIGICEL (BARBABOS) LIMITED</company-name>
+<company-type>W</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>883</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBD02CM0</switch>
+<switchname>ST MICHAEL</switchname>
+<switchtype>AXT</switchtype>
+<ocn>059B</ocn>
+<company-name>DIGICEL (BARBABOS) LIMITED</company-name>
+<company-type>W</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>958</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBDAA00T</switch>
+<switchname></switchname>
+<switchtype>TDM</switchtype>
+<ocn>8904</ocn>
+<company-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</company-name>
+<company-type>I</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>963</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBDAA00T</switch>
+<switchname></switchname>
+<switchtype>TDM</switchtype>
+<ocn>8904</ocn>
+<company-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</company-name>
+<company-type>I</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>246</npa>
+<nxx>976</nxx>
+<x>A</x>
+<exch>018100</exch>
+<rc>Bridgetown</rc>
+<region>BD</region>
+<switch>STMCBDAA00T</switch>
+<switchname></switchname>
+<switchtype>TDM</switchtype>
+<ocn>8904</ocn>
+<company-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</company-name>
+<company-type>I</company-type>
+<ilec-ocn>8904</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS BARTEL LIMITED - BB</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+</root>
