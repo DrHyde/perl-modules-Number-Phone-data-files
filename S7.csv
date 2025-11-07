@@ -119,7 +119,7 @@ NMS Number Block: Number Block,Block Status,CP Name,Non Geo Number Length,Alloca
 7002 7,Allocated,Vodafone Limited,10 digit numbers,26/03/1996
 7002 8,Allocated,Vodafone Limited,10 digit numbers,26/03/1996
 7002 9,Allocated,Vodafone Limited,10 digit numbers,26/03/1996
-7003 0,Quarantined,,10 digit numbers,
+7003 0,Protected,,10 digit numbers,
 7003 1,Protected,,10 digit numbers,
 7003 2,Protected,,10 digit numbers,
 7003 3,Protected,,10 digit numbers,
@@ -297,16 +297,16 @@ NMS Number Block: Number Block,Block Status,CP Name,Non Geo Number Length,Alloca
 7009 7,Allocated,GCI Network Solutions Limited,10 digit numbers,12/06/2024
 7009 8,Allocated,GCI Network Solutions Limited,10 digit numbers,12/06/2024
 7009 9,Allocated,GCI Network Solutions Limited,10 digit numbers,12/06/2024
-7010 0,Allocated,FleXtel Limited,10 digit numbers,25/01/1995
-7010 1,Allocated,FleXtel Limited,10 digit numbers,25/01/1995
-7010 2,Allocated,FleXtel Limited,10 digit numbers,25/01/1995
-7010 3,Allocated,FleXtel Limited,10 digit numbers,25/01/1995
-7010 4,Allocated,FleXtel Limited,10 digit numbers,25/01/1995
-7010 5,Allocated,FleXtel Limited,10 digit numbers,25/01/1995
-7010 6,Allocated,FleXtel Limited,10 digit numbers,25/01/1995
-7010 7,Allocated,FleXtel Limited,10 digit numbers,25/01/1995
-7010 8,Allocated,FleXtel Limited,10 digit numbers,25/01/1995
-7010 9,Allocated,FleXtel Limited,10 digit numbers,25/01/1995
+7010 0,Allocated,Flextel Limited,10 digit numbers,25/01/1995
+7010 1,Allocated,Flextel Limited,10 digit numbers,25/01/1995
+7010 2,Allocated,Flextel Limited,10 digit numbers,25/01/1995
+7010 3,Allocated,Flextel Limited,10 digit numbers,25/01/1995
+7010 4,Allocated,Flextel Limited,10 digit numbers,25/01/1995
+7010 5,Allocated,Flextel Limited,10 digit numbers,25/01/1995
+7010 6,Allocated,Flextel Limited,10 digit numbers,25/01/1995
+7010 7,Allocated,Flextel Limited,10 digit numbers,25/01/1995
+7010 8,Allocated,Flextel Limited,10 digit numbers,25/01/1995
+7010 9,Allocated,Flextel Limited,10 digit numbers,25/01/1995
 7011 0,Allocated,TTNC Limited,10 digit numbers,20/01/2014
 7011 1,Protected,,10 digit numbers,
 7011 2,Allocated,Magrathea Telecommunications Limited,10 digit numbers,26/01/2007
@@ -361,7 +361,7 @@ NMS Number Block: Number Block,Block Status,CP Name,Non Geo Number Length,Alloca
 7012 5,Allocated,Dynamic Mobile Billing Limited,10 digit numbers,17/01/2005
 7012 6,Protected,,10 digit numbers,
 7012 7,Allocated,Dynamic Mobile Billing Limited,10 digit numbers,17/01/2005
-7012 8,Quarantined,,10 digit numbers,
+7012 8,Protected,,10 digit numbers,
 7012 9,Allocated,GCI Network Solutions Limited,10 digit numbers,26/04/2017
 7013 00,Protected,,10 digit numbers,
 7013 01,Protected,,10 digit numbers,
@@ -393,7 +393,7 @@ NMS Number Block: Number Block,Block Status,CP Name,Non Geo Number Length,Alloca
 7013 9,Protected,,10 digit numbers,
 7014 0,Protected,,10 digit numbers,
 7014 1,Protected,,10 digit numbers,
-7014 2,Allocated,FleXtel Limited,10 digit numbers,17/07/1997
+7014 2,Allocated,Flextel Limited,10 digit numbers,17/07/1997
 7014 3,Protected,,10 digit numbers,
 7014 4,Protected,,10 digit numbers,
 7014 5,Allocated,Telecom 10 Ltd,10 digit numbers,24/11/2009
@@ -439,16 +439,16 @@ NMS Number Block: Number Block,Block Status,CP Name,Non Geo Number Length,Alloca
 7016 7,Protected,,10 digit numbers,
 7016 8,Protected,,10 digit numbers,
 7016 9,Allocated,24 Seven Communications Limited,10 digit numbers,12/09/2011
-7017 0,Allocated,FleXtel Limited,10 digit numbers,03/07/2000
-7017 1,Allocated,FleXtel Limited,10 digit numbers,03/07/2000
-7017 2,Allocated,FleXtel Limited,10 digit numbers,03/07/2000
-7017 3,Allocated,FleXtel Limited,10 digit numbers,03/07/2000
-7017 4,Allocated,FleXtel Limited,10 digit numbers,03/07/2000
-7017 5,Allocated,FleXtel Limited,10 digit numbers,03/07/2000
-7017 6,Allocated,FleXtel Limited,10 digit numbers,03/07/2000
-7017 7,Allocated,FleXtel Limited,10 digit numbers,03/07/2000
-7017 8,Allocated,FleXtel Limited,10 digit numbers,03/07/2000
-7017 9,Allocated,FleXtel Limited,10 digit numbers,03/07/2000
+7017 0,Allocated,Flextel Limited,10 digit numbers,03/07/2000
+7017 1,Allocated,Flextel Limited,10 digit numbers,03/07/2000
+7017 2,Allocated,Flextel Limited,10 digit numbers,03/07/2000
+7017 3,Allocated,Flextel Limited,10 digit numbers,03/07/2000
+7017 4,Allocated,Flextel Limited,10 digit numbers,03/07/2000
+7017 5,Allocated,Flextel Limited,10 digit numbers,03/07/2000
+7017 6,Allocated,Flextel Limited,10 digit numbers,03/07/2000
+7017 7,Allocated,Flextel Limited,10 digit numbers,03/07/2000
+7017 8,Allocated,Flextel Limited,10 digit numbers,03/07/2000
+7017 9,Allocated,Flextel Limited,10 digit numbers,03/07/2000
 7018 0,Allocated,Daotec Ltd,10 digit numbers,27/04/2005
 7018 1,Protected,,10 digit numbers,
 7018 2,Allocated,Daotec Ltd,10 digit numbers,27/04/2005
@@ -479,7 +479,7 @@ NMS Number Block: Number Block,Block Status,CP Name,Non Geo Number Length,Alloca
 7020 7,Protected,,10 digit numbers,
 7020 8,Protected,,10 digit numbers,
 7020 9,Protected,,10 digit numbers,
-7021 0,Allocated,Swiftnet Ltd,10 digit numbers,05/08/1999
+7021 0,Allocated,Swiftnet Limited,10 digit numbers,05/08/1999
 7021 1,Allocated,TalkTalk Communications Limited,10 digit numbers,21/07/2006
 7021 20,Allocated,Sound Advertising Ltd,10 digit numbers,10/03/2011
 7021 21,Allocated,Phone Co-Op Numbering Limited,10 digit numbers,07/03/2011
@@ -492,7 +492,7 @@ NMS Number Block: Number Block,Block Status,CP Name,Non Geo Number Length,Alloca
 7021 28,Protected,,10 digit numbers,
 7021 29,Protected,,10 digit numbers,
 7021 3,Allocated,Daisy Communications Ltd,10 digit numbers,13/01/2011
-7021 4,Allocated,Swiftnet Ltd,10 digit numbers,05/08/1999
+7021 4,Allocated,Swiftnet Limited,10 digit numbers,05/08/1999
 7021 50,Protected,,10 digit numbers,
 7021 51,Protected,,10 digit numbers,
 7021 52,Protected,,10 digit numbers,
@@ -604,23 +604,23 @@ NMS Number Block: Number Block,Block Status,CP Name,Non Geo Number Length,Alloca
 7026 0,Protected,,10 digit numbers,
 7026 1,Protected,,10 digit numbers,
 7026 2,Protected,,10 digit numbers,
-7026 3,Quarantined,,10 digit numbers,
+7026 3,Protected,,10 digit numbers,
 7026 4,Allocated,Core Telecom Limited,10 digit numbers,03/05/2012
-7026 5,Quarantined,,10 digit numbers,
-7026 6,Quarantined,,10 digit numbers,
-7026 7,Quarantined,,10 digit numbers,
-7026 8,Quarantined,,10 digit numbers,
+7026 5,Protected,,10 digit numbers,
+7026 6,Protected,,10 digit numbers,
+7026 7,Protected,,10 digit numbers,
+7026 8,Protected,,10 digit numbers,
 7026 9,Protected,,10 digit numbers,
-7027 0,Quarantined,,10 digit numbers,
-7027 1,Quarantined,,10 digit numbers,
-7027 2,Quarantined,,10 digit numbers,
+7027 0,Protected,,10 digit numbers,
+7027 1,Protected,,10 digit numbers,
+7027 2,Protected,,10 digit numbers,
 7027 3,Protected,,10 digit numbers,
-7027 4,Quarantined,,10 digit numbers,
-7027 5,Quarantined,,10 digit numbers,
-7027 6,Quarantined,,10 digit numbers,
-7027 7,Quarantined,,10 digit numbers,
-7027 8,Quarantined,,10 digit numbers,
-7027 9,Quarantined,,10 digit numbers,
+7027 4,Protected,,10 digit numbers,
+7027 5,Protected,,10 digit numbers,
+7027 6,Protected,,10 digit numbers,
+7027 7,Protected,,10 digit numbers,
+7027 8,Protected,,10 digit numbers,
+7027 9,Protected,,10 digit numbers,
 7028 0,Quarantined,,10 digit numbers,
 7028 1,Protected,,10 digit numbers,
 7028 20,Allocated,Colt Technology Services,10 digit numbers,02/06/2009
@@ -634,8 +634,8 @@ NMS Number Block: Number Block,Block Status,CP Name,Non Geo Number Length,Alloca
 7028 28,Protected,,10 digit numbers,
 7028 29,Allocated,Business Broadcast Communications Limited,10 digit numbers,16/10/2009
 7028 30,Protected,,10 digit numbers,
-7028 31,Quarantined,,10 digit numbers,
-7028 32,Quarantined,,10 digit numbers,
+7028 31,Protected,,10 digit numbers,
+7028 32,Protected,,10 digit numbers,
 7028 33,Protected,,10 digit numbers,
 7028 34,Protected,,10 digit numbers,
 7028 35,Protected,,10 digit numbers,
@@ -786,7 +786,7 @@ NMS Number Block: Number Block,Block Status,CP Name,Non Geo Number Length,Alloca
 7030 88,Protected,,10 digit numbers,
 7030 89,Allocated,Atlantic Communications Corp Ltd,10 digit numbers,08/11/2013
 7030 9,Allocated,Atlas Interactive Group Limited,10 digit numbers,05/04/2000
-7031 0,Allocated,Sala Trading Ltd,10 digit numbers,06/03/2000
+7031 0,Quarantined,,10 digit numbers,
 7031 1,Protected,,10 digit numbers,
 7031 2,Protected,,10 digit numbers,
 7031 30,Protected,,10 digit numbers,
@@ -1143,7 +1143,7 @@ NMS Number Block: Number Block,Block Status,CP Name,Non Geo Number Length,Alloca
 7042 37,Protected,,10 digit numbers,
 7042 38,Protected,,10 digit numbers,
 7042 39,Protected,,10 digit numbers,
-7042 4,Quarantined,,10 digit numbers,
+7042 4,Protected,,10 digit numbers,
 7042 5,Allocated,Telecom 10 Ltd,10 digit numbers,24/11/2009
 7042 6,Protected,,10 digit numbers,
 7042 7,Allocated,Telecom 10 Ltd,10 digit numbers,24/11/2009
@@ -1480,7 +1480,7 @@ NMS Number Block: Number Block,Block Status,CP Name,Non Geo Number Length,Alloca
 7055 1,Allocated,Jtec UK Limited,10 digit numbers,27/07/2011
 7055 2,Protected,,10 digit numbers,
 7055 3,Allocated,Jtec UK Limited,10 digit numbers,27/07/2011
-7055 4,Allocated,FleXtel Limited,10 digit numbers,15/02/2006
+7055 4,Allocated,Flextel Limited,10 digit numbers,15/02/2006
 7055 5,Protected,,10 digit numbers,
 7055 60,Allocated,TTNC Limited,10 digit numbers,20/01/2014
 7055 61,Protected,,10 digit numbers,
@@ -1503,7 +1503,7 @@ NMS Number Block: Number Block,Block Status,CP Name,Non Geo Number Length,Alloca
 7055 78,Allocated,Telecom2 Limited,10 digit numbers,05/07/2010
 7055 79,Allocated,Telecom2 Limited,10 digit numbers,05/07/2010
 7055 8,Allocated,Jtec UK Limited,10 digit numbers,27/07/2011
-7055 9,Allocated,FleXtel Limited,10 digit numbers,15/02/2006
+7055 9,Allocated,Flextel Limited,10 digit numbers,15/02/2006
 7056 00,Allocated,Mars Communications Limited,10 digit numbers,12/03/2008
 7056 01,Allocated,Mars Communications Limited,10 digit numbers,12/03/2008
 7056 02,Allocated,Mars Communications Limited,10 digit numbers,12/03/2008
@@ -1574,16 +1574,16 @@ NMS Number Block: Number Block,Block Status,CP Name,Non Geo Number Length,Alloca
 7057 48,Protected,,10 digit numbers,
 7057 49,Protected,,10 digit numbers,
 7057 5,Allocated,Phone Buddy Limited,10 digit numbers,21/03/2007
-7057 60,Quarantined,,10 digit numbers,
-7057 61,Quarantined,,10 digit numbers,
-7057 62,Quarantined,,10 digit numbers,
-7057 63,Quarantined,,10 digit numbers,
-7057 64,Quarantined,,10 digit numbers,
-7057 65,Quarantined,,10 digit numbers,
-7057 66,Quarantined,,10 digit numbers,
-7057 67,Quarantined,,10 digit numbers,
-7057 68,Quarantined,,10 digit numbers,
-7057 69,Quarantined,,10 digit numbers,
+7057 60,Protected,,10 digit numbers,
+7057 61,Protected,,10 digit numbers,
+7057 62,Protected,,10 digit numbers,
+7057 63,Protected,,10 digit numbers,
+7057 64,Protected,,10 digit numbers,
+7057 65,Protected,,10 digit numbers,
+7057 66,Protected,,10 digit numbers,
+7057 67,Protected,,10 digit numbers,
+7057 68,Protected,,10 digit numbers,
+7057 69,Protected,,10 digit numbers,
 7057 7,Allocated,Plus Telecom Limited,10 digit numbers,09/03/2007
 7057 8,Allocated,Digitech Solutions Global Limited,10 digit numbers,07/05/2008
 7057 9,Allocated,Core Telecom Limited,10 digit numbers,03/05/2012
@@ -2086,14 +2086,14 @@ NMS Number Block: Number Block,Block Status,CP Name,Non Geo Number Length,Alloca
 7079 7,Protected,,10 digit numbers,
 7079 8,Protected,,10 digit numbers,
 7079 9,Protected,,10 digit numbers,
-7080 0,Quarantined,,10 digit numbers,
-7080 1,Quarantined,,10 digit numbers,
-7080 2,Quarantined,,10 digit numbers,
+7080 0,Protected,,10 digit numbers,
+7080 1,Protected,,10 digit numbers,
+7080 2,Protected,,10 digit numbers,
 7080 3,Protected,,10 digit numbers,
 7080 4,Protected,,10 digit numbers,
 7080 5,Protected,,10 digit numbers,
 7080 6,Protected,,10 digit numbers,
-7080 7,Quarantined,,10 digit numbers,
+7080 7,Protected,,10 digit numbers,
 7080 8,Protected,,10 digit numbers,
 7080 90,Protected,,10 digit numbers,
 7080 91,Protected,,10 digit numbers,
@@ -2190,16 +2190,16 @@ NMS Number Block: Number Block,Block Status,CP Name,Non Geo Number Length,Alloca
 7085 87,Allocated,Mars Communications Limited,10 digit numbers,12/03/2008
 7085 88,Allocated,Mars Communications Limited,10 digit numbers,12/03/2008
 7085 89,Allocated,Mars Communications Limited,10 digit numbers,12/03/2008
-7085 90,Quarantined,,10 digit numbers,
-7085 91,Quarantined,,10 digit numbers,
-7085 92,Quarantined,,10 digit numbers,
-7085 93,Quarantined,,10 digit numbers,
-7085 94,Quarantined,,10 digit numbers,
-7085 95,Quarantined,,10 digit numbers,
-7085 96,Quarantined,,10 digit numbers,
-7085 97,Quarantined,,10 digit numbers,
-7085 98,Quarantined,,10 digit numbers,
-7085 99,Quarantined,,10 digit numbers,
+7085 90,Protected,,10 digit numbers,
+7085 91,Protected,,10 digit numbers,
+7085 92,Protected,,10 digit numbers,
+7085 93,Protected,,10 digit numbers,
+7085 94,Protected,,10 digit numbers,
+7085 95,Protected,,10 digit numbers,
+7085 96,Protected,,10 digit numbers,
+7085 97,Protected,,10 digit numbers,
+7085 98,Protected,,10 digit numbers,
+7085 99,Protected,,10 digit numbers,
 7086 0,Allocated,Sound Advertising Ltd,10 digit numbers,30/10/2007
 7086 10,Protected,,10 digit numbers,
 7086 11,Protected,,10 digit numbers,
@@ -2378,7 +2378,7 @@ NMS Number Block: Number Block,Block Status,CP Name,Non Geo Number Length,Alloca
 7087 84,Free,,10 digit numbers,
 7087 85,Free,,10 digit numbers,
 7087 86,Free,,10 digit numbers,
-7087 87,Allocated,Mobile FX Services Ltd,10 digit numbers,02/03/2016
+7087 87,Quarantined,,10 digit numbers,
 7087 88,Allocated,Supported Business Limited,10 digit numbers,21/06/2016
 7087 89,Free,,10 digit numbers,
 7087 90,Free,,10 digit numbers,
@@ -3034,7 +3034,7 @@ NMS Number Block: Number Block,Block Status,CP Name,Non Geo Number Length,Alloca
 7099 08,Protected,,10 digit numbers,
 7099 09,Protected,,10 digit numbers,
 7099 1,Protected,,10 digit numbers,
-7099 2,Allocated,Sala Trading Ltd,10 digit numbers,10/07/2002
+7099 2,Quarantined,,10 digit numbers,
 7099 3,Protected,,10 digit numbers,
 7099 4,Allocated,Telecom2 Limited,10 digit numbers,17/08/2009
 7099 50,Protected,,10 digit numbers,
@@ -4738,7 +4738,7 @@ NMS Number Block: Number Block,Block Status,CP Name,Non Geo Number Length,Alloca
 7465 0,Allocated,Vectone Mobile Limited,10 digit numbers,24/07/2012
 7465 1,Allocated,Vectone Mobile Limited,10 digit numbers,24/07/2012
 7465 2,Allocated,Hutchison 3G UK Ltd,10 digit numbers,05/08/2015
-7465 3,Allocated,Compatel Limited,10 digit numbers,06/11/2012
+7465 3,Quarantined,,10 digit numbers,
 7465 4,Allocated,Hutchison 3G UK Ltd,10 digit numbers,05/08/2015
 7465 5,Allocated,Global Reach Networks Limited,10 digit numbers,11/10/2016
 7465 6,Allocated,Hutchison 3G UK Ltd,10 digit numbers,05/08/2015
@@ -5289,7 +5289,7 @@ NMS Number Block: Number Block,Block Status,CP Name,Non Geo Number Length,Alloca
 7520 1,Allocated,BT OnePhone Limited,10 digit numbers,05/11/2013
 7520 2,Allocated,Vectone Mobile Limited,10 digit numbers,11/04/2008
 7520 3,Protected,,10 digit numbers,
-7520 4,Quarantined,,10 digit numbers,
+7520 4,Protected,,10 digit numbers,
 7520 5,Protected,,10 digit numbers,
 7520 6,Allocated,Tismi BV,10 digit numbers,10/08/2007
 7520 7,Allocated,(AQ) LIMITED,10 digit numbers,13/09/2012
@@ -5457,7 +5457,7 @@ NMS Number Block: Number Block,Block Status,CP Name,Non Geo Number Length,Alloca
 7537 0,Protected,,10 digit numbers,
 7537 1,Allocated,Stour Marine Limited,10 digit numbers,18/10/2007
 7537 2,Protected,,10 digit numbers,
-7537 3,Allocated,Swiftnet Ltd,10 digit numbers,23/04/2008
+7537 3,Allocated,Swiftnet Limited,10 digit numbers,23/04/2008
 7537 4,Allocated,Vodafone Limited,10 digit numbers,02/05/2008
 7537 5,Protected,,10 digit numbers,
 7537 6,Allocated,Sound Advertising Ltd,10 digit numbers,30/07/2008
@@ -5664,7 +5664,7 @@ NMS Number Block: Number Block,Block Status,CP Name,Non Geo Number Length,Alloca
 7557 7,Allocated,Vodafone Limited,10 digit numbers,23/07/2009
 7557 8,Allocated,Vodafone Limited,10 digit numbers,23/07/2009
 7557 9,Allocated,Vodafone Limited,10 digit numbers,23/07/2009
-7558 0,Allocated,Mobile FX Services Ltd,10 digit numbers,24/08/2015
+7558 0,Quarantined,,10 digit numbers,
 7558 1,Protected,,10 digit numbers,
 7558 2,Protected,,10 digit numbers,
 7558 3,Protected,,10 digit numbers,
@@ -8121,8 +8121,8 @@ NMS Number Block: Number Block,Block Status,CP Name,Non Geo Number Length,Alloca
 7821 7,Allocated,Telefonica UK Limited,10 digit numbers,02/10/2003
 7821 8,Allocated,Telefonica UK Limited,10 digit numbers,02/10/2003
 7821 9,Allocated,Telefonica UK Limited,10 digit numbers,02/10/2003
-7822 0,Allocated,FleXtel Limited,10 digit numbers,31/01/2006
-7822 1,Allocated,Swiftnet Ltd,10 digit numbers,16/06/2006
+7822 0,Allocated,Flextel Limited,10 digit numbers,31/01/2006
+7822 1,Allocated,Swiftnet Limited,10 digit numbers,16/06/2006
 7822 2,Protected,,10 digit numbers,
 7822 3,Protected,,10 digit numbers,
 7822 4,Allocated,AQL Wholesale Ltd,10 digit numbers,14/07/2006
@@ -8826,7 +8826,7 @@ NMS Number Block: Number Block,Block Status,CP Name,Non Geo Number Length,Alloca
 7892 2,Protected,,10 digit numbers,
 7892 3,Allocated,Telefonica UK Limited,10 digit numbers,31/08/2006
 7892 4,Allocated,Telefonica UK Limited,10 digit numbers,31/08/2006
-7892 5,Allocated,FleXtel Limited,10 digit numbers,31/01/2006
+7892 5,Allocated,Flextel Limited,10 digit numbers,31/01/2006
 7892 6,Allocated,Telefonica UK Limited,10 digit numbers,31/08/2006
 7892 7,Allocated,Telefonica UK Limited,10 digit numbers,31/08/2006
 7892 8,Allocated,Telefonica UK Limited,10 digit numbers,31/08/2006

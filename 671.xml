@@ -1955,6 +1955,31 @@
 </prefixdata>
 <prefixdata>
 <npa>671</npa>
+<nxx>865</nxx>
+<x>A</x>
+<exch>036100</exch>
+<rc>Agana</rc>
+<region>GU</region>
+<switch></switch>
+<switchname></switchname>
+<switchtype></switchtype>
+<ocn>3922</ocn>
+<company-name>TELEGUAM HOLDINGS, LLC</company-name>
+<company-type>C</company-type>
+<ilec-ocn>3800</ilec-ocn>
+<ilec-name>TELEGUAM HOLDINGS, LLC</ilec-name>
+<lata>871</lata>
+<lir></lir>
+<rc-v>4239</rc-v>
+<rc-h>26640</rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2025-09-15 01:42:17</udate>
+</prefixdata>
+<prefixdata>
+<npa>671</npa>
 <nxx>867</nxx>
 <x>A</x>
 <exch>036100</exch>
