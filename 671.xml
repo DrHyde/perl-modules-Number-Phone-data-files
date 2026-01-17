@@ -2405,6 +2405,31 @@
 </prefixdata>
 <prefixdata>
 <npa>671</npa>
+<nxx>996</nxx>
+<x>A</x>
+<exch>036100</exch>
+<rc>Agana</rc>
+<region>GU</region>
+<switch></switch>
+<switchname></switchname>
+<switchtype></switchtype>
+<ocn>3945</ocn>
+<company-name>GUAM WIRELESS TELEPHONE COMPANY, LLC</company-name>
+<company-type>W</company-type>
+<ilec-ocn>3800</ilec-ocn>
+<ilec-name>TELEGUAM HOLDINGS, LLC</ilec-name>
+<lata>871</lata>
+<lir></lir>
+<rc-v>4239</rc-v>
+<rc-h>26640</rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2025-12-20 02:36:58</udate>
+</prefixdata>
+<prefixdata>
+<npa>671</npa>
 <nxx>997</nxx>
 <x>A</x>
 <exch>036100</exch>
@@ -2452,5 +2477,30 @@
 <effdate></effdate>
 <discdate></discdate>
 <udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>671</npa>
+<nxx>999</nxx>
+<x>A</x>
+<exch>036100</exch>
+<rc>Agana</rc>
+<region>GU</region>
+<switch></switch>
+<switchname></switchname>
+<switchtype></switchtype>
+<ocn>3945</ocn>
+<company-name>GUAM WIRELESS TELEPHONE COMPANY, LLC</company-name>
+<company-type>W</company-type>
+<ilec-ocn>3800</ilec-ocn>
+<ilec-name>TELEGUAM HOLDINGS, LLC</ilec-name>
+<lata>871</lata>
+<lir></lir>
+<rc-v>4239</rc-v>
+<rc-h>26640</rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2025-12-20 02:36:58</udate>
 </prefixdata>
 </root>
