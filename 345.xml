@@ -505,6 +505,156 @@
 </prefixdata>
 <prefixdata>
 <npa>345</npa>
+<nxx>412</nxx>
+<x>A</x>
+<exch>027760</exch>
+<rc>Cayman Islands</rc>
+<region>CQ</region>
+<switch></switch>
+<switchname></switchname>
+<switchtype></switchtype>
+<ocn>920K</ocn>
+<company-name>PARADISE MOBILE LTD.</company-name>
+<company-type>C</company-type>
+<ilec-ocn>8907</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS (CQ)</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2026-02-03 01:07:09</udate>
+</prefixdata>
+<prefixdata>
+<npa>345</npa>
+<nxx>413</nxx>
+<x>A</x>
+<exch>027760</exch>
+<rc>Cayman Islands</rc>
+<region>CQ</region>
+<switch></switch>
+<switchname></switchname>
+<switchtype></switchtype>
+<ocn>920K</ocn>
+<company-name>PARADISE MOBILE LTD.</company-name>
+<company-type>C</company-type>
+<ilec-ocn>8907</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS (CQ)</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2026-02-03 01:07:09</udate>
+</prefixdata>
+<prefixdata>
+<npa>345</npa>
+<nxx>414</nxx>
+<x>A</x>
+<exch>027760</exch>
+<rc>Cayman Islands</rc>
+<region>CQ</region>
+<switch></switch>
+<switchname></switchname>
+<switchtype></switchtype>
+<ocn>920K</ocn>
+<company-name>PARADISE MOBILE LTD.</company-name>
+<company-type>C</company-type>
+<ilec-ocn>8907</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS (CQ)</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2026-02-03 01:07:09</udate>
+</prefixdata>
+<prefixdata>
+<npa>345</npa>
+<nxx>415</nxx>
+<x>A</x>
+<exch>027760</exch>
+<rc>Cayman Islands</rc>
+<region>CQ</region>
+<switch></switch>
+<switchname></switchname>
+<switchtype></switchtype>
+<ocn>920K</ocn>
+<company-name>PARADISE MOBILE LTD.</company-name>
+<company-type>C</company-type>
+<ilec-ocn>8907</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS (CQ)</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2026-02-03 01:07:09</udate>
+</prefixdata>
+<prefixdata>
+<npa>345</npa>
+<nxx>416</nxx>
+<x>A</x>
+<exch>027760</exch>
+<rc>Cayman Islands</rc>
+<region>CQ</region>
+<switch></switch>
+<switchname></switchname>
+<switchtype></switchtype>
+<ocn>920K</ocn>
+<company-name>PARADISE MOBILE LTD.</company-name>
+<company-type>C</company-type>
+<ilec-ocn>8907</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS (CQ)</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2026-02-03 01:07:09</udate>
+</prefixdata>
+<prefixdata>
+<npa>345</npa>
+<nxx>420</nxx>
+<x>A</x>
+<exch>027760</exch>
+<rc>Cayman Islands</rc>
+<region>CQ</region>
+<switch>GRGICQABCM0</switch>
+<switchname>GEORGETOWN(GRAND CAYMAN IS)</switchname>
+<switchtype>AXT</switchtype>
+<ocn>688B</ocn>
+<company-name>DIGICEL CAYMAN LIMITED</company-name>
+<company-type>W</company-type>
+<ilec-ocn>8907</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS (CQ)</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2026-01-31 19:25:47</udate>
+</prefixdata>
+<prefixdata>
+<npa>345</npa>
 <nxx>421</nxx>
 <x>A</x>
 <exch>027760</exch>
@@ -1002,6 +1152,31 @@
 <effdate></effdate>
 <discdate></discdate>
 <udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>345</npa>
+<nxx>730</nxx>
+<x>A</x>
+<exch>027760</exch>
+<rc>Cayman Islands</rc>
+<region>CQ</region>
+<switch>SWCHCQUNKNO</switch>
+<switchname>X</switchname>
+<switchtype>5E</switchtype>
+<ocn>8907</ocn>
+<company-name>CABLE &amp; WIRELESS (CQ)</company-name>
+<company-type>I</company-type>
+<ilec-ocn>8907</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS (CQ)</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2026-01-31 19:25:47</udate>
 </prefixdata>
 <prefixdata>
 <npa>345</npa>
@@ -2077,5 +2252,30 @@
 <effdate></effdate>
 <discdate></discdate>
 <udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>345</npa>
+<nxx>995</nxx>
+<x>A</x>
+<exch>027760</exch>
+<rc>Cayman Islands</rc>
+<region>CQ</region>
+<switch></switch>
+<switchname></switchname>
+<switchtype></switchtype>
+<ocn>8907</ocn>
+<company-name>CABLE &amp; WIRELESS (CQ)</company-name>
+<company-type>I</company-type>
+<ilec-ocn>8907</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS (CQ)</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2026-01-30 00:19:05</udate>
 </prefixdata>
 </root>

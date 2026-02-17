@@ -269,7 +269,7 @@ NMS Number Block: Number Block,Block Status,CP Name,Non Geo Number Length,Alloca
 7007 98,Protected,,10 digit numbers,
 7007 99,Protected,,10 digit numbers,
 7008 0,Allocated,TelXL Limited,10 digit numbers,11/03/2004
-7008 1,Quarantined,,10 digit numbers,
+7008 1,Protected,,10 digit numbers,
 7008 2,Protected,,10 digit numbers,
 7008 30,Protected,,10 digit numbers,
 7008 31,Protected,,10 digit numbers,
@@ -281,12 +281,12 @@ NMS Number Block: Number Block,Block Status,CP Name,Non Geo Number Length,Alloca
 7008 37,Protected,,10 digit numbers,
 7008 38,Protected,,10 digit numbers,
 7008 39,Protected,,10 digit numbers,
-7008 4,Quarantined,,10 digit numbers,
+7008 4,Protected,,10 digit numbers,
 7008 5,Protected,,10 digit numbers,
 7008 6,Protected,,10 digit numbers,
 7008 7,Protected,,10 digit numbers,
 7008 8,Quarantined,,10 digit numbers,
-7008 9,Quarantined,,10 digit numbers,
+7008 9,Protected,,10 digit numbers,
 7009 0,Allocated,GCI Network Solutions Limited,10 digit numbers,12/06/2024
 7009 1,Allocated,GCI Network Solutions Limited,10 digit numbers,12/06/2024
 7009 2,Allocated,GCI Network Solutions Limited,10 digit numbers,12/06/2024
@@ -458,7 +458,7 @@ NMS Number Block: Number Block,Block Status,CP Name,Non Geo Number Length,Alloca
 7018 6,Protected,,10 digit numbers,
 7018 7,Protected,,10 digit numbers,
 7018 8,Protected,,10 digit numbers,
-7018 9,Quarantined,,10 digit numbers,
+7018 9,Protected,,10 digit numbers,
 7019 0,Allocated,24 Seven Communications Limited,10 digit numbers,12/09/2011
 7019 1,Protected,,10 digit numbers,
 7019 2,Protected,,10 digit numbers,
@@ -621,7 +621,7 @@ NMS Number Block: Number Block,Block Status,CP Name,Non Geo Number Length,Alloca
 7027 7,Protected,,10 digit numbers,
 7027 8,Protected,,10 digit numbers,
 7027 9,Protected,,10 digit numbers,
-7028 0,Quarantined,,10 digit numbers,
+7028 0,Protected,,10 digit numbers,
 7028 1,Protected,,10 digit numbers,
 7028 20,Allocated,Colt Technology Services,10 digit numbers,02/06/2009
 7028 21,Protected,,10 digit numbers,
@@ -2055,14 +2055,14 @@ NMS Number Block: Number Block,Block Status,CP Name,Non Geo Number Length,Alloca
 7077 59,Protected,,10 digit numbers,
 7077 6,Allocated,24 Seven Communications Limited,10 digit numbers,17/03/2008
 7077 7,Protected,,10 digit numbers,
-7077 8,Quarantined,,10 digit numbers,
+7077 8,Protected,,10 digit numbers,
 7077 9,Protected,,10 digit numbers,
 7078 0,Allocated,Media Telecom Ltd,10 digit numbers,29/06/2010
 7078 1,Protected,,10 digit numbers,
 7078 2,Protected,,10 digit numbers,
 7078 3,Allocated,Jtec UK Limited,10 digit numbers,27/07/2011
 7078 4,Protected,,10 digit numbers,
-7078 5,Quarantined,,10 digit numbers,
+7078 5,Protected,,10 digit numbers,
 7078 6,Protected,,10 digit numbers,
 7078 7,Protected,,10 digit numbers,
 7078 8,Allocated,Nationwide Telephone Assistance Ltd,10 digit numbers,18/07/2006
@@ -2662,7 +2662,7 @@ NMS Number Block: Number Block,Block Status,CP Name,Non Geo Number Length,Alloca
 7094 28,Protected,,10 digit numbers,
 7094 29,Protected,,10 digit numbers,
 7094 3,Allocated,Nuso Cloud UK Limited,10 digit numbers,23/08/2007
-7094 4,Quarantined,,10 digit numbers,
+7094 4,Protected,,10 digit numbers,
 7094 5,Protected,,10 digit numbers,
 7094 60,Protected,,10 digit numbers,
 7094 61,Protected,,10 digit numbers,
@@ -2822,7 +2822,7 @@ NMS Number Block: Number Block,Block Status,CP Name,Non Geo Number Length,Alloca
 7096 6,Protected,,10 digit numbers,
 7096 7,Protected,,10 digit numbers,
 7096 8,Protected,,10 digit numbers,
-7096 9,Quarantined,,10 digit numbers,
+7096 9,Protected,,10 digit numbers,
 7097 00,Protected,,10 digit numbers,
 7097 01,Protected,,10 digit numbers,
 7097 02,Protected,,10 digit numbers,
@@ -3988,7 +3988,7 @@ NMS Number Block: Number Block,Block Status,CP Name,Non Geo Number Length,Alloca
 7389 6,Allocated,Hanhaa Limited,10 digit numbers,16/01/2017
 7389 7,Allocated,Vodafone Limited,10 digit numbers,08/11/2016
 7389 8,Allocated,Vodafone Limited,10 digit numbers,08/11/2016
-7389 9,Free,,10 digit numbers,
+7389 9,Allocated,WIRELESS LOGIC LIMITED,10 digit numbers,30/01/2026
 7390 0,Allocated,Home Office,10 digit numbers,11/04/2016
 7390 1,Reserved,,10 digit numbers,
 7390 2,Reserved,,10 digit numbers,
