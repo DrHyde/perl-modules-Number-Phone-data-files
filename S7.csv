@@ -140,7 +140,7 @@ NMS Number Block: Number Block,Block Status,CP Name,Non Geo Number Length,Alloca
 7004 8,Allocated,Daisy Communications Ltd,10 digit numbers,13/12/2010
 7004 9,Allocated,Daisy Communications Ltd,10 digit numbers,13/12/2010
 7005 0,Allocated,TelXL Limited,10 digit numbers,10/06/2003
-7005 1,Allocated,Numbergroup Utilities Ltd,10 digit numbers,26/10/2010
+7005 1,Allocated,Datazero Ltd,10 digit numbers,26/10/2010
 7005 2,Allocated,TalkTalk Communications Limited,10 digit numbers,09/10/2003
 7005 3,Allocated,TalkTalk Communications Limited,10 digit numbers,09/10/2003
 7005 4,Allocated,TalkTalk Communications Limited,10 digit numbers,09/10/2003
@@ -549,7 +549,7 @@ NMS Number Block: Number Block,Block Status,CP Name,Non Geo Number Length,Alloca
 7023 83,Allocated,Sound Advertising Ltd,10 digit numbers,10/03/2011
 7023 84,Allocated,Nuso Cloud UK Limited,10 digit numbers,25/05/2011
 7023 85,Protected,,10 digit numbers,
-7023 86,Allocated,Numbers Plus Ltd,10 digit numbers,20/07/2011
+7023 86,Quarantined,,10 digit numbers,
 7023 87,Protected,,10 digit numbers,
 7023 88,Allocated,Phone Co-Op Numbering Limited,10 digit numbers,07/03/2011
 7023 89,Protected,,10 digit numbers,
@@ -2359,7 +2359,7 @@ NMS Number Block: Number Block,Block Status,CP Name,Non Geo Number Length,Alloca
 7087 65,Protected,,10 digit numbers,
 7087 66,Allocated,TAP GATEWAY LTD,10 digit numbers,02/07/2020
 7087 67,Protected,,10 digit numbers,
-7087 68,Allocated,Numbers Plus Ltd,10 digit numbers,13/02/2013
+7087 68,Quarantined,,10 digit numbers,
 7087 69,Allocated,TAP GATEWAY LTD,10 digit numbers,02/07/2020
 7087 70,Allocated,TelecomIQ Limited,10 digit numbers,14/11/2016
 7087 71,Allocated,TAP GATEWAY LTD,10 digit numbers,02/07/2020
@@ -2378,7 +2378,7 @@ NMS Number Block: Number Block,Block Status,CP Name,Non Geo Number Length,Alloca
 7087 84,Free,,10 digit numbers,
 7087 85,Free,,10 digit numbers,
 7087 86,Free,,10 digit numbers,
-7087 87,Quarantined,,10 digit numbers,
+7087 87,Protected,,10 digit numbers,
 7087 88,Allocated,Supported Business Limited,10 digit numbers,21/06/2016
 7087 89,Free,,10 digit numbers,
 7087 90,Free,,10 digit numbers,
@@ -2520,7 +2520,7 @@ NMS Number Block: Number Block,Block Status,CP Name,Non Geo Number Length,Alloca
 7090 07,Protected,,10 digit numbers,
 7090 08,Protected,,10 digit numbers,
 7090 09,Protected,,10 digit numbers,
-7090 1,Allocated,Numbergroup Utilities Ltd,10 digit numbers,26/10/2010
+7090 1,Allocated,Datazero Ltd,10 digit numbers,26/10/2010
 7090 2,Allocated,Daisy Communications Ltd,10 digit numbers,13/12/2010
 7090 3,Allocated,Daisy Communications Ltd,10 digit numbers,13/12/2010
 7090 4,Allocated,Daisy Communications Ltd,10 digit numbers,13/12/2010
@@ -3660,7 +3660,7 @@ NMS Number Block: Number Block,Block Status,CP Name,Non Geo Number Length,Alloca
 7355 9,Allocated,Telefonica UK Limited,10 digit numbers,11/06/2020
 7356 0,Allocated,Mass Response Service GmbH,10 digit numbers,15/10/2021
 7356 1,Allocated,Gamma Telecom Holdings Limited,10 digit numbers,14/12/2021
-7356 2,Allocated,Mass Response Service GmbH,10 digit numbers,03/09/2024
+7356 2,Allocated,Mass Response Service GmbH,10 digit numbers,
 7356 3,Allocated,Gamma Telecom Holdings Limited,10 digit numbers,21/10/2024
 7356 4,Free,,10 digit numbers,
 7356 5,Free,,10 digit numbers,
@@ -5669,7 +5669,7 @@ NMS Number Block: Number Block,Block Status,CP Name,Non Geo Number Length,Alloca
 7557 7,Allocated,Vodafone Limited,10 digit numbers,23/07/2009
 7557 8,Allocated,Vodafone Limited,10 digit numbers,23/07/2009
 7557 9,Allocated,Vodafone Limited,10 digit numbers,23/07/2009
-7558 0,Quarantined,,10 digit numbers,
+7558 0,Protected,,10 digit numbers,
 7558 1,Protected,,10 digit numbers,
 7558 2,Protected,,10 digit numbers,
 7558 3,Protected,,10 digit numbers,

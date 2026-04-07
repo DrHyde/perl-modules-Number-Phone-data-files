@@ -498,7 +498,7 @@ NMS Number Block: Number Block,Block Status,CP Name,Non Geo Number Length,Alloca
 5600 96,Protected,,10 digit numbers,,
 5600 97,Protected,,10 digit numbers,,
 5600 98,Allocated,BT,10 digit numbers,14/08/2007,
-5600 99,Allocated,Gamma Telecom Holdings Limited,10 digit numbers,15/12/2004,
+5600 99,Quarantined,,10 digit numbers,,
 5601 00,Protected,,10 digit numbers,,
 5601 01,Allocated,Six Degrees Technology Group Limited,10 digit numbers,02/04/2020,
 5601 02,Quarantined,,10 digit numbers,,

@@ -460,12 +460,12 @@
 <exch>205250</exch>
 <rc>St Croix</rc>
 <region>VI</region>
-<switch>CRISVIXA0MD</switch>
+<switch></switch>
 <switchname></switchname>
-<switchtype>POI</switchtype>
-<ocn>6529</ocn>
-<company-name>T-MOBILE USA, INC.</company-name>
-<company-type>W</company-type>
+<switchtype></switchtype>
+<ocn>5562</ocn>
+<company-name>METROPCS, INC.</company-name>
+<company-type>C</company-type>
 <ilec-ocn>3300</ilec-ocn>
 <ilec-name>VIRGIN ISLANDS TEL. CORP. DBA INNOVATIVE TELEPHONE</ilec-name>
 <lata>822</lata>
@@ -476,7 +476,7 @@
 <rc-lon>-64.708233</rc-lon>
 <effdate></effdate>
 <discdate></discdate>
-<udate>2025-01-26 04:13:19</udate>
+<udate>2026-03-21 23:40:43</udate>
 </prefixdata>
 <prefixdata>
 <npa>340</npa>
@@ -960,12 +960,12 @@
 <exch>205220</exch>
 <rc>Charlotte Amalie (St Thomas)</rc>
 <region>VI</region>
-<switch>CRISVIXA0MD</switch>
+<switch></switch>
 <switchname></switchname>
-<switchtype>POI</switchtype>
-<ocn>6529</ocn>
-<company-name>T-MOBILE USA, INC.</company-name>
-<company-type>W</company-type>
+<switchtype></switchtype>
+<ocn>5562</ocn>
+<company-name>METROPCS, INC.</company-name>
+<company-type>C</company-type>
 <ilec-ocn>3300</ilec-ocn>
 <ilec-name>VIRGIN ISLANDS TEL. CORP. DBA INNOVATIVE TELEPHONE</ilec-name>
 <lata>822</lata>
@@ -976,7 +976,7 @@
 <rc-lon>-64.941157</rc-lon>
 <effdate></effdate>
 <discdate></discdate>
-<udate>2025-01-26 04:13:19</udate>
+<udate>2026-03-21 23:40:43</udate>
 </prefixdata>
 <prefixdata>
 <npa>340</npa>
