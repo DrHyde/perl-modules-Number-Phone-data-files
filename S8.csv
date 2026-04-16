@@ -226,7 +226,6 @@ NMS Number Block: Number Block,Block Status,CP Name,Non Geo Number Length,Alloca
 8000 40 0,Allocated(Closed Range),BT,9 digit numbers,29/02/2000
 8000 40 1,Allocated(Closed Range),BT,9 digit numbers,29/02/2000
 8000 40 4,Allocated(Closed Range),BT,9 digit numbers,29/02/2000
-8000 40 6,Quarantined,,10 digit numbers,
 8000 40 7,Allocated,Vodafone Ltd (C&W),10 digit numbers,28/11/2024
 8000 40 8,Allocated,Daisy Communications Ltd,10 digit numbers,21/12/2010
 8000 40 9,Allocated,Nodemax Limited,10 digit numbers,04/06/2015
@@ -8778,7 +8777,6 @@ NMS Number Block: Number Block,Block Status,CP Name,Non Geo Number Length,Alloca
 8444 62,Allocated,Connect Telecom UK Limited,10 digit numbers,07/08/2002
 8444 63,Allocated,TalkTalk Communications Limited,10 digit numbers,09/10/2003
 8444 69,Allocated,Newtel Limited,10 digit numbers,16/04/2003
-8444 71,Quarantined,,10 digit numbers,
 8444 72,Allocated,Virgin Media Limited,10 digit numbers,08/04/2016
 8444 75,Allocated,Lycatel (Ireland) Limited,10 digit numbers,01/03/2006
 8444 76,Allocated,Daotec Ltd,10 digit numbers,27/04/2005
@@ -8853,7 +8851,6 @@ NMS Number Block: Number Block,Block Status,CP Name,Non Geo Number Length,Alloca
 8445 71,Allocated,Virgin Media Limited,10 digit numbers,08/04/2016
 8445 72,Allocated,A2B Telecom Limited,10 digit numbers,19/10/2011
 8445 73,Allocated,Call Stream Limited,10 digit numbers,20/02/2007
-8445 75,Quarantined,,10 digit numbers,
 8445 76,Allocated,TalkTalk Communications Limited,10 digit numbers,26/03/2007
 8445 77,Allocated,Call Stream Limited,10 digit numbers,30/08/2012
 8445 78,Allocated,WAVECREST NETWORKS LIMITED,10 digit numbers,17/12/2019
@@ -9170,7 +9167,6 @@ NMS Number Block: Number Block,Block Status,CP Name,Non Geo Number Length,Alloca
 8450 04,Allocated,Magrathea Telecommunications Limited,10 digit numbers,21/01/2002
 8450 05,Allocated,GTT-EMEA LTD,10 digit numbers,14/10/2021
 8450 06,Allocated,Redcentric Solutions Limited,10 digit numbers,25/05/2016
-8450 07,Quarantined,,10 digit numbers,
 8450 08,Allocated,Verizon UK Limited,10 digit numbers,03/10/2000
 8450 09,Allocated,Vodafone Ltd (C&W),10 digit numbers,28/11/2024
 8450 10,Allocated,Lumen Technologies UK Limited,10 digit numbers,01/09/1997
@@ -10060,7 +10056,6 @@ NMS Number Block: Number Block,Block Status,CP Name,Non Geo Number Length,Alloca
 8700 04,Allocated,Pipex Communications PLC,10 digit numbers,14/07/2000
 8700 05,Allocated,IV Response Limited,10 digit numbers,09/03/2002
 8700 06,Allocated,Adviqo UK Limited,10 digit numbers,12/06/2012
-8700 07,Quarantined,,10 digit numbers,
 8700 08,Allocated,Adviqo UK Limited,10 digit numbers,12/06/2012
 8700 09,Allocated,Telefonica UK Limited,10 digit numbers,08/11/2010
 8700 10,Allocated,Vodafone Ltd (C&W),10 digit numbers,16/09/2013
@@ -10930,7 +10925,6 @@ NMS Number Block: Number Block,Block Status,CP Name,Non Geo Number Length,Alloca
 8712 11,Allocated,TalkTalk Communications Limited,10 digit numbers,20/07/2006
 8712 12,Allocated,Adviqo UK Limited,10 digit numbers,12/06/2012
 8712 14,Allocated,Redcentric Solutions Limited,10 digit numbers,25/05/2016
-8712 15,Quarantined,,10 digit numbers,
 8712 17,Allocated,Dynamic Mobile Billing Limited,10 digit numbers,15/08/2007
 8712 18,Allocated,Digital Mail Limited,10 digit numbers,14/08/2003
 8712 20,Allocated,GCI Network Solutions Limited,10 digit numbers,20/12/2023
@@ -10991,7 +10985,6 @@ NMS Number Block: Number Block,Block Status,CP Name,Non Geo Number Length,Alloca
 8712 89,Allocated,Telesoft Technologies Limited,10 digit numbers,10/05/2005
 8712 91,Allocated,Spacetel UK Ltd,10 digit numbers,29/01/2007
 8712 92,Allocated,Virgin Media Limited,10 digit numbers,18/05/2004
-8712 93,Quarantined,,10 digit numbers,
 8712 94,Allocated,Syntec Limited,10 digit numbers,21/12/2004
 8712 95,Allocated,InTouch Communication Services Limited,10 digit numbers,06/07/2004
 8712 96,Allocated,Invade International Ltd,10 digit numbers,13/01/2016
@@ -11059,7 +11052,6 @@ NMS Number Block: Number Block,Block Status,CP Name,Non Geo Number Length,Alloca
 8713 84,Allocated,BT,10 digit numbers,08/02/2005
 8713 86,Allocated,Vodafone Ltd (C&W),10 digit numbers,01/11/2024
 8713 87,Allocated,Digital Space Group Limited,10 digit numbers,24/12/2015
-8713 88,Quarantined,,10 digit numbers,
 8713 89,Allocated,C2C Limited,10 digit numbers,15/02/2005
 8713 90,Allocated,Lycatel (Ireland) Limited,10 digit numbers,01/03/2006
 8713 91,Allocated,Vodafone Ltd (C&W),10 digit numbers,28/11/2024
@@ -11475,7 +11467,6 @@ NMS Number Block: Number Block,Block Status,CP Name,Non Geo Number Length,Alloca
 8719 89,Allocated,Vodafone Ltd (C&W),10 digit numbers,28/11/2024
 8719 90,Allocated,IV Response Limited,10 digit numbers,09/03/2002
 8719 92,Allocated,WAVECREST NETWORKS LIMITED,10 digit numbers,17/12/2019
-8719 93,Quarantined,,10 digit numbers,
 8719 95,Allocated,GCI Network Solutions Limited,10 digit numbers,19/04/2017
 8719 96,Allocated,Flextel Limited,10 digit numbers,07/09/2004
 8719 97,Allocated,FLR Spectron Ltd,10 digit numbers,13/06/2025

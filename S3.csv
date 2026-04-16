@@ -4653,7 +4653,7 @@ NMS Number Block: Number Block,Block Status,CP Name,Non Geo Number Length,Alloca
 3330 28,Free,,10 digit numbers,,
 3330 29,Free,,10 digit numbers,,
 3330 30,Allocated,Telecom2 Limited,10 digit numbers,24/08/2009,
-3330 31,Quarantined,,10 digit numbers,,
+3330 31,Protected,,10 digit numbers,,
 3330 32,Allocated,Gamma Telecom Holdings Limited,10 digit numbers,23/06/2015,
 3330 33,Allocated,Nextec UK Limited,10 digit numbers,26/11/2013,
 3330 34,Allocated,Gamma Telecom Holdings Limited,10 digit numbers,09/03/2022,

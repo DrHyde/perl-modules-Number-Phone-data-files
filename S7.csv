@@ -786,7 +786,7 @@ NMS Number Block: Number Block,Block Status,CP Name,Non Geo Number Length,Alloca
 7030 88,Protected,,10 digit numbers,
 7030 89,Allocated,Atlantic Communications Corp Ltd,10 digit numbers,08/11/2013
 7030 9,Allocated,Atlas Interactive Group Limited,10 digit numbers,05/04/2000
-7031 0,Quarantined,,10 digit numbers,
+7031 0,Protected,,10 digit numbers,
 7031 1,Protected,,10 digit numbers,
 7031 2,Protected,,10 digit numbers,
 7031 30,Protected,,10 digit numbers,
@@ -3034,7 +3034,7 @@ NMS Number Block: Number Block,Block Status,CP Name,Non Geo Number Length,Alloca
 7099 08,Protected,,10 digit numbers,
 7099 09,Protected,,10 digit numbers,
 7099 1,Protected,,10 digit numbers,
-7099 2,Quarantined,,10 digit numbers,
+7099 2,Protected,,10 digit numbers,
 7099 3,Protected,,10 digit numbers,
 7099 4,Allocated,Telecom2 Limited,10 digit numbers,17/08/2009
 7099 50,Protected,,10 digit numbers,
@@ -4742,7 +4742,7 @@ NMS Number Block: Number Block,Block Status,CP Name,Non Geo Number Length,Alloca
 7465 0,Allocated,Vectone Mobile Limited,10 digit numbers,24/07/2012
 7465 1,Allocated,Vectone Mobile Limited,10 digit numbers,24/07/2012
 7465 2,Allocated,Hutchison 3G UK Ltd,10 digit numbers,05/08/2015
-7465 3,Quarantined,,10 digit numbers,
+7465 3,Protected,,10 digit numbers,
 7465 4,Allocated,Hutchison 3G UK Ltd,10 digit numbers,05/08/2015
 7465 5,Allocated,Global Reach Networks Limited,10 digit numbers,11/10/2016
 7465 6,Allocated,Hutchison 3G UK Ltd,10 digit numbers,05/08/2015
