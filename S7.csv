@@ -8133,7 +8133,7 @@ NMS Number Block: Number Block,Block Status,CP Name,Non Geo Number Length,Alloca
 7822 2,Protected,,10 digit numbers,
 7822 3,Protected,,10 digit numbers,
 7822 4,Allocated,AQL Wholesale Ltd,10 digit numbers,14/07/2006
-7822 5,Quarantined,,10 digit numbers,
+7822 5,Protected,,10 digit numbers,
 7822 6,Allocated,AQL Wholesale Ltd,10 digit numbers,14/07/2006
 7822 7,Protected,,10 digit numbers,
 7822 8,Allocated,Vodafone Limited,10 digit numbers,21/04/2016
@@ -9693,7 +9693,7 @@ NMS Number Block: Number Block,Block Status,CP Name,Non Geo Number Length,Alloca
 7978 2,Allocated,WIRELESS LOGIC LIMITED,10 digit numbers,12/04/2022
 7978 3,Allocated,WIRELESS LOGIC LIMITED,10 digit numbers,12/04/2022
 7978 4,Protected,,10 digit numbers,
-7978 5,Quarantined,,10 digit numbers,
+7978 5,Protected,,10 digit numbers,
 7978 6,Protected,,10 digit numbers,
 7978 7,Allocated,TeleWare Group Limited,10 digit numbers,21/12/2006
 7978 8,Allocated,TP GLOBAL OPERATIONS LIMITED,10 digit numbers,18/07/2023
