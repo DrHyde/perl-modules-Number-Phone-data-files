@@ -1831,16 +1831,16 @@ NMS Number Block: Number Block,Block Status,CP Name,Non Geo Number Length,Alloca
 7069 59,Protected,,10 digit numbers,
 7069 6,Protected,,10 digit numbers,
 7069 7,Allocated,TalkTalk Communications Limited,10 digit numbers,29/06/2006
-7069 80,Allocated,Assume Nothing Limited,10 digit numbers,17/12/2007
-7069 81,Allocated,Assume Nothing Limited,10 digit numbers,17/12/2007
-7069 82,Allocated,Assume Nothing Limited,10 digit numbers,17/12/2007
-7069 83,Allocated,Assume Nothing Limited,10 digit numbers,17/12/2007
-7069 84,Allocated,Assume Nothing Limited,10 digit numbers,17/12/2007
-7069 85,Allocated,Assume Nothing Limited,10 digit numbers,17/12/2007
-7069 86,Allocated,Assume Nothing Limited,10 digit numbers,17/12/2007
-7069 87,Allocated,Assume Nothing Limited,10 digit numbers,17/12/2007
-7069 88,Allocated,Assume Nothing Limited,10 digit numbers,17/12/2007
-7069 89,Allocated,Assume Nothing Limited,10 digit numbers,17/12/2007
+7069 80,Quarantined,,10 digit numbers,
+7069 81,Quarantined,,10 digit numbers,
+7069 82,Quarantined,,10 digit numbers,
+7069 83,Quarantined,,10 digit numbers,
+7069 84,Quarantined,,10 digit numbers,
+7069 85,Quarantined,,10 digit numbers,
+7069 86,Quarantined,,10 digit numbers,
+7069 87,Quarantined,,10 digit numbers,
+7069 88,Quarantined,,10 digit numbers,
+7069 89,Quarantined,,10 digit numbers,
 7069 90,Protected,,10 digit numbers,
 7069 91,Protected,,10 digit numbers,
 7069 92,Protected,,10 digit numbers,
@@ -2141,15 +2141,15 @@ NMS Number Block: Number Block,Block Status,CP Name,Non Geo Number Length,Alloca
 7084 3,Allocated,ETC Telecom Limited,10 digit numbers,03/09/2007
 7084 4,Protected,,10 digit numbers,
 7084 50,Allocated,Mars Communications Limited,10 digit numbers,12/03/2008
-7084 51,Allocated,Assume Nothing Limited,10 digit numbers,17/12/2007
-7084 52,Allocated,Assume Nothing Limited,10 digit numbers,17/12/2007
-7084 53,Allocated,Assume Nothing Limited,10 digit numbers,17/12/2007
-7084 54,Allocated,Assume Nothing Limited,10 digit numbers,17/12/2007
-7084 55,Allocated,Assume Nothing Limited,10 digit numbers,17/12/2007
-7084 56,Allocated,Assume Nothing Limited,10 digit numbers,17/12/2007
-7084 57,Allocated,Assume Nothing Limited,10 digit numbers,17/12/2007
-7084 58,Allocated,Assume Nothing Limited,10 digit numbers,17/12/2007
-7084 59,Allocated,Assume Nothing Limited,10 digit numbers,17/12/2007
+7084 51,Quarantined,,10 digit numbers,
+7084 52,Quarantined,,10 digit numbers,
+7084 53,Quarantined,,10 digit numbers,
+7084 54,Quarantined,,10 digit numbers,
+7084 55,Quarantined,,10 digit numbers,
+7084 56,Quarantined,,10 digit numbers,
+7084 57,Quarantined,,10 digit numbers,
+7084 58,Quarantined,,10 digit numbers,
+7084 59,Quarantined,,10 digit numbers,
 7084 6,Allocated,(AQ) LIMITED,10 digit numbers,13/09/2012
 7084 7,Allocated,(AQ) LIMITED,10 digit numbers,13/09/2012
 7084 8,Allocated,(AQ) LIMITED,10 digit numbers,13/09/2012
@@ -2300,32 +2300,32 @@ NMS Number Block: Number Block,Block Status,CP Name,Non Geo Number Length,Alloca
 7087 06,Protected,,10 digit numbers,
 7087 07,Protected,,10 digit numbers,
 7087 08,Protected,,10 digit numbers,
-7087 09,Allocated,One Network Limited,10 digit numbers,12/04/2011
+7087 09,Quarantined,,10 digit numbers,
 7087 10,Protected,,10 digit numbers,
-7087 11,Allocated,One Network Limited,10 digit numbers,12/04/2011
+7087 11,Quarantined,,10 digit numbers,
 7087 12,Allocated,Voicetec Systems Ltd,10 digit numbers,13/09/2011
-7087 13,Allocated,One Network Limited,10 digit numbers,12/04/2011
+7087 13,Quarantined,,10 digit numbers,
 7087 14,Allocated,Spacetel UK Ltd,10 digit numbers,29/09/2011
-7087 15,Allocated,One Network Limited,10 digit numbers,12/04/2011
+7087 15,Quarantined,,10 digit numbers,
 7087 16,Allocated,Voicetec Systems Ltd,10 digit numbers,13/09/2011
 7087 17,Allocated,Sound Advertising Ltd,10 digit numbers,10/03/2011
-7087 18,Allocated,One Network Limited,10 digit numbers,12/04/2011
+7087 18,Quarantined,,10 digit numbers,
 7087 19,Allocated,Spacetel UK Ltd,10 digit numbers,29/09/2011
 7087 20,Allocated,Nuso Cloud UK Limited,10 digit numbers,25/05/2011
-7087 21,Allocated,One Network Limited,10 digit numbers,12/04/2011
-7087 22,Allocated,One Network Limited,10 digit numbers,12/04/2011
+7087 21,Quarantined,,10 digit numbers,
+7087 22,Quarantined,,10 digit numbers,
 7087 23,Allocated,Voicetec Systems Ltd,10 digit numbers,13/09/2011
-7087 24,Allocated,One Network Limited,10 digit numbers,12/04/2011
+7087 24,Quarantined,,10 digit numbers,
 7087 25,Allocated,Spacetel UK Ltd,10 digit numbers,29/09/2011
-7087 26,Allocated,One Network Limited,10 digit numbers,12/04/2011
+7087 26,Quarantined,,10 digit numbers,
 7087 27,Allocated,Firstsound Ltd,10 digit numbers,13/04/2011
-7087 28,Allocated,One Network Limited,10 digit numbers,12/04/2011
+7087 28,Quarantined,,10 digit numbers,
 7087 29,Allocated,Voicetec Systems Ltd,10 digit numbers,13/09/2011
-7087 30,Allocated,One Network Limited,10 digit numbers,12/04/2011
+7087 30,Quarantined,,10 digit numbers,
 7087 31,Allocated,Spacetel UK Ltd,10 digit numbers,29/09/2011
-7087 32,Allocated,One Network Limited,10 digit numbers,12/04/2011
+7087 32,Quarantined,,10 digit numbers,
 7087 33,Allocated,Nuso Cloud UK Limited,10 digit numbers,25/05/2011
-7087 34,Allocated,One Network Limited,10 digit numbers,12/04/2011
+7087 34,Quarantined,,10 digit numbers,
 7087 35,Allocated,Voicetec Systems Ltd,10 digit numbers,13/09/2011
 7087 36,Allocated,Spacetel UK Ltd,10 digit numbers,29/09/2011
 7087 37,Protected,,10 digit numbers,
@@ -5987,7 +5987,7 @@ NMS Number Block: Number Block,Block Status,CP Name,Non Geo Number Length,Alloca
 7589 5,Allocated,Vectone Mobile Limited,10 digit numbers,14/09/2009
 7589 6,Allocated,Vectone Mobile Limited,10 digit numbers,14/09/2009
 7589 7,Allocated,Vectone Mobile Limited,10 digit numbers,14/09/2009
-7589 8,Allocated,Sark Telecom B.V.,10 digit numbers,30/11/2009
+7589 8,Quarantined,,10 digit numbers,
 7589 9,Protected,,10 digit numbers,
 7590 0,Allocated,Telefonica UK Limited,10 digit numbers,27/07/2007
 7590 1,Allocated,Telefonica UK Limited,10 digit numbers,27/07/2007

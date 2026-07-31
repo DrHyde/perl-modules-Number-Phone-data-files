@@ -1960,9 +1960,9 @@
 <exch>036100</exch>
 <rc>Agana</rc>
 <region>GU</region>
-<switch></switch>
-<switchname></switchname>
-<switchtype></switchtype>
+<switch>TMNGGU03GT1</switch>
+<switchname>TAMUNING</switchname>
+<switchtype>MMG</switchtype>
 <ocn>3922</ocn>
 <company-name>TELEGUAM HOLDINGS, LLC</company-name>
 <company-type>C</company-type>
@@ -1976,7 +1976,7 @@
 <rc-lon></rc-lon>
 <effdate></effdate>
 <discdate></discdate>
-<udate>2025-09-15 01:42:17</udate>
+<udate>2026-07-16 02:21:55</udate>
 </prefixdata>
 <prefixdata>
 <npa>671</npa>
@@ -2385,9 +2385,9 @@
 <exch>036100</exch>
 <rc>Agana</rc>
 <region>GU</region>
-<switch></switch>
-<switchname></switchname>
-<switchtype></switchtype>
+<switch>TMNGGU01CM2</switch>
+<switchname>TAMUNING</switchname>
+<switchtype>DX2</switchtype>
 <ocn>3945</ocn>
 <company-name>GUAM WIRELESS TELEPHONE COMPANY, LLC</company-name>
 <company-type>W</company-type>
@@ -2401,7 +2401,7 @@
 <rc-lon></rc-lon>
 <effdate></effdate>
 <discdate></discdate>
-<udate>2025-12-07 21:49:14</udate>
+<udate>2026-07-16 02:21:55</udate>
 </prefixdata>
 <prefixdata>
 <npa>671</npa>
@@ -2410,9 +2410,9 @@
 <exch>036100</exch>
 <rc>Agana</rc>
 <region>GU</region>
-<switch></switch>
-<switchname></switchname>
-<switchtype></switchtype>
+<switch>TMNGGU01CM2</switch>
+<switchname>TAMUNING</switchname>
+<switchtype>DX2</switchtype>
 <ocn>3945</ocn>
 <company-name>GUAM WIRELESS TELEPHONE COMPANY, LLC</company-name>
 <company-type>W</company-type>
@@ -2426,7 +2426,7 @@
 <rc-lon></rc-lon>
 <effdate></effdate>
 <discdate></discdate>
-<udate>2025-12-20 02:36:58</udate>
+<udate>2026-07-16 02:21:55</udate>
 </prefixdata>
 <prefixdata>
 <npa>671</npa>
@@ -2485,9 +2485,9 @@
 <exch>036100</exch>
 <rc>Agana</rc>
 <region>GU</region>
-<switch></switch>
-<switchname></switchname>
-<switchtype></switchtype>
+<switch>TMNGGU01CM2</switch>
+<switchname>TAMUNING</switchname>
+<switchtype>DX2</switchtype>
 <ocn>3945</ocn>
 <company-name>GUAM WIRELESS TELEPHONE COMPANY, LLC</company-name>
 <company-type>W</company-type>
@@ -2501,6 +2501,6 @@
 <rc-lon></rc-lon>
 <effdate></effdate>
 <discdate></discdate>
-<udate>2025-12-20 02:36:58</udate>
+<udate>2026-07-16 02:21:55</udate>
 </prefixdata>
 </root>
