@@ -40,7 +40,7 @@ NMS Number Block: Number Block,Block Status,CP Name,Non Geo Number Length,Alloca
 8000 05 1,Allocated,Buzz Networks Limited,10 digit numbers,07/07/2006
 8000 05 2,Allocated,Buzz Networks Limited,10 digit numbers,07/07/2006
 8000 05 3,Allocated,Buzz Networks Limited,10 digit numbers,07/07/2006
-8000 05 4,Allocated,Rojo Trading Limited,10 digit numbers,19/04/2007
+8000 05 4,Quarantined,,10 digit numbers,
 8000 05 5,Allocated(Closed Range),BT,9 digit numbers,14/01/2003
 8000 05 6,Allocated(Closed Range),BT,9 digit numbers,14/01/2003
 8000 05 7,Allocated(Closed Range),BT,9 digit numbers,14/01/2003
@@ -123,11 +123,11 @@ NMS Number Block: Number Block,Block Status,CP Name,Non Geo Number Length,Alloca
 8000 14 9,Allocated,Invosys Limited,10 digit numbers,28/06/2012
 8000 15,Allocated,Vodafone Ltd (C&W),10 digit numbers,12/09/2013
 8000 16 0,Allocated(Closed Range),BT,9 digit numbers,24/04/2001
-8000 16 1,Allocated,Real Telekom Ltd,10 digit numbers,31/01/2011
+8000 16 1,Quarantined,,10 digit numbers,
 8000 16 3,Allocated,BT,10 digit numbers,29/10/2012
 8000 16 4,Allocated(Closed Range),BT,9 digit numbers,24/04/2001
 8000 16 5,Allocated,Verizon UK Limited,10 digit numbers,11/06/2001
-8000 16 7,Allocated,Real Telekom Ltd,10 digit numbers,31/01/2011
+8000 16 7,Quarantined,,10 digit numbers,
 8000 16 8,Allocated,Simple Call Limited,10 digit numbers,12/05/2022
 8000 16 9,Allocated,Nexus Telecommunications Limited,10 digit numbers,30/04/2013
 8000 18,Allocated,Verizon UK Limited,10 digit numbers,08/09/1995
@@ -1362,7 +1362,7 @@ NMS Number Block: Number Block,Block Status,CP Name,Non Geo Number Length,Alloca
 8002 09 6,Free,,10 digit numbers,
 8002 09 7,Free,,10 digit numbers,
 8002 09 8,Free,,10 digit numbers,
-8002 09 9,Allocated,TelecomIQ Limited,10 digit numbers,18/05/2015
+8002 09 9,Quarantined,,10 digit numbers,
 8002 10 0,Allocated,Vodafone Ltd (C&W),10 digit numbers,13/09/2013
 8002 10 1,Allocated,24 Seven Cloud Communications Ltd,10 digit numbers,07/10/2019
 8002 10 2,Allocated(Closed Range),BT,9 digit numbers,24/04/2001
@@ -2382,7 +2382,7 @@ NMS Number Block: Number Block,Block Status,CP Name,Non Geo Number Length,Alloca
 8003 30 7,Allocated(Closed Range),BT,9 digit numbers,24/04/2001
 8003 30 8,Allocated,Call Stream Limited,10 digit numbers,21/12/2005
 8003 30 9,Allocated(Closed Range),BT,9 digit numbers,24/04/2001
-8003 31 0,Allocated,Sigma Voice Solutions Ltd,10 digit numbers,31/12/2007
+8003 31 0,Quarantined,,10 digit numbers,
 8003 31 1,Allocated(Closed Range),BT,9 digit numbers,29/02/2000
 8003 31 2,Allocated(Closed Range),BT,9 digit numbers,29/02/2000
 8003 31 3,Allocated(Closed Range),BT,9 digit numbers,29/02/2000
@@ -2915,18 +2915,18 @@ NMS Number Block: Number Block,Block Status,CP Name,Non Geo Number Length,Alloca
 8003 97 5,Allocated(Closed Range),BT,9 digit numbers,22/01/2003
 8003 97 6,Allocated(Closed Range),BT,9 digit numbers,22/01/2003
 8003 97 7,Allocated(Closed Range),BT,9 digit numbers,22/01/2003
-8003 97 8,Free,,10 digit numbers,
-8003 97 9,Free,,10 digit numbers,
-8003 98 0,Free,,10 digit numbers,
-8003 98 1,Free,,10 digit numbers,
-8003 98 2,Free,,10 digit numbers,
+8003 97 8,Allocated,Gamma Telecom Holdings Limited,10 digit numbers,20/08/2026
+8003 97 9,Allocated,Gamma Telecom Holdings Limited,10 digit numbers,20/08/2026
+8003 98 0,Allocated,Gamma Telecom Holdings Limited,10 digit numbers,20/08/2026
+8003 98 1,Allocated,Gamma Telecom Holdings Limited,10 digit numbers,20/08/2026
+8003 98 2,Allocated,Gamma Telecom Holdings Limited,10 digit numbers,20/08/2026
 8003 98 3,Allocated(Closed Range),BT,9 digit numbers,22/01/2003
-8003 98 4,Free,,10 digit numbers,
-8003 98 5,Free,,10 digit numbers,
-8003 98 6,Free,,10 digit numbers,
-8003 98 7,Free,,10 digit numbers,
+8003 98 4,Allocated,Gamma Telecom Holdings Limited,10 digit numbers,20/08/2026
+8003 98 5,Allocated,Gamma Telecom Holdings Limited,10 digit numbers,20/08/2026
+8003 98 6,Allocated,Gamma Telecom Holdings Limited,10 digit numbers,20/08/2026
+8003 98 7,Allocated,Gamma Telecom Holdings Limited,10 digit numbers,20/08/2026
 8003 98 8,Allocated(Closed Range),BT,9 digit numbers,22/01/2003
-8003 98 9,Free,,10 digit numbers,
+8003 98 9,Allocated,Gamma Telecom Holdings Limited,10 digit numbers,20/08/2026
 8003 99 0,Free,,10 digit numbers,
 8003 99 1,Free,,10 digit numbers,
 8003 99 2,Free,,10 digit numbers,
@@ -6077,7 +6077,6 @@ NMS Number Block: Number Block,Block Status,CP Name,Non Geo Number Length,Alloca
 8007 76 8,Allocated(Closed Range),BT,9 digit numbers,22/01/2003
 8007 76 9,Free,,10 digit numbers,
 8007 77,Allocated(Closed Range),BT,9 digit numbers,
-8007 78 0,Quarantined,,10 digit numbers,
 8007 78 1,Free,,10 digit numbers,
 8007 78 2,Free,,10 digit numbers,
 8007 78 3,Allocated(Closed Range),BT,9 digit numbers,24/04/2001
@@ -6817,7 +6816,7 @@ NMS Number Block: Number Block,Block Status,CP Name,Non Geo Number Length,Alloca
 8008 76 6,Allocated,BT,10 digit numbers,03/11/2004
 8008 76 7,Allocated(Closed Range),BT,9 digit numbers,22/01/2003
 8008 76 8,Allocated(Closed Range),BT,9 digit numbers,22/01/2003
-8008 76 9,Allocated,TelecomIQ Limited,10 digit numbers,13/05/2020
+8008 76 9,Quarantined,,10 digit numbers,
 8008 77 0,Allocated,Adepteo Limited,10 digit numbers,27/02/2015
 8008 77 1,Free,,10 digit numbers,
 8008 77 2,Allocated,TelXL Limited,10 digit numbers,09/04/2024
@@ -7334,7 +7333,7 @@ NMS Number Block: Number Block,Block Status,CP Name,Non Geo Number Length,Alloca
 8009 71 4,Free,,10 digit numbers,
 8009 71 5,Free,,10 digit numbers,
 8009 71 6,Free,,10 digit numbers,
-8009 71 7,Allocated,TelecomIQ Limited,10 digit numbers,22/07/2013
+8009 71 7,Quarantined,,10 digit numbers,
 8009 71 8,Free,,10 digit numbers,
 8009 71 9,Free,,10 digit numbers,
 8009 72 0,Free,,10 digit numbers,
@@ -7760,7 +7759,7 @@ NMS Number Block: Number Block,Block Status,CP Name,Non Geo Number Length,Alloca
 8082 73,Allocated,Magrathea Telecommunications Limited,10 digit numbers,09/04/2014
 8082 74,Allocated,GCI Network Solutions Limited,10 digit numbers,20/12/2023
 8082 75,Allocated,Ziron Limited,10 digit numbers,02/08/2012
-8082 76,Allocated,TelecomIQ Limited,10 digit numbers,22/07/2013
+8082 76,Quarantined,,10 digit numbers,
 8082 77,Allocated,Third Party Formations Limited,10 digit numbers,24/07/2012
 8082 78,Allocated,GCI Network Solutions Limited,10 digit numbers,20/12/2023
 8082 79,Allocated,Square Systems Limited,10 digit numbers,01/07/2014
@@ -8418,10 +8417,7 @@ NMS Number Block: Number Block,Block Status,CP Name,Non Geo Number Length,Alloca
 8438 13,Allocated,VoiceHost Limited,10 digit numbers,12/03/2012
 8438 14,Allocated,VoiceHost Limited,10 digit numbers,12/03/2012
 8438 16,Allocated,TalkTalk Communications Limited,10 digit numbers,29/10/2012
-8438 17,Quarantined,,10 digit numbers,
-8438 19,Quarantined,,10 digit numbers,
 8438 25,Allocated,Planet Telecom Ltd,10 digit numbers,18/01/2013
-8438 26,Quarantined,,10 digit numbers,
 8438 27,Allocated,Voxbone SA,10 digit numbers,18/01/2013
 8438 29,Allocated,Liquid 11 Limited,10 digit numbers,25/01/2013
 8438 30,Allocated,Numbers Telecom Limited,10 digit numbers,01/02/2016
@@ -8449,14 +8445,14 @@ NMS Number Block: Number Block,Block Status,CP Name,Non Geo Number Length,Alloca
 8438 56,Allocated,Continuity Assured Limited,10 digit numbers,20/06/2013
 8438 57,Allocated,Twelve Telecom Limited,10 digit numbers,21/05/2013
 8438 58,Allocated,Jtec UK Limited,10 digit numbers,06/03/2013
-8438 59,Allocated,TelecomIQ Limited,10 digit numbers,22/07/2013
+8438 59,Quarantined,,10 digit numbers,
 8438 61,Allocated,Twelve Telecom Limited,10 digit numbers,21/05/2013
 8438 64,Allocated,Twelve Telecom Limited,10 digit numbers,21/05/2013
-8438 65,Allocated,TelecomIQ Limited,10 digit numbers,22/07/2013
+8438 65,Quarantined,,10 digit numbers,
 8438 66,Allocated,Numbers Telecom Limited,10 digit numbers,12/07/2012
 8438 67,Allocated,Twelve Telecom Limited,10 digit numbers,21/05/2013
 8438 68,Allocated,Numbers Telecom Limited,10 digit numbers,12/07/2012
-8438 69,Allocated,TelecomIQ Limited,10 digit numbers,22/07/2013
+8438 69,Quarantined,,10 digit numbers,
 8438 70,Allocated,Numbers Telecom Limited,10 digit numbers,12/07/2012
 8438 72,Allocated,Numbers Telecom Limited,10 digit numbers,12/07/2012
 8438 73,Allocated,Twelve Telecom Limited,10 digit numbers,21/05/2013
@@ -8465,18 +8461,18 @@ NMS Number Block: Number Block,Block Status,CP Name,Non Geo Number Length,Alloca
 8438 76,Allocated,FUSION TELECOM LTD,10 digit numbers,14/05/2020
 8438 77,Allocated,Numbers Telecom Limited,10 digit numbers,12/07/2012
 8438 78,Allocated,Numbers Telecom Limited,10 digit numbers,12/07/2012
-8438 79,Allocated,TelecomIQ Limited,10 digit numbers,22/07/2013
+8438 79,Quarantined,,10 digit numbers,
 8438 80,Allocated,Zestel Limited,10 digit numbers,19/02/2013
 8438 81,Allocated,Jtec UK Limited,10 digit numbers,06/03/2013
 8438 82,Allocated,Telecom2 Limited,10 digit numbers,14/05/2013
 8438 83,Allocated,Mintaka Limited,10 digit numbers,02/08/2012
 8438 86,Allocated,Liquid 11 Limited,10 digit numbers,15/11/2012
-8438 87,Allocated,TelecomIQ Limited,10 digit numbers,22/07/2013
+8438 87,Quarantined,,10 digit numbers,
 8438 88,Allocated,Talk Numbers Ltd,10 digit numbers,27/02/2012
 8438 89,Allocated,Voice Simplified Limited,10 digit numbers,25/06/2013
 8438 90,Allocated,Twelve Telecom Limited,10 digit numbers,21/05/2013
-8438 92,Allocated,TelecomIQ Limited,10 digit numbers,22/07/2013
-8438 94,Allocated,TelecomIQ Limited,10 digit numbers,22/07/2013
+8438 92,Quarantined,,10 digit numbers,
+8438 94,Quarantined,,10 digit numbers,
 8438 95,Allocated,IOVOX Limited,10 digit numbers,28/01/2013
 8438 96,Allocated,Telecom2 Limited,10 digit numbers,18/03/2013
 8438 98,Allocated,Zestel Limited,10 digit numbers,19/02/2013
@@ -8501,7 +8497,7 @@ NMS Number Block: Number Block,Block Status,CP Name,Non Geo Number Length,Alloca
 8439 33,Allocated,Mi Telecom Limited,10 digit numbers,15/04/2014
 8439 34,Allocated,Telecoms World Direct Limited,10 digit numbers,10/06/2014
 8439 36,Allocated,Swiftnet Limited,10 digit numbers,23/06/2015
-8439 39,Allocated,Sigma Voice Solutions Ltd,10 digit numbers,07/05/2014
+8439 39,Quarantined,,10 digit numbers,
 8439 42,Allocated,Digital Space Group Limited,10 digit numbers,24/12/2015
 8439 43,Allocated,Redwood Technologies Ltd,10 digit numbers,15/11/2018
 8439 44,Allocated,Redwood Technologies Ltd,10 digit numbers,15/11/2018
@@ -8920,7 +8916,7 @@ NMS Number Block: Number Block,Block Status,CP Name,Non Geo Number Length,Alloca
 8446 81,Allocated,Media Telecom Ltd,10 digit numbers,23/06/2010
 8446 82,Allocated,Core Telecom Limited,10 digit numbers,14/03/2011
 8446 83,Allocated,Tabsoft Limited,10 digit numbers,30/04/2007
-8446 85,Allocated,Rojo Trading Limited,10 digit numbers,19/04/2007
+8446 85,Quarantined,,10 digit numbers,
 8446 86,Allocated,Core Telecom Limited,10 digit numbers,11/12/2006
 8446 88,Allocated,Magrathea Telecommunications Limited,10 digit numbers,20/10/2006
 8446 89,Allocated,Telecom 10 Ltd,10 digit numbers,25/11/2009
@@ -9417,7 +9413,7 @@ NMS Number Block: Number Block,Block Status,CP Name,Non Geo Number Length,Alloca
 8452 94,Allocated,Barritel Limited,10 digit numbers,26/11/2013
 8452 95,Allocated,Nexus Telecommunications Limited,10 digit numbers,01/10/2007
 8452 96,Allocated,TalkTalk Communications Limited,10 digit numbers,05/05/2006
-8452 97,Allocated,Rojo Trading Limited,10 digit numbers,19/04/2007
+8452 97,Quarantined,,10 digit numbers,
 8452 99,Allocated,Vodafone Ltd (C&W),10 digit numbers,06/05/2014
 8453 00,Allocated,Vodafone Ltd (C&W),10 digit numbers,13/09/2013
 8453 01,Allocated,Vodafone Ltd (C&W),10 digit numbers,13/09/2013
@@ -9585,7 +9581,7 @@ NMS Number Block: Number Block,Block Status,CP Name,Non Geo Number Length,Alloca
 8454 88,Allocated,Microtalk Europe Limited,10 digit numbers,10/03/2016
 8454 90,Allocated,Invade International Ltd,10 digit numbers,13/01/2016
 8454 91,Allocated,TalkTalk Communications Limited,10 digit numbers,20/12/2006
-8454 93,Allocated,TelecomIQ Limited,10 digit numbers,13/05/2020
+8454 93,Quarantined,,10 digit numbers,
 8454 94,Allocated,Buzz Networks Limited,10 digit numbers,24/07/2007
 8454 96,Allocated,Barritel Limited,10 digit numbers,26/11/2013
 8454 97,Allocated,BT,10 digit numbers,05/10/2005
@@ -9617,7 +9613,7 @@ NMS Number Block: Number Block,Block Status,CP Name,Non Geo Number Length,Alloca
 8455 26,Allocated,Buzz Networks Limited,10 digit numbers,04/12/2007
 8455 27,Allocated,Magrathea Telecommunications Limited,10 digit numbers,05/12/2007
 8455 28,Allocated,Voxbone SA,10 digit numbers,28/12/2007
-8455 29,Allocated,Sigma Voice Solutions Ltd,10 digit numbers,31/12/2007
+8455 29,Quarantined,,10 digit numbers,
 8455 31,Allocated,Buzz Networks Limited,10 digit numbers,14/01/2008
 8455 32,Allocated,IV Response Limited,10 digit numbers,23/01/2008
 8455 33,Allocated,Vodafone Ltd (C&W),10 digit numbers,18/06/2013
@@ -9662,7 +9658,6 @@ NMS Number Block: Number Block,Block Status,CP Name,Non Geo Number Length,Alloca
 8455 90,Allocated,Cloud Telecom Ltd,10 digit numbers,07/02/2012
 8455 91,Allocated,Magrathea Telecommunications Limited,10 digit numbers,29/05/2012
 8455 94,Allocated,Magrathea Telecommunications Limited,10 digit numbers,10/01/2013
-8455 96,Quarantined,,10 digit numbers,
 8455 97,Allocated,IOVOX Limited,10 digit numbers,28/01/2013
 8455 98,Allocated,Internexus Networks Limited,10 digit numbers,18/04/2013
 8456 00,Allocated,BT,10 digit numbers,10/04/1997
@@ -9736,7 +9731,7 @@ NMS Number Block: Number Block,Block Status,CP Name,Non Geo Number Length,Alloca
 8456 77,Allocated,Vodafone Ltd (C&W),10 digit numbers,01/11/2024
 8456 78,Allocated,Vodafone Ltd (C&W),10 digit numbers,01/11/2024
 8456 80,Allocated,Vodafone Ltd (C&W),10 digit numbers,18/06/2013
-8456 82,Allocated,TelecomIQ Limited,10 digit numbers,22/07/2013
+8456 82,Quarantined,,10 digit numbers,
 8456 83,Allocated,TalkTalk Communications Limited,10 digit numbers,19/04/2007
 8456 84,Allocated,Timico Partner Services Limited,10 digit numbers,02/04/2003
 8456 85,Allocated,Six Degrees Technology Group Limited,10 digit numbers,08/04/2020
@@ -9750,7 +9745,7 @@ NMS Number Block: Number Block,Block Status,CP Name,Non Geo Number Length,Alloca
 8456 93,Allocated,TalkTalk Communications Limited,10 digit numbers,20/10/2006
 8456 94,Allocated,Swiftnet Limited,10 digit numbers,11/08/2015
 8456 95,Allocated,TalkTalk Communications Limited,10 digit numbers,14/10/2013
-8456 97,Allocated,TelecomIQ Limited,10 digit numbers,13/05/2020
+8456 97,Quarantined,,10 digit numbers,
 8456 98,Allocated,DRD Communications Limited,10 digit numbers,28/09/2023
 8456 99,Allocated,DRD Communications Limited,10 digit numbers,28/09/2023
 8457 00,Allocated(Closed Range),BT,10 digit numbers,16/06/1997
@@ -10291,7 +10286,7 @@ NMS Number Block: Number Block,Block Status,CP Name,Non Geo Number Length,Alloca
 8702 77,Allocated,Virgin Media Limited,10 digit numbers,13/03/2000
 8702 78,Allocated,Virgin Media Limited,10 digit numbers,13/03/2000
 8702 79,Allocated,Virgin Media Limited,10 digit numbers,13/03/2000
-8702 80,Allocated,TelecomIQ Limited,10 digit numbers,22/07/2013
+8702 80,Quarantined,,10 digit numbers,
 8702 81,Allocated,Marathon Telecom Limited,10 digit numbers,04/07/2011
 8702 82,Allocated,Virgin Media Limited,10 digit numbers,04/11/1997
 8702 83,Allocated,Virgin Media Limited,10 digit numbers,12/10/1999
@@ -10441,7 +10436,7 @@ NMS Number Block: Number Block,Block Status,CP Name,Non Geo Number Length,Alloca
 8704 58,Allocated,TalkTalk Communications Limited,10 digit numbers,09/10/2003
 8704 59,Allocated(Closed Range),Vodafone Limited,10 digit numbers,18/08/1998
 8704 60,Allocated,TalkTalk Communications Limited,10 digit numbers,09/10/2003
-8704 63,Allocated,Rojo Trading Limited,10 digit numbers,19/04/2007
+8704 63,Quarantined,,10 digit numbers,
 8704 64,Allocated,Vodafone Ltd (C&W),10 digit numbers,01/11/2024
 8704 65,Allocated,Gamma Telecom Holdings Limited,10 digit numbers,25/03/2014
 8704 66,Allocated,Promotions4All Ltd,10 digit numbers,23/12/2009
@@ -10602,8 +10597,8 @@ NMS Number Block: Number Block,Block Status,CP Name,Non Geo Number Length,Alloca
 8706 41,Allocated,TelNG Limited,10 digit numbers,18/08/2016
 8706 42,Allocated,Dynamic Mobile Billing Limited,10 digit numbers,01/07/2016
 8706 43,Allocated,Telecom2 Limited,10 digit numbers,08/11/2016
-8706 44,Allocated,TelecomIQ Limited,10 digit numbers,13/05/2020
-8706 45,Allocated,TelecomIQ Limited,10 digit numbers,13/05/2020
+8706 44,Quarantined,,10 digit numbers,
+8706 45,Quarantined,,10 digit numbers,
 8706 46,Allocated,BT,10 digit numbers,31/03/2005
 8706 47,Allocated,TelNG Limited,10 digit numbers,18/08/2016
 8706 48,Allocated,Gencom Technologies Ltd,10 digit numbers,08/12/2016
@@ -10628,7 +10623,6 @@ NMS Number Block: Number Block,Block Status,CP Name,Non Geo Number Length,Alloca
 8706 67,Allocated,Digital Select Limited,10 digit numbers,03/05/2017
 8706 68,Allocated,Digital Select Limited,10 digit numbers,03/05/2017
 8706 69,Allocated,Swiftnet Limited,10 digit numbers,14/06/2017
-8706 70,Quarantined,,10 digit numbers,
 8707 00,Allocated,Virgin Media Limited,10 digit numbers,08/04/2016
 8707 01,Allocated,Virgin Media Limited,10 digit numbers,08/04/2016
 8707 02,Allocated,Virgin Media Limited,10 digit numbers,08/04/2016
@@ -10860,7 +10854,6 @@ NMS Number Block: Number Block,Block Status,CP Name,Non Geo Number Length,Alloca
 8709 68,Allocated,Magrathea Telecommunications Limited,10 digit numbers,19/10/2015
 8709 69,Allocated,Phone Buddy Limited,10 digit numbers,27/09/2004
 8709 70,Allocated,Atlas Interactive Group Limited,10 digit numbers,12/10/1999
-8709 73,Quarantined,,10 digit numbers,
 8709 74,Allocated,Magrathea Telecommunications Limited,10 digit numbers,23/05/2006
 8709 75,Allocated,TalkTalk Communications Limited,10 digit numbers,15/05/2006
 8709 77,Allocated,Invade International Ltd,10 digit numbers,13/01/2016
@@ -11116,7 +11109,6 @@ NMS Number Block: Number Block,Block Status,CP Name,Non Geo Number Length,Alloca
 8715 03,Allocated,Magrathea Telecommunications Limited,10 digit numbers,03/08/2005
 8715 04,Allocated,Magrathea Telecommunications Limited,10 digit numbers,21/01/2002
 8715 05,Allocated,Pipex Communications PLC,10 digit numbers,20/04/2002
-8715 06,Quarantined,,10 digit numbers,
 8715 08,Allocated,Vodafone Ltd (C&W),10 digit numbers,28/11/2024
 8715 09,Allocated,24 Seven Communications Limited,10 digit numbers,16/10/2015
 8715 10,Allocated,GCI Network Solutions Limited,10 digit numbers,20/12/2023
@@ -11240,7 +11232,6 @@ NMS Number Block: Number Block,Block Status,CP Name,Non Geo Number Length,Alloca
 8716 92,Allocated,Digital Space Group Limited,10 digit numbers,24/12/2015
 8716 93,Allocated,Vodafone Ltd (C&W),10 digit numbers,13/09/2013
 8716 94,Allocated,24 Seven Communications Limited,10 digit numbers,16/10/2015
-8716 97,Quarantined,,10 digit numbers,
 8716 98,Allocated,Internet of Things Limited,10 digit numbers,14/07/2021
 8716 99,Allocated,Call Stream Limited,10 digit numbers,13/10/2005
 8717 00,Allocated,Virgin Media Limited,10 digit numbers,08/04/2016
@@ -11286,7 +11277,7 @@ NMS Number Block: Number Block,Block Status,CP Name,Non Geo Number Length,Alloca
 8717 46,Allocated,Lumen Technologies UK Limited,10 digit numbers,08/03/2006
 8717 47,Allocated,Vodafone Ltd (C&W),10 digit numbers,28/11/2024
 8717 48,Allocated,CFL Communications Ltd,10 digit numbers,28/03/2006
-8717 49,Allocated,TelecomIQ Limited,10 digit numbers,01/06/2020
+8717 49,Quarantined,,10 digit numbers,
 8717 50,Allocated,Vodafone Ltd (C&W),10 digit numbers,28/11/2024
 8717 51,Allocated,WAVECREST NETWORKS LIMITED,10 digit numbers,17/12/2019
 8717 54,Allocated,Connect Telecom UK Limited,10 digit numbers,20/03/2003
@@ -11333,7 +11324,7 @@ NMS Number Block: Number Block,Block Status,CP Name,Non Geo Number Length,Alloca
 8718 22,Allocated,Media Telecom Ltd,10 digit numbers,23/06/2010
 8718 23,Allocated,Core Telecom Limited,10 digit numbers,17/11/2006
 8718 24,Allocated,Tabsoft Limited,10 digit numbers,30/04/2007
-8718 26,Allocated,Sigma Voice Solutions Ltd,10 digit numbers,01/02/2011
+8718 26,Quarantined,,10 digit numbers,
 8718 27,Allocated,GCI Network Solutions Limited,10 digit numbers,19/04/2017
 8718 28,Allocated,Media Telecom Ltd,10 digit numbers,23/06/2010
 8718 29,Allocated,24 Seven Communications Limited,10 digit numbers,17/03/2008
@@ -11562,12 +11553,12 @@ NMS Number Block: Number Block,Block Status,CP Name,Non Geo Number Length,Alloca
 8721 47,Allocated,IDT Global Limited,10 digit numbers,29/11/2007
 8721 48,Allocated,Vodafone Ltd (C&W),10 digit numbers,01/11/2024
 8721 49,Allocated,Nationwide Telephone Assistance Ltd,10 digit numbers,18/12/2007
-8721 50,Allocated,Sigma Voice Solutions Ltd,10 digit numbers,31/12/2007
-8721 51,Allocated,Sigma Voice Solutions Ltd,10 digit numbers,31/12/2007
-8721 52,Allocated,Sigma Voice Solutions Ltd,10 digit numbers,31/12/2007
-8721 53,Allocated,Sigma Voice Solutions Ltd,10 digit numbers,31/12/2007
-8721 54,Allocated,Sigma Voice Solutions Ltd,10 digit numbers,31/12/2007
-8721 55,Allocated,Sigma Voice Solutions Ltd,10 digit numbers,31/12/2007
+8721 50,Quarantined,,10 digit numbers,
+8721 51,Quarantined,,10 digit numbers,
+8721 52,Quarantined,,10 digit numbers,
+8721 53,Quarantined,,10 digit numbers,
+8721 54,Quarantined,,10 digit numbers,
+8721 55,Quarantined,,10 digit numbers,
 8721 56,Allocated,VoIP-Un Limited,10 digit numbers,08/01/2008
 8721 61,Allocated,Sound Advertising Ltd,10 digit numbers,22/01/2008
 8721 64,Allocated,Sound Advertising Ltd,10 digit numbers,22/01/2008
@@ -11805,50 +11796,40 @@ NMS Number Block: Number Block,Block Status,CP Name,Non Geo Number Length,Alloca
 8725 98,Allocated,4D Interactive Ltd,10 digit numbers,04/11/2011
 8725 99,Allocated,Voicetec Systems Ltd,10 digit numbers,13/09/2011
 8726 01,Allocated,Vodafone Ltd (C&W),10 digit numbers,01/11/2024
-8726 02,Quarantined,,10 digit numbers,
 8726 03,Allocated,Zestel Limited,10 digit numbers,19/02/2013
-8726 04,Quarantined,,10 digit numbers,
 8726 05,Allocated,Simple Call Limited,10 digit numbers,12/05/2022
 8726 06,Allocated,Reality Network Services Limited,10 digit numbers,10/05/2012
-8726 07,Quarantined,,10 digit numbers,
 8726 08,Allocated,Numbers Telecom Limited,10 digit numbers,01/02/2016
-8726 09,Quarantined,,10 digit numbers,
 8726 10,Allocated,Cloud Telecom Ltd,10 digit numbers,07/02/2012
 8726 11,Allocated,Cloudcall Limited,10 digit numbers,24/04/2012
 8726 12,Allocated,Numbers Telecom Limited,10 digit numbers,01/02/2016
-8726 13,Quarantined,,10 digit numbers,
 8726 14,Allocated,TAP GATEWAY LTD,10 digit numbers,02/07/2020
-8726 15,Quarantined,,10 digit numbers,
 8726 16,Allocated,VoiceHost Limited,10 digit numbers,12/03/2012
 8726 17,Allocated,VoiceHost Limited,10 digit numbers,12/03/2012
 8726 18,Allocated,VoiceHost Limited,10 digit numbers,12/03/2012
 8726 19,Allocated,VoiceHost Limited,10 digit numbers,12/03/2012
 8726 21,Allocated,Continuity Assured Limited,10 digit numbers,20/06/2013
-8726 23,Quarantined,,10 digit numbers,
 8726 24,Allocated,Internexus Networks Limited,10 digit numbers,18/04/2013
-8726 27,Quarantined,,10 digit numbers,
 8726 28,Allocated,Numbers Telecom Limited,10 digit numbers,01/02/2016
-8726 29,Quarantined,,10 digit numbers,
 8726 30,Allocated,Digital Select Limited,10 digit numbers,05/03/2013
-8726 31,Quarantined,,10 digit numbers,
 8726 32,Allocated,Numbers Telecom Limited,10 digit numbers,01/02/2016
 8726 34,Allocated,Flextel Limited,10 digit numbers,22/01/2013
 8726 37,Allocated,Voice Simplified Limited,10 digit numbers,25/06/2013
 8726 41,Allocated,Twelve Telecom Limited,10 digit numbers,21/05/2013
 8726 42,Allocated,OVH Limited,10 digit numbers,14/03/2013
-8726 43,Allocated,TelecomIQ Limited,10 digit numbers,22/07/2013
+8726 43,Quarantined,,10 digit numbers,
 8726 45,Allocated,Simple Call Limited,10 digit numbers,12/05/2022
 8726 46,Allocated,Numbers Telecom Limited,10 digit numbers,01/02/2016
 8726 48,Allocated,Numbers Telecom Limited,10 digit numbers,01/02/2016
 8726 49,Allocated,Twelve Telecom Limited,10 digit numbers,21/05/2013
 8726 50,Allocated,Numbers Telecom Limited,10 digit numbers,01/02/2016
-8726 51,Allocated,TelecomIQ Limited,10 digit numbers,22/07/2013
+8726 51,Quarantined,,10 digit numbers,
 8726 52,Allocated,Twelve Telecom Limited,10 digit numbers,21/05/2013
-8726 53,Allocated,TelecomIQ Limited,10 digit numbers,22/07/2013
+8726 53,Quarantined,,10 digit numbers,
 8726 54,Allocated,Third Party Formations Limited,10 digit numbers,16/07/2012
 8726 57,Allocated,Numbers Telecom Limited,10 digit numbers,01/02/2016
 8726 58,Allocated,Twelve Telecom Limited,10 digit numbers,21/05/2013
-8726 59,Allocated,TelecomIQ Limited,10 digit numbers,22/07/2013
+8726 59,Quarantined,,10 digit numbers,
 8726 61,Quarantined,,10 digit numbers,
 8726 62,Allocated,Telecom2 Limited,10 digit numbers,07/06/2012
 8726 63,Allocated,Zestel Limited,10 digit numbers,19/02/2013
@@ -11870,14 +11851,14 @@ NMS Number Block: Number Block,Block Status,CP Name,Non Geo Number Length,Alloca
 8726 91,Allocated,Numbers Telecom Limited,10 digit numbers,12/07/2012
 8726 92,Allocated,Jtec UK Limited,10 digit numbers,06/03/2013
 8726 93,Allocated,Numbers Telecom Limited,10 digit numbers,12/07/2012
-8726 94,Allocated,TelecomIQ Limited,10 digit numbers,22/07/2013
+8726 94,Quarantined,,10 digit numbers,
 8726 95,Allocated,Numbers Telecom Limited,10 digit numbers,17/08/2012
 8726 97,Allocated,Numbers Telecom Limited,10 digit numbers,12/07/2012
-8726 98,Allocated,TelecomIQ Limited,10 digit numbers,22/07/2013
+8726 98,Quarantined,,10 digit numbers,
 8727 07,Allocated,Redwood Technologies Ltd,10 digit numbers,15/11/2018
 8727 08,Allocated,Alnitak GmbH,10 digit numbers,25/02/2015
 8727 09,Allocated,M247 Ltd,10 digit numbers,20/05/2015
-8727 10,Allocated,TelecomIQ Limited,10 digit numbers,22/07/2013
+8727 10,Quarantined,,10 digit numbers,
 8727 11,Allocated,Mi Telecom Limited,10 digit numbers,15/04/2014
 8727 12,Allocated,Alnitak GmbH,10 digit numbers,25/02/2015
 8727 17,Allocated,Swiftnet Limited,10 digit numbers,23/04/2015
@@ -12119,7 +12100,7 @@ NMS Number Block: Number Block,Block Status,CP Name,Non Geo Number Length,Alloca
 8979 98,Free,,10 digit numbers,
 8979 99,Allocated,Invosys Limited,10 digit numbers,08/07/2021
 8998 00,Allocated,Nuso Cloud UK Limited,10 digit numbers,26/01/2016
-8998 01,Allocated,TelecomIQ Limited,10 digit numbers,22/03/2016
+8998 01,Quarantined,,10 digit numbers,
 8998 02,Allocated,Dynamic Mobile Billing Limited,10 digit numbers,18/03/2016
 8998 03,Allocated,Invosys Limited,10 digit numbers,16/05/2016
 8998 04,Allocated,Redwood Technologies Ltd,10 digit numbers,15/11/2018

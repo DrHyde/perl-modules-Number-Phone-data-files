@@ -130,6 +130,31 @@
 </inputdata>
 <prefixdata>
 <npa>868</npa>
+<nxx>201</nxx>
+<x>A</x>
+<exch>187210</exch>
+<rc>Port of Spain</rc>
+<region>TR</region>
+<switch>SWCHTRUNKNO</switch>
+<switchname>X</switchname>
+<switchtype>5E</switchtype>
+<ocn>724G</ocn>
+<company-name>OPEN TELECOM LIMITED</company-name>
+<company-type></company-type>
+<ilec-ocn>8918</ilec-ocn>
+<ilec-name>TELECOMMUNICATIONS SERVICES OF TRINIDAD&amp;TOBAGO LTD</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2026-07-22 22:13:29</udate>
+</prefixdata>
+<prefixdata>
+<npa>868</npa>
 <nxx>215</nxx>
 <x>A</x>
 <exch>187210</exch>
@@ -752,6 +777,381 @@
 <effdate></effdate>
 <discdate></discdate>
 <udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>868</npa>
+<nxx>240</nxx>
+<x>A</x>
+<exch>187090</exch>
+<rc>Chaguanas</rc>
+<region>TR</region>
+<switch>CRNITR01CM0</switch>
+<switchname>CARONI</switchname>
+<switchtype>810</switchtype>
+<ocn>554D</ocn>
+<company-name>DIGICEL TRINIDAD AND TOBAGO LIMITED</company-name>
+<company-type>W</company-type>
+<ilec-ocn>8918</ilec-ocn>
+<ilec-name>TELECOMMUNICATIONS SERVICES OF TRINIDAD&amp;TOBAGO LTD</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2026-07-22 22:09:39</udate>
+</prefixdata>
+<prefixdata>
+<npa>868</npa>
+<nxx>241</nxx>
+<x>A</x>
+<exch>187090</exch>
+<rc>Chaguanas</rc>
+<region>TR</region>
+<switch>CRNITR01CM0</switch>
+<switchname>CARONI</switchname>
+<switchtype>810</switchtype>
+<ocn>554D</ocn>
+<company-name>DIGICEL TRINIDAD AND TOBAGO LIMITED</company-name>
+<company-type>W</company-type>
+<ilec-ocn>8918</ilec-ocn>
+<ilec-name>TELECOMMUNICATIONS SERVICES OF TRINIDAD&amp;TOBAGO LTD</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2026-07-22 22:09:39</udate>
+</prefixdata>
+<prefixdata>
+<npa>868</npa>
+<nxx>242</nxx>
+<x>A</x>
+<exch>187090</exch>
+<rc>Chaguanas</rc>
+<region>TR</region>
+<switch>CRNITR01CM0</switch>
+<switchname>CARONI</switchname>
+<switchtype>810</switchtype>
+<ocn>554D</ocn>
+<company-name>DIGICEL TRINIDAD AND TOBAGO LIMITED</company-name>
+<company-type>W</company-type>
+<ilec-ocn>8918</ilec-ocn>
+<ilec-name>TELECOMMUNICATIONS SERVICES OF TRINIDAD&amp;TOBAGO LTD</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2026-07-22 22:09:39</udate>
+</prefixdata>
+<prefixdata>
+<npa>868</npa>
+<nxx>250</nxx>
+<x>A</x>
+<exch>187090</exch>
+<rc>Chaguanas</rc>
+<region>TR</region>
+<switch>CRNITR01CM0</switch>
+<switchname>CARONI</switchname>
+<switchtype>810</switchtype>
+<ocn>554D</ocn>
+<company-name>DIGICEL TRINIDAD AND TOBAGO LIMITED</company-name>
+<company-type>W</company-type>
+<ilec-ocn>8918</ilec-ocn>
+<ilec-name>TELECOMMUNICATIONS SERVICES OF TRINIDAD&amp;TOBAGO LTD</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2026-07-22 22:09:39</udate>
+</prefixdata>
+<prefixdata>
+<npa>868</npa>
+<nxx>251</nxx>
+<x>A</x>
+<exch>187090</exch>
+<rc>Chaguanas</rc>
+<region>TR</region>
+<switch>CRNITR01CM0</switch>
+<switchname>CARONI</switchname>
+<switchtype>810</switchtype>
+<ocn>554D</ocn>
+<company-name>DIGICEL TRINIDAD AND TOBAGO LIMITED</company-name>
+<company-type>W</company-type>
+<ilec-ocn>8918</ilec-ocn>
+<ilec-name>TELECOMMUNICATIONS SERVICES OF TRINIDAD&amp;TOBAGO LTD</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2026-07-22 22:09:39</udate>
+</prefixdata>
+<prefixdata>
+<npa>868</npa>
+<nxx>252</nxx>
+<x>A</x>
+<exch>187090</exch>
+<rc>Chaguanas</rc>
+<region>TR</region>
+<switch>CRNITR01CM0</switch>
+<switchname>CARONI</switchname>
+<switchtype>810</switchtype>
+<ocn>554D</ocn>
+<company-name>DIGICEL TRINIDAD AND TOBAGO LIMITED</company-name>
+<company-type>W</company-type>
+<ilec-ocn>8918</ilec-ocn>
+<ilec-name>TELECOMMUNICATIONS SERVICES OF TRINIDAD&amp;TOBAGO LTD</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2026-07-22 22:09:39</udate>
+</prefixdata>
+<prefixdata>
+<npa>868</npa>
+<nxx>253</nxx>
+<x>A</x>
+<exch>187090</exch>
+<rc>Chaguanas</rc>
+<region>TR</region>
+<switch>CRNITR01CM0</switch>
+<switchname>CARONI</switchname>
+<switchtype>810</switchtype>
+<ocn>554D</ocn>
+<company-name>DIGICEL TRINIDAD AND TOBAGO LIMITED</company-name>
+<company-type>W</company-type>
+<ilec-ocn>8918</ilec-ocn>
+<ilec-name>TELECOMMUNICATIONS SERVICES OF TRINIDAD&amp;TOBAGO LTD</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2026-07-22 22:09:39</udate>
+</prefixdata>
+<prefixdata>
+<npa>868</npa>
+<nxx>254</nxx>
+<x>A</x>
+<exch>187090</exch>
+<rc>Chaguanas</rc>
+<region>TR</region>
+<switch>CRNITR01CM0</switch>
+<switchname>CARONI</switchname>
+<switchtype>810</switchtype>
+<ocn>554D</ocn>
+<company-name>DIGICEL TRINIDAD AND TOBAGO LIMITED</company-name>
+<company-type>W</company-type>
+<ilec-ocn>8918</ilec-ocn>
+<ilec-name>TELECOMMUNICATIONS SERVICES OF TRINIDAD&amp;TOBAGO LTD</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2026-07-22 22:09:39</udate>
+</prefixdata>
+<prefixdata>
+<npa>868</npa>
+<nxx>255</nxx>
+<x>A</x>
+<exch>187090</exch>
+<rc>Chaguanas</rc>
+<region>TR</region>
+<switch>CRNITR01CM0</switch>
+<switchname>CARONI</switchname>
+<switchtype>810</switchtype>
+<ocn>554D</ocn>
+<company-name>DIGICEL TRINIDAD AND TOBAGO LIMITED</company-name>
+<company-type>W</company-type>
+<ilec-ocn>8918</ilec-ocn>
+<ilec-name>TELECOMMUNICATIONS SERVICES OF TRINIDAD&amp;TOBAGO LTD</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2026-07-22 22:09:39</udate>
+</prefixdata>
+<prefixdata>
+<npa>868</npa>
+<nxx>256</nxx>
+<x>A</x>
+<exch>187090</exch>
+<rc>Chaguanas</rc>
+<region>TR</region>
+<switch>CRNITR01CM0</switch>
+<switchname>CARONI</switchname>
+<switchtype>810</switchtype>
+<ocn>554D</ocn>
+<company-name>DIGICEL TRINIDAD AND TOBAGO LIMITED</company-name>
+<company-type>W</company-type>
+<ilec-ocn>8918</ilec-ocn>
+<ilec-name>TELECOMMUNICATIONS SERVICES OF TRINIDAD&amp;TOBAGO LTD</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2026-07-22 22:09:39</udate>
+</prefixdata>
+<prefixdata>
+<npa>868</npa>
+<nxx>257</nxx>
+<x>A</x>
+<exch>187090</exch>
+<rc>Chaguanas</rc>
+<region>TR</region>
+<switch>CRNITR01CM0</switch>
+<switchname>CARONI</switchname>
+<switchtype>810</switchtype>
+<ocn>554D</ocn>
+<company-name>DIGICEL TRINIDAD AND TOBAGO LIMITED</company-name>
+<company-type>W</company-type>
+<ilec-ocn>8918</ilec-ocn>
+<ilec-name>TELECOMMUNICATIONS SERVICES OF TRINIDAD&amp;TOBAGO LTD</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2026-07-22 22:09:39</udate>
+</prefixdata>
+<prefixdata>
+<npa>868</npa>
+<nxx>258</nxx>
+<x>A</x>
+<exch>187090</exch>
+<rc>Chaguanas</rc>
+<region>TR</region>
+<switch>CRNITR01CM0</switch>
+<switchname>CARONI</switchname>
+<switchtype>810</switchtype>
+<ocn>554D</ocn>
+<company-name>DIGICEL TRINIDAD AND TOBAGO LIMITED</company-name>
+<company-type>W</company-type>
+<ilec-ocn>8918</ilec-ocn>
+<ilec-name>TELECOMMUNICATIONS SERVICES OF TRINIDAD&amp;TOBAGO LTD</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2026-07-22 22:09:39</udate>
+</prefixdata>
+<prefixdata>
+<npa>868</npa>
+<nxx>263</nxx>
+<x>A</x>
+<exch>187090</exch>
+<rc>Chaguanas</rc>
+<region>TR</region>
+<switch>CRNITR01CM0</switch>
+<switchname>CARONI</switchname>
+<switchtype>810</switchtype>
+<ocn>554D</ocn>
+<company-name>DIGICEL TRINIDAD AND TOBAGO LIMITED</company-name>
+<company-type>W</company-type>
+<ilec-ocn>8918</ilec-ocn>
+<ilec-name>TELECOMMUNICATIONS SERVICES OF TRINIDAD&amp;TOBAGO LTD</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2026-07-22 22:09:39</udate>
+</prefixdata>
+<prefixdata>
+<npa>868</npa>
+<nxx>264</nxx>
+<x>A</x>
+<exch>187090</exch>
+<rc>Chaguanas</rc>
+<region>TR</region>
+<switch>CRNITR01CM0</switch>
+<switchname>CARONI</switchname>
+<switchtype>810</switchtype>
+<ocn>554D</ocn>
+<company-name>DIGICEL TRINIDAD AND TOBAGO LIMITED</company-name>
+<company-type>W</company-type>
+<ilec-ocn>8918</ilec-ocn>
+<ilec-name>TELECOMMUNICATIONS SERVICES OF TRINIDAD&amp;TOBAGO LTD</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2026-07-22 22:09:39</udate>
+</prefixdata>
+<prefixdata>
+<npa>868</npa>
+<nxx>265</nxx>
+<x>A</x>
+<exch>187090</exch>
+<rc>Chaguanas</rc>
+<region>TR</region>
+<switch>CRNITR01CM0</switch>
+<switchname>CARONI</switchname>
+<switchtype>810</switchtype>
+<ocn>554D</ocn>
+<company-name>DIGICEL TRINIDAD AND TOBAGO LIMITED</company-name>
+<company-type>W</company-type>
+<ilec-ocn>8918</ilec-ocn>
+<ilec-name>TELECOMMUNICATIONS SERVICES OF TRINIDAD&amp;TOBAGO LTD</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2026-07-22 22:09:39</udate>
 </prefixdata>
 <prefixdata>
 <npa>868</npa>
@@ -4055,6 +4455,181 @@
 </prefixdata>
 <prefixdata>
 <npa>868</npa>
+<nxx>430</nxx>
+<x>A</x>
+<exch>187090</exch>
+<rc>Chaguanas</rc>
+<region>TR</region>
+<switch>CRNITR01CM0</switch>
+<switchname>CARONI</switchname>
+<switchtype>810</switchtype>
+<ocn>554D</ocn>
+<company-name>DIGICEL TRINIDAD AND TOBAGO LIMITED</company-name>
+<company-type>W</company-type>
+<ilec-ocn>8918</ilec-ocn>
+<ilec-name>TELECOMMUNICATIONS SERVICES OF TRINIDAD&amp;TOBAGO LTD</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2026-07-22 22:09:39</udate>
+</prefixdata>
+<prefixdata>
+<npa>868</npa>
+<nxx>431</nxx>
+<x>A</x>
+<exch>187090</exch>
+<rc>Chaguanas</rc>
+<region>TR</region>
+<switch>CRNITR01CM0</switch>
+<switchname>CARONI</switchname>
+<switchtype>810</switchtype>
+<ocn>554D</ocn>
+<company-name>DIGICEL TRINIDAD AND TOBAGO LIMITED</company-name>
+<company-type>W</company-type>
+<ilec-ocn>8918</ilec-ocn>
+<ilec-name>TELECOMMUNICATIONS SERVICES OF TRINIDAD&amp;TOBAGO LTD</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2026-07-22 22:09:39</udate>
+</prefixdata>
+<prefixdata>
+<npa>868</npa>
+<nxx>432</nxx>
+<x>A</x>
+<exch>187090</exch>
+<rc>Chaguanas</rc>
+<region>TR</region>
+<switch>CRNITR01CM0</switch>
+<switchname>CARONI</switchname>
+<switchtype>810</switchtype>
+<ocn>554D</ocn>
+<company-name>DIGICEL TRINIDAD AND TOBAGO LIMITED</company-name>
+<company-type>W</company-type>
+<ilec-ocn>8918</ilec-ocn>
+<ilec-name>TELECOMMUNICATIONS SERVICES OF TRINIDAD&amp;TOBAGO LTD</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2026-07-22 22:09:39</udate>
+</prefixdata>
+<prefixdata>
+<npa>868</npa>
+<nxx>433</nxx>
+<x>A</x>
+<exch>187090</exch>
+<rc>Chaguanas</rc>
+<region>TR</region>
+<switch>CRNITR01CM0</switch>
+<switchname>CARONI</switchname>
+<switchtype>810</switchtype>
+<ocn>554D</ocn>
+<company-name>DIGICEL TRINIDAD AND TOBAGO LIMITED</company-name>
+<company-type>W</company-type>
+<ilec-ocn>8918</ilec-ocn>
+<ilec-name>TELECOMMUNICATIONS SERVICES OF TRINIDAD&amp;TOBAGO LTD</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2026-07-22 22:09:39</udate>
+</prefixdata>
+<prefixdata>
+<npa>868</npa>
+<nxx>434</nxx>
+<x>A</x>
+<exch>187090</exch>
+<rc>Chaguanas</rc>
+<region>TR</region>
+<switch>CRNITR01CM0</switch>
+<switchname>CARONI</switchname>
+<switchtype>810</switchtype>
+<ocn>554D</ocn>
+<company-name>DIGICEL TRINIDAD AND TOBAGO LIMITED</company-name>
+<company-type>W</company-type>
+<ilec-ocn>8918</ilec-ocn>
+<ilec-name>TELECOMMUNICATIONS SERVICES OF TRINIDAD&amp;TOBAGO LTD</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2026-07-22 22:09:39</udate>
+</prefixdata>
+<prefixdata>
+<npa>868</npa>
+<nxx>435</nxx>
+<x>A</x>
+<exch>187090</exch>
+<rc>Chaguanas</rc>
+<region>TR</region>
+<switch>CRNITR01CM0</switch>
+<switchname>CARONI</switchname>
+<switchtype>810</switchtype>
+<ocn>554D</ocn>
+<company-name>DIGICEL TRINIDAD AND TOBAGO LIMITED</company-name>
+<company-type>W</company-type>
+<ilec-ocn>8918</ilec-ocn>
+<ilec-name>TELECOMMUNICATIONS SERVICES OF TRINIDAD&amp;TOBAGO LTD</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2026-07-22 22:09:39</udate>
+</prefixdata>
+<prefixdata>
+<npa>868</npa>
+<nxx>436</nxx>
+<x>A</x>
+<exch>187090</exch>
+<rc>Chaguanas</rc>
+<region>TR</region>
+<switch>CRNITR01CM0</switch>
+<switchname>CARONI</switchname>
+<switchtype>810</switchtype>
+<ocn>554D</ocn>
+<company-name>DIGICEL TRINIDAD AND TOBAGO LIMITED</company-name>
+<company-type>W</company-type>
+<ilec-ocn>8918</ilec-ocn>
+<ilec-name>TELECOMMUNICATIONS SERVICES OF TRINIDAD&amp;TOBAGO LTD</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2026-07-22 22:09:39</udate>
+</prefixdata>
+<prefixdata>
+<npa>868</npa>
 <nxx>460</nxx>
 <x>A</x>
 <exch>187210</exch>
@@ -5155,6 +5730,31 @@
 </prefixdata>
 <prefixdata>
 <npa>868</npa>
+<nxx>613</nxx>
+<x>A</x>
+<exch>187210</exch>
+<rc>Port of Spain</rc>
+<region>TR</region>
+<switch>SWCHTRUNKNO</switch>
+<switchname>X</switchname>
+<switchtype>5E</switchtype>
+<ocn>8918</ocn>
+<company-name>TELECOMMUNICATIONS SERVICES OF TRINIDAD&amp;TOBAGO LTD</company-name>
+<company-type>I</company-type>
+<ilec-ocn>8918</ilec-ocn>
+<ilec-name>TELECOMMUNICATIONS SERVICES OF TRINIDAD&amp;TOBAGO LTD</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2026-07-22 22:13:29</udate>
+</prefixdata>
+<prefixdata>
+<npa>868</npa>
 <nxx>614</nxx>
 <x>A</x>
 <exch>187210</exch>
@@ -5227,6 +5827,56 @@
 <effdate></effdate>
 <discdate></discdate>
 <udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>868</npa>
+<nxx>617</nxx>
+<x>A</x>
+<exch>187210</exch>
+<rc>Port of Spain</rc>
+<region>TR</region>
+<switch>SWCHTRUNKNO</switch>
+<switchname>X</switchname>
+<switchtype>5E</switchtype>
+<ocn>8918</ocn>
+<company-name>TELECOMMUNICATIONS SERVICES OF TRINIDAD&amp;TOBAGO LTD</company-name>
+<company-type>I</company-type>
+<ilec-ocn>8918</ilec-ocn>
+<ilec-name>TELECOMMUNICATIONS SERVICES OF TRINIDAD&amp;TOBAGO LTD</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2026-07-22 22:13:29</udate>
+</prefixdata>
+<prefixdata>
+<npa>868</npa>
+<nxx>618</nxx>
+<x>A</x>
+<exch>187210</exch>
+<rc>Port of Spain</rc>
+<region>TR</region>
+<switch>SWCHTRUNKNO</switch>
+<switchname>X</switchname>
+<switchtype>5E</switchtype>
+<ocn>8918</ocn>
+<company-name>TELECOMMUNICATIONS SERVICES OF TRINIDAD&amp;TOBAGO LTD</company-name>
+<company-type>I</company-type>
+<ilec-ocn>8918</ilec-ocn>
+<ilec-name>TELECOMMUNICATIONS SERVICES OF TRINIDAD&amp;TOBAGO LTD</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2026-07-22 22:13:29</udate>
 </prefixdata>
 <prefixdata>
 <npa>868</npa>
@@ -5780,6 +6430,31 @@
 </prefixdata>
 <prefixdata>
 <npa>868</npa>
+<nxx>641</nxx>
+<x>A</x>
+<exch>187210</exch>
+<rc>Port of Spain</rc>
+<region>TR</region>
+<switch>SWCHTRUNKNO</switch>
+<switchname>X</switchname>
+<switchtype>5E</switchtype>
+<ocn>8918</ocn>
+<company-name>TELECOMMUNICATIONS SERVICES OF TRINIDAD&amp;TOBAGO LTD</company-name>
+<company-type>I</company-type>
+<ilec-ocn>8918</ilec-ocn>
+<ilec-name>TELECOMMUNICATIONS SERVICES OF TRINIDAD&amp;TOBAGO LTD</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2026-07-22 22:13:29</udate>
+</prefixdata>
+<prefixdata>
+<npa>868</npa>
 <nxx>642</nxx>
 <x>A</x>
 <exch>187170</exch>
@@ -6252,6 +6927,31 @@
 <effdate></effdate>
 <discdate></discdate>
 <udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>868</npa>
+<nxx>661</nxx>
+<x>A</x>
+<exch>187210</exch>
+<rc>Port of Spain</rc>
+<region>TR</region>
+<switch>SWCHTRUNKNO</switch>
+<switchname>X</switchname>
+<switchtype>5E</switchtype>
+<ocn>8918</ocn>
+<company-name>TELECOMMUNICATIONS SERVICES OF TRINIDAD&amp;TOBAGO LTD</company-name>
+<company-type>I</company-type>
+<ilec-ocn>8918</ilec-ocn>
+<ilec-name>TELECOMMUNICATIONS SERVICES OF TRINIDAD&amp;TOBAGO LTD</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2026-07-22 22:13:29</udate>
 </prefixdata>
 <prefixdata>
 <npa>868</npa>
@@ -7152,6 +7852,31 @@
 <effdate></effdate>
 <discdate></discdate>
 <udate>2024-01-14 02:49:04</udate>
+</prefixdata>
+<prefixdata>
+<npa>868</npa>
+<nxx>699</nxx>
+<x>A</x>
+<exch>187210</exch>
+<rc>Port of Spain</rc>
+<region>TR</region>
+<switch>SWCHTRUNKNO</switch>
+<switchname>X</switchname>
+<switchtype>5E</switchtype>
+<ocn>8918</ocn>
+<company-name>TELECOMMUNICATIONS SERVICES OF TRINIDAD&amp;TOBAGO LTD</company-name>
+<company-type>I</company-type>
+<ilec-ocn>8918</ilec-ocn>
+<ilec-name>TELECOMMUNICATIONS SERVICES OF TRINIDAD&amp;TOBAGO LTD</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2026-07-22 22:13:29</udate>
 </prefixdata>
 <prefixdata>
 <npa>868</npa>

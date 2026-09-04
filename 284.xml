@@ -1030,6 +1030,31 @@
 </prefixdata>
 <prefixdata>
 <npa>284</npa>
+<nxx>568</nxx>
+<x>A</x>
+<exch>018200</exch>
+<rc>British Virgin Islands</rc>
+<region>BV</region>
+<switch>SWCHBVUNKNO</switch>
+<switchname>X</switchname>
+<switchtype>5E</switchtype>
+<ocn>4537</ocn>
+<company-name>CARIBBEAN CELLULAR TELEPHONE DBA BOATPHONE</company-name>
+<company-type>W</company-type>
+<ilec-ocn>8906</ilec-ocn>
+<ilec-name>CABLE &amp; WIRELESS (BV)</ilec-name>
+<lata>830</lata>
+<lir></lir>
+<rc-v></rc-v>
+<rc-h></rc-h>
+<rc-lat></rc-lat>
+<rc-lon></rc-lon>
+<effdate></effdate>
+<discdate></discdate>
+<udate>2026-07-22 22:09:39</udate>
+</prefixdata>
+<prefixdata>
+<npa>284</npa>
 <nxx>852</nxx>
 <x>A</x>
 <exch>018200</exch>
