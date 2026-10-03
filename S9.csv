@@ -1286,25 +1286,19 @@ NMS Number Block: Number Block,Block Status,CP Name,Non Geo Number Length,Alloca
 9021 90,Allocated,Adviqo UK Limited,10 digit numbers,12/06/2012
 9021 96,Allocated,Spoke (Interactive) Limited,10 digit numbers,15/10/2010
 9022 00,Quarantined,,10 digit numbers,
-9022 01,Quarantined,,10 digit numbers,
 9022 02,Quarantined,,10 digit numbers,
 9022 03,Allocated,Voicetec Systems Ltd,10 digit numbers,14/09/2011
-9022 04,Quarantined,,10 digit numbers,
 9022 05,Quarantined,,10 digit numbers,
 9022 06,Allocated,VoiceHost Limited,10 digit numbers,02/08/2011
 9022 07,Quarantined,,10 digit numbers,
-9022 08,Quarantined,,10 digit numbers,
 9022 09,Quarantined,,10 digit numbers,
 9022 10,Allocated,Voicetec Systems Ltd,10 digit numbers,14/09/2011
 9022 11,Allocated,BT,10 digit numbers,21/06/2011
 9022 13,Quarantined,,10 digit numbers,
-9022 14,Quarantined,,10 digit numbers,
 9022 15,Quarantined,,10 digit numbers,
 9022 16,Allocated,Voicetec Systems Ltd,10 digit numbers,14/09/2011
 9022 17,Quarantined,,10 digit numbers,
-9022 18,Quarantined,,10 digit numbers,
 9022 19,Quarantined,,10 digit numbers,
-9022 20,Quarantined,,10 digit numbers,
 9022 21,Quarantined,,10 digit numbers,
 9022 22,Allocated,Gamma Telecom Holdings Limited,10 digit numbers,08/06/2011
 9022 23,Quarantined,,10 digit numbers,
@@ -1312,39 +1306,28 @@ NMS Number Block: Number Block,Block Status,CP Name,Non Geo Number Length,Alloca
 9022 25,Quarantined,,10 digit numbers,
 9022 26,Allocated,Voicetec Systems Ltd,10 digit numbers,14/09/2011
 9022 27,Quarantined,,10 digit numbers,
-9022 28,Quarantined,,10 digit numbers,
 9022 29,Quarantined,,10 digit numbers,
 9022 30,Quarantined,,10 digit numbers,
 9022 31,Allocated,Voicetec Systems Ltd,10 digit numbers,14/09/2011
 9022 32,Allocated,BT,10 digit numbers,21/06/2011
 9022 33,Allocated,BT,10 digit numbers,21/06/2011
-9022 34,Quarantined,,10 digit numbers,
 9022 35,Allocated,Voicetec Systems Ltd,10 digit numbers,14/09/2011
-9022 36,Quarantined,,10 digit numbers,
 9022 37,Allocated,Voicetec Systems Ltd,10 digit numbers,14/09/2011
-9022 38,Quarantined,,10 digit numbers,
 9022 39,Allocated,Voicetec Systems Ltd,10 digit numbers,14/09/2011
-9022 40,Quarantined,,10 digit numbers,
 9022 41,Allocated,Voicetec Systems Ltd,10 digit numbers,14/09/2011
-9022 42,Quarantined,,10 digit numbers,
 9022 43,Allocated,Voicetec Systems Ltd,10 digit numbers,14/09/2011
-9022 45,Quarantined,,10 digit numbers,
 9022 46,Allocated,Voicetec Systems Ltd,10 digit numbers,14/09/2011
 9022 47,Allocated,Voicetec Systems Ltd,10 digit numbers,14/09/2011
 9022 48,Allocated,Voicetec Systems Ltd,10 digit numbers,14/09/2011
-9022 49,Quarantined,,10 digit numbers,
 9022 50,Allocated,Voicetec Systems Ltd,10 digit numbers,14/09/2011
 9022 51,Allocated,Voicetec Systems Ltd,10 digit numbers,14/09/2011
 9022 52,Allocated,Voicetec Systems Ltd,10 digit numbers,14/09/2011
-9022 53,Quarantined,,10 digit numbers,
 9022 54,Allocated,Voicetec Systems Ltd,10 digit numbers,14/09/2011
 9022 55,Allocated,Voicetec Systems Ltd,10 digit numbers,14/09/2011
 9022 56,Allocated,Voicetec Systems Ltd,10 digit numbers,14/09/2011
-9022 57,Quarantined,,10 digit numbers,
 9022 58,Allocated,Voicetec Systems Ltd,10 digit numbers,14/09/2011
 9022 59,Allocated,Voicetec Systems Ltd,10 digit numbers,14/09/2011
 9022 60,Allocated,Voicetec Systems Ltd,10 digit numbers,14/09/2011
-9022 61,Quarantined,,10 digit numbers,
 9022 62,Allocated,Voicetec Systems Ltd,10 digit numbers,14/09/2011
 9022 63,Allocated,Voicetec Systems Ltd,10 digit numbers,14/09/2011
 9022 64,Allocated,Voicetec Systems Ltd,10 digit numbers,14/09/2011
@@ -2728,7 +2711,6 @@ NMS Number Block: Number Block,Block Status,CP Name,Non Geo Number Length,Alloca
 9054 98,Allocated,Gamma Telecom Holdings Limited,10 digit numbers,25/02/2002
 9054 99,Allocated,IM Software Ltd,10 digit numbers,01/05/2007
 9055 00,Allocated,Redcentric Solutions Limited,10 digit numbers,26/05/2016
-9055 01,Quarantined,,10 digit numbers,
 9055 04,Allocated,TelXL Limited,10 digit numbers,16/06/2003
 9055 06,Allocated,Dynamic Mobile Billing Limited,10 digit numbers,08/05/2003
 9055 08,Allocated,Magrathea Telecommunications Limited,10 digit numbers,18/08/2003
@@ -2968,7 +2950,6 @@ NMS Number Block: Number Block,Block Status,CP Name,Non Geo Number Length,Alloca
 9058 88,Allocated,GCI Network Solutions Limited,10 digit numbers,02/01/2025
 9058 89,Allocated,BT,10 digit numbers,24/10/2002
 9058 91,Allocated,Tabsoft Limited,10 digit numbers,30/04/2007
-9058 93,Quarantined,,10 digit numbers,
 9058 94,Allocated,Redcentric Solutions Limited,10 digit numbers,26/05/2016
 9058 95,Allocated,Magrathea Telecommunications Limited,10 digit numbers,25/06/2004
 9058 98,Allocated,Vodafone Ltd (C&W),10 digit numbers,16/09/2013
@@ -3007,7 +2988,6 @@ NMS Number Block: Number Block,Block Status,CP Name,Non Geo Number Length,Alloca
 9059 57,Allocated,Dynamic Mobile Billing Limited,10 digit numbers,21/01/2003
 9059 58,Allocated,Visional Media Limited,10 digit numbers,29/10/2024
 9059 59,Allocated,TalkTalk Communications Limited,10 digit numbers,09/10/2003
-9059 60,Quarantined,,10 digit numbers,
 9059 61,Allocated,Tabsoft Limited,10 digit numbers,30/04/2007
 9059 62,Quarantined,,10 digit numbers,
 9059 63,Allocated,Dynamic Mobile Billing Limited,10 digit numbers,30/07/2007
@@ -3953,7 +3933,6 @@ NMS Number Block: Number Block,Block Status,CP Name,Non Geo Number Length,Alloca
 9070 45,Allocated,Swiftnet Limited,10 digit numbers,07/07/2004
 9070 48,Allocated,Vodafone Ltd (C&W),10 digit numbers,28/11/2024
 9070 50,Allocated,Vodafone Ltd (C&W),10 digit numbers,18/09/2013
-9070 51,Quarantined,,10 digit numbers,
 9070 52,Allocated,GCI Network Solutions Limited,10 digit numbers,02/01/2025
 9070 53,Allocated,Windsor Telecom Limited,10 digit numbers,25/01/2002
 9070 55,Allocated,Eircom (UK) Limited,10 digit numbers,31/01/2000
@@ -3963,7 +3942,6 @@ NMS Number Block: Number Block,Block Status,CP Name,Non Geo Number Length,Alloca
 9070 60,Allocated,Vodafone Ltd (C&W),10 digit numbers,18/09/2013
 9070 61,Allocated,Eircom (UK) Limited,10 digit numbers,31/01/2000
 9070 64,Allocated,GCI Network Solutions Limited,10 digit numbers,02/01/2025
-9070 67,Quarantined,,10 digit numbers,
 9070 68,Allocated,Vodafone Ltd (C&W),10 digit numbers,28/11/2024
 9070 69,Allocated,Noble Tel,10 digit numbers,11/10/2011
 9070 70,Allocated,Vodafone Ltd (C&W),10 digit numbers,18/09/2013
@@ -3972,7 +3950,6 @@ NMS Number Block: Number Block,Block Status,CP Name,Non Geo Number Length,Alloca
 9070 74,Allocated,TalkTalk Communications Limited,10 digit numbers,09/10/2003
 9070 76,Allocated,TalkTalk Communications Limited,10 digit numbers,29/06/2006
 9070 77,Allocated,VoiceHost Limited,10 digit numbers,02/08/2011
-9070 82,Quarantined,,10 digit numbers,
 9070 84,Allocated,Telecom2 Limited,10 digit numbers,14/08/2009
 9070 86,Allocated,UK Number Store Limited,10 digit numbers,17/03/2015
 9070 88,Allocated,Eircom (UK) Limited,10 digit numbers,31/01/2000
@@ -4055,7 +4032,7 @@ NMS Number Block: Number Block,Block Status,CP Name,Non Geo Number Length,Alloca
 9072 93,Allocated,Media Telecom Ltd,10 digit numbers,25/06/2010
 9072 94,Allocated,Media Telecom Ltd,10 digit numbers,25/06/2010
 9072 95,Allocated,Tabsoft Limited,10 digit numbers,22/02/2007
-9072 96,Allocated,Twelve Telecom Limited,10 digit numbers,16/12/2014
+9072 96,Quarantined,,10 digit numbers,
 9072 99,Allocated,Plus Telecom Limited,10 digit numbers,18/01/2006
 9073 01,Allocated,TalkTalk Communications Limited,10 digit numbers,10/07/2013
 9073 03,Allocated,Digital Select Limited,10 digit numbers,28/02/2013
@@ -6046,29 +6023,18 @@ NMS Number Block: Number Block,Block Status,CP Name,Non Geo Number Length,Alloca
 9131 02,Quarantined,,10 digit numbers,
 9131 03,Quarantined,,10 digit numbers,
 9131 04,Allocated,Linear Telecoms Limited,10 digit numbers,27/06/2011
-9131 05,Quarantined,,10 digit numbers,
 9131 06,Allocated,Linear Telecoms Limited,10 digit numbers,27/06/2011
 9131 07,Allocated,Voicetec Systems Ltd,10 digit numbers,14/09/2011
 9131 08,Allocated,Linear Telecoms Limited,10 digit numbers,27/06/2011
-9131 09,Quarantined,,10 digit numbers,
 9131 10,Allocated,Linear Telecoms Limited,10 digit numbers,27/06/2011
 9131 11,Allocated,BT,10 digit numbers,21/06/2011
 9131 12,Allocated,Linear Telecoms Limited,10 digit numbers,27/06/2011
-9131 14,Quarantined,,10 digit numbers,
 9131 15,Allocated,Voicetec Systems Ltd,10 digit numbers,14/09/2011
-9131 16,Quarantined,,10 digit numbers,
 9131 17,Allocated,Voicetec Systems Ltd,10 digit numbers,14/09/2011
-9131 18,Quarantined,,10 digit numbers,
 9131 19,Allocated,Voicetec Systems Ltd,10 digit numbers,14/09/2011
-9131 20,Quarantined,,10 digit numbers,
-9131 22,Quarantined,,10 digit numbers,
-9131 24,Quarantined,,10 digit numbers,
 9131 25,Allocated,Voicetec Systems Ltd,10 digit numbers,14/09/2011
-9131 26,Quarantined,,10 digit numbers,
 9131 27,Allocated,Voicetec Systems Ltd,10 digit numbers,14/09/2011
-9131 28,Quarantined,,10 digit numbers,
 9131 29,Allocated,Voicetec Systems Ltd,10 digit numbers,14/09/2011
-9131 30,Quarantined,,10 digit numbers,
 9131 31,Allocated,BT,10 digit numbers,21/06/2011
 9131 32,Allocated,BT,10 digit numbers,21/06/2011
 9131 34,Allocated,Voicetec Systems Ltd,10 digit numbers,14/09/2011
@@ -6257,12 +6223,12 @@ NMS Number Block: Number Block,Block Status,CP Name,Non Geo Number Length,Alloca
 9135 29,Allocated,Zamir Telecom Limited,10 digit numbers,12/05/2022
 9135 30,Allocated,Digital Select Limited,10 digit numbers,28/02/2013
 9135 31,Allocated,Zamir Telecom Limited,10 digit numbers,12/05/2022
-9135 32,Allocated,Twelve Telecom Limited,10 digit numbers,17/06/2013
+9135 32,Quarantined,,10 digit numbers,
 9135 33,Allocated,Zamir Telecom Limited,10 digit numbers,12/05/2022
-9135 34,Allocated,Twelve Telecom Limited,10 digit numbers,17/06/2013
+9135 34,Quarantined,,10 digit numbers,
 9135 35,Allocated,Zamir Telecom Limited,10 digit numbers,12/05/2022
 9135 36,Allocated,Digital Select Limited,10 digit numbers,28/02/2013
-9135 37,Allocated,Twelve Telecom Limited,10 digit numbers,17/06/2013
+9135 37,Quarantined,,10 digit numbers,
 9135 38,Allocated,Zamir Telecom Limited,10 digit numbers,12/05/2022
 9135 39,Allocated,Zamir Telecom Limited,10 digit numbers,12/05/2022
 9135 41,Allocated,Twelve Telecom Limited,10 digit numbers,17/06/2013
@@ -6272,15 +6238,15 @@ NMS Number Block: Number Block,Block Status,CP Name,Non Geo Number Length,Alloca
 9135 48,Allocated,Twelve Telecom Limited,10 digit numbers,17/06/2013
 9135 50,Allocated,Digital Select Limited,10 digit numbers,28/02/2013
 9135 51,Allocated,Twelve Telecom Limited,10 digit numbers,17/06/2013
-9135 53,Allocated,Twelve Telecom Limited,10 digit numbers,17/06/2013
+9135 53,Quarantined,,10 digit numbers,
 9135 55,Allocated,Jtec UK Limited,10 digit numbers,06/03/2013
 9135 56,Allocated,Simple Call Limited,10 digit numbers,12/05/2022
-9135 57,Allocated,Twelve Telecom Limited,10 digit numbers,17/06/2013
-9135 59,Allocated,Twelve Telecom Limited,10 digit numbers,17/06/2013
+9135 57,Quarantined,,10 digit numbers,
+9135 59,Quarantined,,10 digit numbers,
 9135 60,Allocated,Digital Select Limited,10 digit numbers,28/02/2013
-9135 62,Allocated,Twelve Telecom Limited,10 digit numbers,17/06/2013
-9135 64,Allocated,Twelve Telecom Limited,10 digit numbers,17/06/2013
-9135 66,Allocated,Twelve Telecom Limited,10 digit numbers,17/06/2013
+9135 62,Quarantined,,10 digit numbers,
+9135 64,Quarantined,,10 digit numbers,
+9135 66,Quarantined,,10 digit numbers,
 9135 70,Allocated,Nuso Cloud UK Limited,10 digit numbers,14/03/2013
 9135 80,Allocated,Digital Select Limited,10 digit numbers,28/02/2013
 9135 81,Allocated,TalkTalk Communications Limited,10 digit numbers,08/08/2013
@@ -7626,63 +7592,31 @@ NMS Number Block: Number Block,Block Status,CP Name,Non Geo Number Length,Alloca
 9842 12,Allocated,TalkTalk Communications Limited,10 digit numbers,24/06/2011
 9842 13,Allocated,Linear Telecoms Limited,10 digit numbers,27/06/2011
 9842 14,Allocated,Linear Telecoms Limited,10 digit numbers,27/06/2011
-9842 16,Quarantined,,10 digit numbers,
-9842 17,Quarantined,,10 digit numbers,
-9842 18,Quarantined,,10 digit numbers,
-9842 19,Quarantined,,10 digit numbers,
-9842 20,Quarantined,,10 digit numbers,
-9842 21,Quarantined,,10 digit numbers,
-9842 22,Quarantined,,10 digit numbers,
 9842 23,Allocated,Voicetec Systems Ltd,10 digit numbers,14/09/2011
-9842 24,Quarantined,,10 digit numbers,
 9842 25,Allocated,Voicetec Systems Ltd,10 digit numbers,14/09/2011
-9842 26,Quarantined,,10 digit numbers,
 9842 27,Allocated,Voicetec Systems Ltd,10 digit numbers,14/09/2011
-9842 28,Quarantined,,10 digit numbers,
 9842 29,Allocated,Voicetec Systems Ltd,10 digit numbers,14/09/2011
-9842 30,Quarantined,,10 digit numbers,
 9842 31,Allocated,Voicetec Systems Ltd,10 digit numbers,14/09/2011
-9842 32,Quarantined,,10 digit numbers,
 9842 33,Allocated,Voicetec Systems Ltd,10 digit numbers,14/09/2011
-9842 34,Quarantined,,10 digit numbers,
 9842 35,Allocated,Voicetec Systems Ltd,10 digit numbers,14/09/2011
-9842 36,Quarantined,,10 digit numbers,
 9842 37,Allocated,Voicetec Systems Ltd,10 digit numbers,14/09/2011
-9842 38,Quarantined,,10 digit numbers,
 9842 39,Allocated,Voicetec Systems Ltd,10 digit numbers,14/09/2011
-9842 40,Quarantined,,10 digit numbers,
 9842 41,Allocated,Voicetec Systems Ltd,10 digit numbers,14/09/2011
-9842 43,Quarantined,,10 digit numbers,
 9842 44,Allocated,Voicetec Systems Ltd,10 digit numbers,14/09/2011
-9842 45,Quarantined,,10 digit numbers,
 9842 46,Allocated,Voicetec Systems Ltd,10 digit numbers,14/09/2011
-9842 47,Quarantined,,10 digit numbers,
 9842 48,Allocated,Voicetec Systems Ltd,10 digit numbers,14/09/2011
-9842 49,Quarantined,,10 digit numbers,
 9842 50,Allocated,Voicetec Systems Ltd,10 digit numbers,14/09/2011
-9842 51,Quarantined,,10 digit numbers,
 9842 52,Allocated,Voicetec Systems Ltd,10 digit numbers,14/09/2011
-9842 53,Quarantined,,10 digit numbers,
 9842 54,Allocated,Voicetec Systems Ltd,10 digit numbers,14/09/2011
-9842 55,Quarantined,,10 digit numbers,
 9842 56,Allocated,Voicetec Systems Ltd,10 digit numbers,14/09/2011
-9842 57,Quarantined,,10 digit numbers,
 9842 58,Allocated,Voicetec Systems Ltd,10 digit numbers,14/09/2011
-9842 59,Quarantined,,10 digit numbers,
 9842 60,Allocated,Voicetec Systems Ltd,10 digit numbers,14/09/2011
-9842 61,Quarantined,,10 digit numbers,
 9842 62,Allocated,Voicetec Systems Ltd,10 digit numbers,14/09/2011
-9842 63,Quarantined,,10 digit numbers,
 9842 64,Allocated,Voicetec Systems Ltd,10 digit numbers,14/09/2011
-9842 65,Quarantined,,10 digit numbers,
 9842 66,Allocated,Voicetec Systems Ltd,10 digit numbers,14/09/2011
-9842 67,Quarantined,,10 digit numbers,
 9842 68,Allocated,Voicetec Systems Ltd,10 digit numbers,14/09/2011
-9842 69,Quarantined,,10 digit numbers,
 9842 70,Allocated,Voicetec Systems Ltd,10 digit numbers,14/09/2011
-9842 71,Quarantined,,10 digit numbers,
 9842 72,Allocated,Voicetec Systems Ltd,10 digit numbers,14/09/2011
-9842 73,Quarantined,,10 digit numbers,
 9842 74,Allocated,Voicetec Systems Ltd,10 digit numbers,14/09/2011
 9842 75,Allocated,Voicetec Systems Ltd,10 digit numbers,14/09/2011
 9842 76,Allocated,Voicetec Systems Ltd,10 digit numbers,14/09/2011
@@ -7852,12 +7786,9 @@ NMS Number Block: Number Block,Block Status,CP Name,Non Geo Number Length,Alloca
 9846 73,Allocated,TalkTalk Communications Limited,10 digit numbers,10/06/2016
 9846 74,Allocated,Supported Business Limited,10 digit numbers,21/06/2016
 9846 75,Allocated,Telemix Limited,10 digit numbers,26/02/2015
-9846 77,Quarantined,,10 digit numbers,
 9846 78,Allocated,Supported Business Limited,10 digit numbers,21/06/2016
 9846 79,Allocated,Supported Business Limited,10 digit numbers,21/06/2016
-9846 80,Quarantined,,10 digit numbers,
 9846 81,Allocated,Telecom2 Limited,10 digit numbers,11/02/2016
-9846 82,Quarantined,,10 digit numbers,
 9846 83,Allocated,Telecom2 Limited,10 digit numbers,11/02/2016
 9846 84,Allocated,Telecom2 Limited,10 digit numbers,11/02/2016
 9846 85,Allocated,Telecom2 Limited,10 digit numbers,11/02/2016

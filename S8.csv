@@ -481,7 +481,7 @@ NMS Number Block: Number Block,Block Status,CP Name,Non Geo Number Length,Alloca
 8000 99 4,Free,,10 digit numbers,
 8000 99 5,Allocated,Bink Broadband Ltd,10 digit numbers,19/05/2015
 8000 99 6,Allocated,Telecoms World Direct Limited,10 digit numbers,12/06/2014
-8000 99 7,Allocated,Twelve Telecom Limited,10 digit numbers,25/04/2013
+8000 99 7,Allocated,10EX NET LIMITED,10 digit numbers,17/09/2026
 8000 99 8,Allocated,Digital Select Limited,10 digit numbers,05/03/2013
 8001 00,Allocated(Closed Range),BT,9 digit numbers,
 8001 01 0,Allocated(Closed Range),BT,9 digit numbers,22/01/2003
@@ -8220,7 +8220,6 @@ NMS Number Block: Number Block,Block Status,CP Name,Non Geo Number Length,Alloca
 8435 08,Allocated,Mintaka Limited,10 digit numbers,05/03/2010
 8435 09,Allocated,Invosys Limited,10 digit numbers,28/06/2012
 8435 10,Allocated,Nuso Cloud UK Limited,10 digit numbers,08/07/2011
-8435 11,Quarantined,,10 digit numbers,
 8435 12,Allocated,Windsor Telecom Limited,10 digit numbers,13/06/2011
 8435 13,Allocated,Plus Telecom Limited,10 digit numbers,22/03/2010
 8435 14,Allocated,Plus Telecom Limited,10 digit numbers,22/03/2010
@@ -8425,14 +8424,11 @@ NMS Number Block: Number Block,Block Status,CP Name,Non Geo Number Length,Alloca
 8438 32,Allocated,Numbers Telecom Limited,10 digit numbers,01/02/2016
 8438 33,Allocated,Cloudcall Limited,10 digit numbers,24/04/2012
 8438 34,Allocated,Liquid 11 Limited,10 digit numbers,25/01/2013
-8438 35,Quarantined,,10 digit numbers,
 8438 36,Allocated,BT,10 digit numbers,20/02/2013
 8438 37,Allocated,HAVENSTOKE COMMUNICATIONS LTD,10 digit numbers,17/03/2026
 8438 38,Allocated,Cloud Telecom Ltd,10 digit numbers,07/02/2012
 8438 39,Allocated,BT,10 digit numbers,20/02/2013
-8438 40,Quarantined,,10 digit numbers,
 8438 41,Allocated,BT,10 digit numbers,20/02/2013
-8438 42,Quarantined,,10 digit numbers,
 8438 45,Allocated,Simple Call Limited,10 digit numbers,12/05/2022
 8438 46,Allocated,Simple Call Limited,10 digit numbers,12/05/2022
 8438 47,Allocated,Simple Call Limited,10 digit numbers,12/05/2022
@@ -10611,7 +10607,6 @@ NMS Number Block: Number Block,Block Status,CP Name,Non Geo Number Length,Alloca
 8706 55,Allocated,Digital Select Limited,10 digit numbers,03/05/2017
 8706 56,Allocated,Digital Select Limited,10 digit numbers,03/05/2017
 8706 57,Allocated,Digital Select Limited,10 digit numbers,03/05/2017
-8706 58,Quarantined,,10 digit numbers,
 8706 59,Allocated,Nuso Cloud UK Limited,10 digit numbers,20/09/2017
 8706 60,Allocated,Digital Select Limited,10 digit numbers,03/05/2017
 8706 61,Allocated,Digital Select Limited,10 digit numbers,03/05/2017
@@ -11754,7 +11749,6 @@ NMS Number Block: Number Block,Block Status,CP Name,Non Geo Number Length,Alloca
 8725 41,Quarantined,,10 digit numbers,
 8725 42,Quarantined,,10 digit numbers,
 8725 43,Quarantined,,10 digit numbers,
-8725 47,Quarantined,,10 digit numbers,
 8725 48,Allocated,Planet Telecom Ltd,10 digit numbers,10/08/2011
 8725 49,Allocated,Planet Telecom Ltd,10 digit numbers,10/08/2011
 8725 51,Allocated,Swiftnet Limited,10 digit numbers,07/08/2017
@@ -11767,7 +11761,6 @@ NMS Number Block: Number Block,Block Status,CP Name,Non Geo Number Length,Alloca
 8725 60,Allocated,Planet Telecom Ltd,10 digit numbers,10/08/2011
 8725 61,Allocated,Planet Telecom Ltd,10 digit numbers,10/08/2011
 8725 62,Allocated,Planet Telecom Ltd,10 digit numbers,10/08/2011
-8725 63,Quarantined,,10 digit numbers,
 8725 64,Allocated,Firstsound Ltd,10 digit numbers,25/08/2011
 8725 66,Allocated,Firstsound Ltd,10 digit numbers,25/08/2011
 8725 68,Allocated,Firstsound Ltd,10 digit numbers,25/08/2011
@@ -11830,15 +11823,11 @@ NMS Number Block: Number Block,Block Status,CP Name,Non Geo Number Length,Alloca
 8726 57,Allocated,Numbers Telecom Limited,10 digit numbers,01/02/2016
 8726 58,Allocated,Twelve Telecom Limited,10 digit numbers,21/05/2013
 8726 59,Quarantined,,10 digit numbers,
-8726 61,Quarantined,,10 digit numbers,
 8726 62,Allocated,Telecom2 Limited,10 digit numbers,07/06/2012
 8726 63,Allocated,Zestel Limited,10 digit numbers,19/02/2013
-8726 64,Quarantined,,10 digit numbers,
 8726 65,Allocated,Budget Numbers Limited,10 digit numbers,02/01/2013
 8726 67,Allocated,Zestel Limited,10 digit numbers,19/02/2013
-8726 68,Quarantined,,10 digit numbers,
 8726 69,Allocated,Zestel Limited,10 digit numbers,19/02/2013
-8726 79,Quarantined,,10 digit numbers,
 8726 80,Allocated,Cloudcall Limited,10 digit numbers,24/04/2012
 8726 81,Allocated,Twelve Telecom Limited,10 digit numbers,21/05/2013
 8726 82,Allocated,Jtec UK Limited,10 digit numbers,06/03/2013

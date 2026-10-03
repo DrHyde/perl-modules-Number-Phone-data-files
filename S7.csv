@@ -334,7 +334,7 @@ NMS Number Block: Number Block,Block Status,CP Name,Non Geo Number Length,Alloca
 7011 96,Protected,,10 digit numbers,
 7011 97,Allocated,Internet of Things Limited,10 digit numbers,13/07/2021
 7011 98,Protected,,10 digit numbers,
-7011 99,Allocated,Twelve Telecom Limited,10 digit numbers,04/12/2013
+7011 99,Quarantined,,10 digit numbers,
 7012 00,Protected,,10 digit numbers,
 7012 01,Protected,,10 digit numbers,
 7012 02,Protected,,10 digit numbers,
@@ -549,7 +549,7 @@ NMS Number Block: Number Block,Block Status,CP Name,Non Geo Number Length,Alloca
 7023 83,Allocated,Sound Advertising Ltd,10 digit numbers,10/03/2011
 7023 84,Allocated,Nuso Cloud UK Limited,10 digit numbers,25/05/2011
 7023 85,Protected,,10 digit numbers,
-7023 86,Quarantined,,10 digit numbers,
+7023 86,Protected,,10 digit numbers,
 7023 87,Protected,,10 digit numbers,
 7023 88,Allocated,Phone Co-Op Numbering Limited,10 digit numbers,07/03/2011
 7023 89,Protected,,10 digit numbers,
@@ -2359,7 +2359,7 @@ NMS Number Block: Number Block,Block Status,CP Name,Non Geo Number Length,Alloca
 7087 65,Protected,,10 digit numbers,
 7087 66,Allocated,TAP GATEWAY LTD,10 digit numbers,02/07/2020
 7087 67,Protected,,10 digit numbers,
-7087 68,Quarantined,,10 digit numbers,
+7087 68,Protected,,10 digit numbers,
 7087 69,Allocated,TAP GATEWAY LTD,10 digit numbers,02/07/2020
 7087 70,Quarantined,,10 digit numbers,
 7087 71,Allocated,TAP GATEWAY LTD,10 digit numbers,02/07/2020
@@ -2973,7 +2973,7 @@ NMS Number Block: Number Block,Block Status,CP Name,Non Geo Number Length,Alloca
 7098 47,Protected,,10 digit numbers,
 7098 48,Protected,,10 digit numbers,
 7098 49,Protected,,10 digit numbers,
-7098 50,Allocated,Twelve Telecom Limited,10 digit numbers,04/12/2013
+7098 50,Quarantined,,10 digit numbers,
 7098 51,Protected,,10 digit numbers,
 7098 52,Protected,,10 digit numbers,
 7098 53,Protected,,10 digit numbers,

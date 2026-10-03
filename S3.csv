@@ -4354,7 +4354,7 @@ NMS Number Block: Number Block,Block Status,CP Name,Non Geo Number Length,Alloca
 3309 74,Free,,10 digit numbers,,
 3309 75,Free,,10 digit numbers,,
 3309 76,Free,,10 digit numbers,,
-3309 77,Allocated,Twelve Telecom Limited,10 digit numbers,25/04/2013,
+3309 77,Allocated,10EX NET LIMITED,10 digit numbers,17/09/2026,
 3309 78,Free,,10 digit numbers,,
 3309 79,Free,,10 digit numbers,,
 3309 80,Free,,10 digit numbers,,
@@ -13725,3 +13725,4 @@ NMS Number Block: Number Block,Block Status,CP Name,Non Geo Number Length,Alloca
 3997,Protected,,10 digit numbers,,
 3998,Protected,,10 digit numbers,,
 3999,Protected,,10 digit numbers,,
+,,,,,
